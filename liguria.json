@@ -1,0 +1,872 @@
+[
+    {
+        "id": "SSGIU",
+        "nome": "Stella S. Giustina",
+        "comune": "Stella",
+        "lat": 44.41582,
+        "lon": 8.48252,
+        "alt": 349,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.0,
+            "soglia3": 2.7
+        },
+        "bacino": "Sansobbia",
+        "sottobacino": "Sansobbia"
+    },
+    {
+        "id": "CAMPL",
+        "nome": "Campo Ligure",
+        "comune": "Campo Ligure",
+        "lat": 44.54256,
+        "lon": 8.6939,
+        "alt": 338,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.5,
+            "soglia3": 4.0
+        },
+        "bacino": "Stura",
+        "sottobacino": "Stura"
+    },
+    {
+        "id": "VIGNO",
+        "nome": "Vignolo",
+        "comune": "Mezzanego",
+        "lat": 44.38149,
+        "lon": 9.3738,
+        "alt": 71,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.2,
+            "soglia3": 4.1
+        },
+        "bacino": "Entella",
+        "sottobacino": "Sturla"
+    },
+    {
+        "id": "PBATT",
+        "nome": "Piana Battolla - Ponte",
+        "comune": "Follo",
+        "lat": 44.19801,
+        "lon": 9.84904,
+        "alt": 48,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 5.0
+        },
+        "bacino": "Magra",
+        "sottobacino": "Vara"
+    },
+    {
+        "id": "MURIA",
+        "nome": "Murialdo",
+        "comune": "Murialdo",
+        "lat": 44.31321,
+        "lon": 8.15981,
+        "alt": 523,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.0,
+            "soglia3": 2.5
+        },
+        "bacino": "Bormida di Millesimo",
+        "sottobacino": "Bormida di Millesimo"
+    },
+    {
+        "id": "LICCN",
+        "nome": "Licciana Nardi",
+        "comune": "Licciana Nardi",
+        "lat": 44.24267,
+        "lon": 10.00343,
+        "alt": 121,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.5,
+            "soglia3": 3.5
+        },
+        "bacino": "Magra",
+        "sottobacino": "Taverone"
+    },
+    {
+        "id": "ISBON",
+        "nome": "Isolabona",
+        "comune": "Isolabona",
+        "lat": 43.87765,
+        "lon": 7.63767,
+        "alt": 95,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.3,
+            "soglia3": 4.3
+        },
+        "bacino": "Nervia",
+        "sottobacino": "Nervia"
+    },
+    {
+        "id": "TORRI",
+        "nome": "Torri",
+        "comune": "Ventimiglia",
+        "lat": 43.83782,
+        "lon": 7.55404,
+        "alt": 63,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.5,
+            "soglia3": 3.1
+        },
+        "bacino": "Roya",
+        "sottobacino": "Bevera"
+    },
+    {
+        "id": "ELLRA",
+        "nome": "Ellera - Foglietto",
+        "comune": "Albisola Superiore",
+        "lat": 44.36638,
+        "lon": 8.4667,
+        "alt": 80,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.5,
+            "soglia3": 5.3
+        },
+        "bacino": "Sansobbia",
+        "sottobacino": "Sansobbia"
+    },
+    {
+        "id": "MONTL",
+        "nome": "Montalto Ligure",
+        "comune": "Montalto Carpasio",
+        "lat": 43.93074,
+        "lon": 7.84202,
+        "alt": 240,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 5.0,
+            "soglia3": 7.0
+        },
+        "bacino": "Argentina",
+        "sottobacino": "Argentina"
+    },
+    {
+        "id": "PTEGL",
+        "nome": "Ponte Teglia",
+        "comune": "Pontremoli",
+        "lat": 44.33678,
+        "lon": 9.89905,
+        "alt": 206,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.0,
+            "soglia3": 4.0
+        },
+        "bacino": "Magra",
+        "sottobacino": "Teglia"
+    },
+    {
+        "id": "BGNNE",
+        "nome": "Bagnone",
+        "comune": "Bagnone",
+        "lat": 44.30966,
+        "lon": 9.98416,
+        "alt": 320,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.0,
+            "soglia3": 3.0
+        },
+        "bacino": "Magra",
+        "sottobacino": "Bagnone"
+    },
+    {
+        "id": "DCQUA",
+        "nome": "Dolceacqua - Molinetti",
+        "comune": "Dolceacqua",
+        "lat": 43.86053,
+        "lon": 7.62411,
+        "alt": 60,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 5.0
+        },
+        "bacino": "Nervia",
+        "sottobacino": "Nervia"
+    },
+    {
+        "id": "PANES",
+        "nome": "Panesi",
+        "comune": "Cogorno",
+        "lat": 44.34209,
+        "lon": 9.35624,
+        "alt": 25,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.6,
+            "soglia3": 3.7
+        },
+        "bacino": "Entella",
+        "sottobacino": "Entella"
+    },
+    {
+        "id": "GEPTX",
+        "nome": "Genova - Pontedecimo",
+        "comune": "Genova",
+        "lat": 44.48852,
+        "lon": 8.9001,
+        "alt": 75,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.8,
+            "soglia3": 4.2
+        },
+        "bacino": "Polcevera",
+        "sottobacino": "Polcevera"
+    },
+    {
+        "id": "CABAN",
+        "nome": "Cabanne",
+        "comune": "Rezzoaglio",
+        "lat": 44.4952,
+        "lon": 9.34647,
+        "alt": 809,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.6,
+            "soglia3": 2.7
+        },
+        "bacino": "Aveto",
+        "sottobacino": "Aveto"
+    },
+    {
+        "id": "CENGI",
+        "nome": "Cengio",
+        "comune": "Cengio",
+        "lat": 44.38987,
+        "lon": 8.20417,
+        "alt": 409,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.0,
+            "soglia3": 4.0
+        },
+        "bacino": "Bormida di Millesimo",
+        "sottobacino": "Bormida di Millesimo"
+    },
+    {
+        "id": "MOBRA",
+        "nome": "Albenga - Molino Branca",
+        "comune": "Albenga",
+        "lat": 44.04882,
+        "lon": 8.21077,
+        "alt": 6,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 4.8
+        },
+        "bacino": "Centa",
+        "sottobacino": "Centa"
+    },
+    {
+        "id": "SLPSS",
+        "nome": "Sestri Levante - PonteSS1",
+        "comune": "Sestri Levante",
+        "lat": 44.26672,
+        "lon": 9.4259,
+        "alt": 13,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.7,
+            "soglia3": 4.7
+        },
+        "bacino": "Entella e Magra",
+        "sottobacino": "Petronio"
+    },
+    {
+        "id": "FIRPO",
+        "nome": "Genova - Firpo",
+        "comune": "Genova",
+        "lat": 44.41094,
+        "lon": 8.95395,
+        "alt": 10,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.0,
+            "soglia3": 4.5
+        },
+        "bacino": "Bisagno",
+        "sottobacino": "Bisagno"
+    },
+    {
+        "id": "MONTG",
+        "nome": "Montoggio",
+        "comune": "Montoggio",
+        "lat": 44.51561,
+        "lon": 9.04769,
+        "alt": 442,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 5.0
+        },
+        "bacino": "Scrivia",
+        "sottobacino": "Scrivia"
+    },
+    {
+        "id": "LAMAC",
+        "nome": "La Macchia",
+        "comune": "Varese Ligure",
+        "lat": 44.32323,
+        "lon": 9.61484,
+        "alt": 270,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 0.5,
+            "soglia3": 0.8
+        },
+        "bacino": "Magra",
+        "sottobacino": "Vara"
+    },
+    {
+        "id": "PMAGR",
+        "nome": "Ponte Magra",
+        "comune": "Villafranca in Lunigiana",
+        "lat": 44.29327,
+        "lon": 9.94238,
+        "alt": 118,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.7,
+            "soglia3": 4.3
+        },
+        "bacino": "Magra",
+        "sottobacino": "Magra"
+    },
+    {
+        "id": "SOLIE",
+        "nome": "Soliera",
+        "comune": "Fivizzano",
+        "lat": 44.20233,
+        "lon": 10.06207,
+        "alt": 107,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.5,
+            "soglia3": 4.5
+        },
+        "bacino": "Magra",
+        "sottobacino": "Aulella"
+    },
+    {
+        "id": "MAGSG",
+        "nome": "Pontremoli - S.Giustina",
+        "comune": "Pontremoli",
+        "lat": 44.36184,
+        "lon": 9.89666,
+        "alt": 205,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.4,
+            "soglia3": 2.1
+        },
+        "bacino": "Magra",
+        "sottobacino": "Magra"
+    },
+    {
+        "id": "PICCA",
+        "nome": "Piccatello",
+        "comune": "Pontremoli",
+        "lat": 44.39297,
+        "lon": 9.88566,
+        "alt": 273,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.0,
+            "soglia3": 2.7
+        },
+        "bacino": "Magra",
+        "sottobacino": "Magra"
+    },
+    {
+        "id": "PTECH",
+        "nome": "Pieve di Teco (idro)",
+        "comune": "Pieve di Teco",
+        "lat": 44.04149,
+        "lon": 7.9206,
+        "alt": 230,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 5.0
+        },
+        "bacino": "Centa",
+        "sottobacino": "Arroscia"
+    },
+    {
+        "id": "SMART",
+        "nome": "S. Martino",
+        "comune": "Carasco",
+        "lat": 44.35945,
+        "lon": 9.34391,
+        "alt": 23,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.3,
+            "soglia3": 3.3
+        },
+        "bacino": "Entella",
+        "sottobacino": "Lavagna"
+    },
+    {
+        "id": "SANTU",
+        "nome": "Santuario di Savona",
+        "comune": "Savona",
+        "lat": 44.34555,
+        "lon": 8.43753,
+        "alt": 90,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.0,
+            "soglia3": 3.2
+        },
+        "bacino": "Letimbro",
+        "sottobacino": "Letimbro"
+    },
+    {
+        "id": "SLEVA",
+        "nome": "Sestri Levante",
+        "comune": "Sestri Levante",
+        "lat": 44.27377,
+        "lon": 9.40992,
+        "alt": 10,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.5,
+            "soglia3": 2.5
+        },
+        "bacino": "Entella e Magra",
+        "sottobacino": "Gromolo"
+    },
+    {
+        "id": "ROVPT",
+        "nome": "Rovegno - Ponte",
+        "comune": "Rovegno",
+        "lat": 44.56529,
+        "lon": 9.28156,
+        "alt": 580,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 5.5
+        },
+        "bacino": "Trebbia",
+        "sottobacino": "Trebbia"
+    },
+    {
+        "id": "VAREN",
+        "nome": "Genova - Granara",
+        "comune": "Genova",
+        "lat": 44.43671,
+        "lon": 8.82023,
+        "alt": 20,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.5,
+            "soglia3": 3.5
+        },
+        "bacino": "Sansobbia e Polcevera",
+        "sottobacino": "Varenna"
+    },
+    {
+        "id": "ARMEA",
+        "nome": "Valle Armea - Ponte",
+        "comune": "Sanremo",
+        "lat": 43.83551,
+        "lon": 7.81883,
+        "alt": 41,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.3,
+            "soglia3": 2.0
+        },
+        "bacino": "Nervia e Argentina",
+        "sottobacino": "Armea"
+    },
+    {
+        "id": "RUGGE",
+        "nome": "Rugge di Pontedassio",
+        "comune": "Pontedassio",
+        "lat": 43.94153,
+        "lon": 8.00619,
+        "alt": 67,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.6,
+            "soglia3": 2.7
+        },
+        "bacino": "Impero",
+        "sottobacino": "Impero"
+    },
+    {
+        "id": "AIROL",
+        "nome": "Airole",
+        "comune": "Airole",
+        "lat": 43.87296,
+        "lon": 7.54484,
+        "alt": 103,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 5.5,
+            "soglia3": 7.1
+        },
+        "bacino": "Roya",
+        "sottobacino": "Roya"
+    },
+    {
+        "id": "NASCE",
+        "nome": "Nasceto",
+        "comune": "Sesta Godano",
+        "lat": 44.27808,
+        "lon": 9.65595,
+        "alt": 185,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.5,
+            "soglia3": 5.5
+        },
+        "bacino": "Magra",
+        "sottobacino": "Vara"
+    },
+    {
+        "id": "AMEFM",
+        "nome": "Ameglia Foce Magra",
+        "comune": "Ameglia",
+        "lat": 44.07884,
+        "lon": 9.9722,
+        "alt": 4,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.0,
+            "soglia3": 3.3
+        },
+        "bacino": "Magra",
+        "sottobacino": "Magra"
+    },
+    {
+        "id": "VOBBI",
+        "nome": "Vobbietta",
+        "comune": "Isola del Cantone",
+        "lat": 44.63599,
+        "lon": 8.98149,
+        "alt": 323,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.5,
+            "soglia3": 3.5
+        },
+        "bacino": "Scrivia",
+        "sottobacino": "Vobbia"
+    },
+    {
+        "id": "BOLSN",
+        "nome": "Bolsine",
+        "comune": "Varazze",
+        "lat": 44.37234,
+        "lon": 8.57322,
+        "alt": 26,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.8,
+            "soglia3": 2.5
+        },
+        "bacino": "Sansobbia e Polcevera",
+        "sottobacino": "Teiro"
+    },
+    {
+        "id": "BVARA",
+        "nome": "Brugnato",
+        "comune": "Brugnato",
+        "lat": 44.23132,
+        "lon": 9.71552,
+        "alt": 112,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.8,
+            "soglia3": 3.8
+        },
+        "bacino": "Magra",
+        "sottobacino": "Vara"
+    },
+    {
+        "id": "CALAM",
+        "nome": "Calamazza",
+        "comune": "Aulla",
+        "lat": 44.19802,
+        "lon": 9.95015,
+        "alt": 45,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 5.7
+        },
+        "bacino": "Magra",
+        "sottobacino": "Magra"
+    },
+    {
+        "id": "CAMIN",
+        "nome": "Caminata",
+        "comune": "Ne",
+        "lat": 44.34004,
+        "lon": 9.41004,
+        "alt": 90,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.9,
+            "soglia3": 2.8
+        },
+        "bacino": "Entella",
+        "sottobacino": "Graveglia"
+    },
+    {
+        "id": "CARAS",
+        "nome": "Carasco",
+        "comune": "Carasco",
+        "lat": 44.34615,
+        "lon": 9.34825,
+        "alt": 26,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.5,
+            "soglia3": 5.5
+        },
+        "bacino": "Entella",
+        "sottobacino": "Lavagna"
+    },
+    {
+        "id": "CARCA",
+        "nome": "Carcare",
+        "comune": "Carcare",
+        "lat": 44.35662,
+        "lon": 8.28944,
+        "alt": 348,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.3,
+            "soglia3": 2.8
+        },
+        "bacino": "Bormida di Spigno",
+        "sottobacino": "Bormida di Pallare"
+    },
+    {
+        "id": "CISAN",
+        "nome": "Cisano sul Neva",
+        "comune": "Cisano sul Neva",
+        "lat": 44.08552,
+        "lon": 8.14573,
+        "alt": 52,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.8,
+            "soglia3": 4.0
+        },
+        "bacino": "Centa",
+        "sottobacino": "Neva"
+    },
+    {
+        "id": "GERIV",
+        "nome": "Genova - Rivarolo",
+        "comune": "Genova",
+        "lat": 44.43788,
+        "lon": 8.88952,
+        "alt": 26,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.8,
+            "soglia3": 5.0
+        },
+        "bacino": "Polcevera",
+        "sottobacino": "Polcevera"
+    },
+    {
+        "id": "FERRA",
+        "nome": "Ferrania",
+        "comune": "Cairo Montenotte",
+        "lat": 44.36694,
+        "lon": 8.32248,
+        "alt": 358,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.0,
+            "soglia3": 3.5
+        },
+        "bacino": "Bormida di Spigno",
+        "sottobacino": "Bormida di Spigno"
+    },
+    {
+        "id": "GEMOL",
+        "nome": "Genova - Molassana",
+        "comune": "Genova",
+        "lat": 44.45433,
+        "lon": 8.98654,
+        "alt": 62,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.6,
+            "soglia3": 3.5
+        },
+        "bacino": "Bisagno",
+        "sottobacino": "Bisagno"
+    },
+    {
+        "id": "FRNLA",
+        "nome": "Fornola",
+        "comune": "Vezzano Ligure",
+        "lat": 44.13805,
+        "lon": 9.90619,
+        "alt": 25,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.8,
+            "soglia3": 5.0
+        },
+        "bacino": "Magra",
+        "sottobacino": "Magra"
+    },
+    {
+        "id": "GSTUR",
+        "nome": "Genova - Sturla",
+        "comune": "Genova",
+        "lat": 44.39625,
+        "lon": 8.98468,
+        "alt": 10,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.5,
+            "soglia3": 2.4
+        },
+        "bacino": "Bisagno ed Entella",
+        "sottobacino": "Sturla"
+    },
+    {
+        "id": "LAPRS",
+        "nome": "La Presa",
+        "comune": "Genova",
+        "lat": 44.44076,
+        "lon": 9.04717,
+        "alt": 150,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.5,
+            "soglia3": 3.0
+        },
+        "bacino": "Bisagno",
+        "sottobacino": "Bisagno"
+    },
+    {
+        "id": "GEFER",
+        "nome": "Genova - Fereggiano",
+        "comune": "Genova",
+        "lat": 44.42032,
+        "lon": 8.97019,
+        "alt": 55,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 1.3,
+            "soglia3": 1.5
+        },
+        "bacino": "Bisagno",
+        "sottobacino": "Fereggiano"
+    },
+    {
+        "id": "GEGEI",
+        "nome": "Genova - Geirato",
+        "comune": "Genova",
+        "lat": 44.45966,
+        "lon": 8.97959,
+        "alt": 70,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.0,
+            "soglia3": 3.0
+        },
+        "bacino": "Bisagno",
+        "sottobacino": "Geirato"
+    },
+    {
+        "id": "PCRIX",
+        "nome": "Piana Crixia",
+        "comune": "Piana Crixia",
+        "lat": 44.48618,
+        "lon": 8.30735,
+        "alt": 267,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 4.0,
+            "soglia3": 5.0
+        },
+        "bacino": "Bormida di Spigno",
+        "sottobacino": "Bormida di Spigno"
+    },
+    {
+        "id": "TIGLT",
+        "nome": "Tiglieto",
+        "comune": "Tiglieto",
+        "lat": 44.52561,
+        "lon": 8.60839,
+        "alt": 500,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.5,
+            "soglia3": 4.5
+        },
+        "bacino": "Orba",
+        "sottobacino": "Orba"
+    },
+    {
+        "id": "MOLIN",
+        "nome": "Molinetto",
+        "comune": "Genova",
+        "lat": 44.43946,
+        "lon": 8.74603,
+        "alt": 35,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 2.4,
+            "soglia3": 3.8
+        },
+        "bacino": "Sansobbia e Polcevera",
+        "sottobacino": "Leira"
+    },
+    {
+        "id": "POGLI",
+        "nome": "Pogli d'Ortovero",
+        "comune": "Ortovero",
+        "lat": 44.05445,
+        "lon": 8.06393,
+        "alt": 90,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.5,
+            "soglia3": 5.0
+        },
+        "bacino": "Centa",
+        "sottobacino": "Arroscia"
+    },
+    {
+        "id": "AMERE",
+        "nome": "Merelli",
+        "comune": "Taggia",
+        "lat": 43.88137,
+        "lon": 7.84759,
+        "alt": 70,
+        "soglie": {
+            "soglia1": null,
+            "soglia2": 3.0,
+            "soglia3": 4.5
+        },
+        "bacino": "Argentina",
+        "sottobacino": "Argentina"
+    }
+]
