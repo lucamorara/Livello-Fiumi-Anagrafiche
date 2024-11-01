@@ -4,8 +4,8 @@
         "nome": "Firenzuola idro",
         "bacino": "Santerno",
         "sottobacino": "Santerno",
-        "altitudine": 279.0,
-        "latitudine": 11.45426,
+        "altitudine": 279,
+        "latitudine": 44.1521,
         "longitudine": 11.45426,
         "macroarea": "Alto Reno",
         "comune": "Firenzuola",
@@ -22,8 +22,8 @@
         "nome": "Mignano Diga",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 342.0,
-        "latitudine": 9.800531,
+        "altitudine": 342,
+        "latitudine": 44.771376,
         "longitudine": 9.800531,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Vernasca",
@@ -40,8 +40,8 @@
         "nome": "C.A.A.A.",
         "bacino": "Pianura Fra Chiavenna E Arda",
         "sottobacino": "Canale Acque Alte",
-        "altitudine": 42.0,
-        "latitudine": 9.995448,
+        "altitudine": 42,
+        "latitudine": 45.021391,
         "longitudine": 9.995448,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Villanova sull'Arda",
@@ -58,8 +58,8 @@
         "nome": "Villanova",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 43.0,
-        "latitudine": 9.995309,
+        "altitudine": 43,
+        "latitudine": 45.020294,
         "longitudine": 9.995309,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Villanova sull'Arda",
@@ -76,8 +76,8 @@
         "nome": "Fusignano",
         "bacino": "Senio",
         "sottobacino": "Senio",
-        "altitudine": 18.0,
-        "latitudine": 11.968298,
+        "altitudine": 18,
+        "latitudine": 44.465377,
         "longitudine": 11.968298,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Bagnacavallo",
@@ -86,7 +86,7 @@
         "soglie": {
             "soglia1": 8.65,
             "soglia2": 10.4,
-            "soglia3": 12.0
+            "soglia3": 12
         }
     },
     {
@@ -94,8 +94,8 @@
         "nome": "Montanaro",
         "bacino": "Chiavenna",
         "sottobacino": "Riglio",
-        "altitudine": 87.0,
-        "latitudine": 9.797352,
+        "altitudine": 87,
+        "latitudine": 44.942519,
         "longitudine": 9.797352,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Carpaneto Piacentino",
@@ -104,7 +104,7 @@
         "soglie": {
             "soglia1": 1.6,
             "soglia2": 2.6,
-            "soglia3": 4.0
+            "soglia3": 4
         }
     },
     {
@@ -112,8 +112,8 @@
         "nome": "Rossenna",
         "bacino": "Secchia",
         "sottobacino": "Rossenna",
-        "altitudine": 250.0,
-        "latitudine": 10.667628,
+        "altitudine": 250,
+        "latitudine": 44.430042,
         "longitudine": 10.667628,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Prignano sulla Secchia",
@@ -130,8 +130,8 @@
         "nome": "Forcelli",
         "bacino": "Samoggia",
         "sottobacino": "Samoggia",
-        "altitudine": 24.0,
-        "latitudine": 11.237583,
+        "altitudine": 24,
+        "latitudine": 44.621961,
         "longitudine": 11.237583,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "San Giovanni in Persiceto",
@@ -148,8 +148,8 @@
         "nome": "Portonovo",
         "bacino": "Sillaro",
         "sottobacino": "Sillaro",
-        "altitudine": 19.0,
-        "latitudine": 11.764218,
+        "altitudine": 19,
+        "latitudine": 44.52811,
         "longitudine": 11.764218,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Medicina",
@@ -158,7 +158,7 @@
         "soglie": {
             "soglia1": 10.3,
             "soglia2": 11.8,
-            "soglia3": 13.0
+            "soglia3": 13
         }
     },
     {
@@ -166,8 +166,8 @@
         "nome": "Corniglio",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 544.0,
-        "latitudine": 10.099499,
+        "altitudine": 544,
+        "latitudine": 44.487276,
         "longitudine": 10.099499,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Corniglio",
@@ -184,8 +184,8 @@
         "nome": "Colorno AIPO",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 32.0,
-        "latitudine": 10.37523,
+        "altitudine": 32,
+        "latitudine": 44.930577,
         "longitudine": 10.37523,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Colorno",
@@ -194,7 +194,7 @@
         "soglie": {
             "soglia1": 5.2,
             "soglia2": 6.2,
-            "soglia3": 8.0
+            "soglia3": 8
         }
     },
     {
@@ -202,15 +202,15 @@
         "nome": "Ca' de Caroli",
         "bacino": "Secchia",
         "sottobacino": "Tresinaro",
-        "altitudine": 98.0,
-        "latitudine": 10.67689,
+        "altitudine": 98,
+        "latitudine": 44.595499,
         "longitudine": 10.67689,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Scandiano",
         "provincia": "Reggio nell'Emilia",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.5,
             "soglia3": 2.7
         }
@@ -220,8 +220,8 @@
         "nome": "Cadelbosco",
         "bacino": "Crostolo",
         "sottobacino": "Crostolo",
-        "altitudine": 38.0,
-        "latitudine": 10.58119,
+        "altitudine": 38,
+        "latitudine": 44.778796,
         "longitudine": 10.58119,
         "macroarea": "Pianura Mo-Re",
         "comune": "Cadelbosco di Sopra",
@@ -229,8 +229,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 5.6,
-            "soglia2": 7.0,
-            "soglia3": 8.0
+            "soglia2": 7,
+            "soglia3": 8
         }
     },
     {
@@ -238,8 +238,8 @@
         "nome": "Santarcangelo di Romagna",
         "bacino": "Uso",
         "sottobacino": "Uso",
-        "altitudine": 38.0,
-        "latitudine": 12.437514,
+        "altitudine": 38,
+        "latitudine": 44.068324,
         "longitudine": 12.437514,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Santarcangelo di Romagna",
@@ -256,8 +256,8 @@
         "nome": "Fornovo",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 142.0,
-        "latitudine": 10.096373,
+        "altitudine": 142,
+        "latitudine": 44.695238,
         "longitudine": 10.096373,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Fornovo di Taro",
@@ -274,8 +274,8 @@
         "nome": "Bellocchio",
         "bacino": null,
         "sottobacino": null,
-        "altitudine": 0.0,
-        "latitudine": 12.235556,
+        "altitudine": 0,
+        "latitudine": 44.620278,
         "longitudine": 12.235556,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Comacchio",
@@ -287,8 +287,8 @@
         "nome": "Rimini SS16",
         "bacino": "Marecchia",
         "sottobacino": "Marecchia",
-        "altitudine": 10.0,
-        "latitudine": 12.541973,
+        "altitudine": 10,
+        "latitudine": 44.061411,
         "longitudine": 12.541973,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Rimini",
@@ -296,7 +296,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.2,
-            "soglia2": 3.0,
+            "soglia2": 3,
             "soglia3": 3.8
         }
     },
@@ -305,8 +305,8 @@
         "nome": "Ponte Nibbiano Tidoncello",
         "bacino": "Tidone",
         "sottobacino": "Tidoncello",
-        "altitudine": 280.0,
-        "latitudine": 9.33395,
+        "altitudine": 280,
+        "latitudine": 44.9054,
         "longitudine": 9.33395,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Alta Val Tidone",
@@ -323,8 +323,8 @@
         "nome": "Calisese",
         "bacino": "Rubicone",
         "sottobacino": "Pisciatello",
-        "altitudine": 40.0,
-        "latitudine": 12.295992,
+        "altitudine": 40,
+        "latitudine": 44.113389,
         "longitudine": 12.295992,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Cesena",
@@ -333,7 +333,7 @@
         "soglie": {
             "soglia1": 0.1,
             "soglia2": 0.8,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -341,8 +341,8 @@
         "nome": "Parma Ovest",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 64.0,
-        "latitudine": 10.224643,
+        "altitudine": 64,
+        "latitudine": 44.822626,
         "longitudine": 10.224643,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -351,7 +351,7 @@
         "soglie": {
             "soglia1": 0.8,
             "soglia2": 1.7,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -359,8 +359,8 @@
         "nome": "Lonza",
         "bacino": "Enza",
         "sottobacino": "Lonza",
-        "altitudine": 381.0,
-        "latitudine": 10.325267,
+        "altitudine": 381,
+        "latitudine": 44.466965,
         "longitudine": 10.325267,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Vetto",
@@ -377,8 +377,8 @@
         "nome": "Ponte Nibbiano",
         "bacino": "Tidone",
         "sottobacino": "Tidone",
-        "altitudine": 278.0,
-        "latitudine": 9.332744,
+        "altitudine": 278,
+        "latitudine": 44.905062,
         "longitudine": 9.332744,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Alta Val Tidone",
@@ -395,8 +395,8 @@
         "nome": "Selvanizza",
         "bacino": "Enza",
         "sottobacino": "Cedra",
-        "altitudine": 474.0,
-        "latitudine": 10.235666,
+        "altitudine": 474,
+        "latitudine": 44.439989,
         "longitudine": 10.235666,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Palanzano",
@@ -405,7 +405,7 @@
         "soglie": {
             "soglia1": 2.5,
             "soglia2": 3.2,
-            "soglia3": 4.0
+            "soglia3": 4
         }
     },
     {
@@ -413,8 +413,8 @@
         "nome": "Veggiola",
         "bacino": "Chiavenna",
         "sottobacino": "Riglio",
-        "altitudine": 202.0,
-        "latitudine": 9.722441,
+        "altitudine": 202,
+        "latitudine": 44.869712,
         "longitudine": 9.722441,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Gropparello",
@@ -431,8 +431,8 @@
         "nome": "Accursi cassa",
         "bacino": "Pianura Reno",
         "sottobacino": "Pianura Reno",
-        "altitudine": 18.0,
-        "latitudine": 11.711649,
+        "altitudine": 18,
+        "latitudine": 44.576264,
         "longitudine": 11.711649,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Medicina",
@@ -449,8 +449,8 @@
         "nome": "Bondanello",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 21.0,
-        "latitudine": 10.955002,
+        "altitudine": 21,
+        "latitudine": 44.961386,
         "longitudine": 10.955002,
         "macroarea": null,
         "comune": "Quistello",
@@ -467,8 +467,8 @@
         "nome": "Toccalmatto",
         "bacino": "Taro",
         "sottobacino": "Rovacchia",
-        "altitudine": 61.0,
-        "latitudine": 10.10614,
+        "altitudine": 61,
+        "latitudine": 44.882871,
         "longitudine": 10.10614,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Fidenza",
@@ -476,7 +476,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.5,
-            "soglia2": 4.0,
+            "soglia2": 4,
             "soglia3": 4.5
         }
     },
@@ -485,8 +485,8 @@
         "nome": "Borello",
         "bacino": "Savio",
         "sottobacino": "Borello",
-        "altitudine": 72.0,
-        "latitudine": 12.177013,
+        "altitudine": 72,
+        "latitudine": 44.050772,
         "longitudine": 12.177013,
         "macroarea": "Bacini Romagnoli",
         "comune": "Mercato Saraceno",
@@ -494,8 +494,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.5,
-            "soglia2": 1.0,
-            "soglia3": 2.0
+            "soglia2": 1,
+            "soglia3": 2
         }
     },
     {
@@ -503,8 +503,8 @@
         "nome": "Accursi Idice",
         "bacino": "Idice",
         "sottobacino": "Idice",
-        "altitudine": 18.0,
-        "latitudine": 11.711542,
+        "altitudine": 18,
+        "latitudine": 44.576114,
         "longitudine": 11.711542,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Medicina",
@@ -521,8 +521,8 @@
         "nome": "Ponte Braldo",
         "bacino": "Montone",
         "sottobacino": "Montone",
-        "altitudine": 26.0,
-        "latitudine": 11.992953,
+        "altitudine": 26,
+        "latitudine": 44.262794,
         "longitudine": 11.992953,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Forlì",
@@ -531,7 +531,7 @@
         "soglie": {
             "soglia1": 4.5,
             "soglia2": 6.5,
-            "soglia3": 8.0
+            "soglia3": 8
         }
     },
     {
@@ -539,8 +539,8 @@
         "nome": "Luretta",
         "bacino": "Tidone",
         "sottobacino": "Luretta",
-        "altitudine": 81.0,
-        "latitudine": 9.537778,
+        "altitudine": 81,
+        "latitudine": 45.016944,
         "longitudine": 9.537778,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Gragnano Trebbiense",
@@ -557,8 +557,8 @@
         "nome": "Cento",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 26.0,
-        "latitudine": 11.295791,
+        "altitudine": 26,
+        "latitudine": 44.721209,
         "longitudine": 11.295791,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Cento",
@@ -566,7 +566,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 5.5,
-            "soglia2": 7.0,
+            "soglia2": 7,
             "soglia3": 8.7
         }
     },
@@ -575,8 +575,8 @@
         "nome": "Cotignola",
         "bacino": "Senio",
         "sottobacino": "Senio",
-        "altitudine": 25.0,
-        "latitudine": 11.942464,
+        "altitudine": 25,
+        "latitudine": 44.383051,
         "longitudine": 11.942464,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Cotignola",
@@ -585,7 +585,7 @@
         "soglie": {
             "soglia1": 11.45,
             "soglia2": 13.6,
-            "soglia3": 15.0
+            "soglia3": 15
         }
     },
     {
@@ -593,8 +593,8 @@
         "nome": "Noceto",
         "bacino": "Taro",
         "sottobacino": "Recchio",
-        "altitudine": 80.0,
-        "latitudine": 10.169464,
+        "altitudine": 80,
+        "latitudine": 44.80862,
         "longitudine": 10.169464,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Noceto",
@@ -602,7 +602,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.5,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 2.8
         }
     },
@@ -611,8 +611,8 @@
         "nome": "Ponte Calanca",
         "bacino": "Montone",
         "sottobacino": "Rabbi",
-        "altitudine": 56.0,
-        "latitudine": 12.009565,
+        "altitudine": 56,
+        "latitudine": 44.163848,
         "longitudine": 12.009565,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Forlì",
@@ -621,7 +621,7 @@
         "soglie": {
             "soglia1": 0.9,
             "soglia2": 1.3,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -629,16 +629,16 @@
         "nome": "Chiavicone Reno",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 15.0,
-        "latitudine": 11.861555,
+        "altitudine": 15,
+        "latitudine": 44.57932,
         "longitudine": 11.861555,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
         "provincia": "Ferrara",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 8.0,
-            "soglia2": 10.0,
+            "soglia1": 8,
+            "soglia2": 10,
             "soglia3": 11.1
         }
     },
@@ -647,8 +647,8 @@
         "nome": "Parma cassa invaso CAE",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 110.0,
-        "latitudine": 10.3431,
+        "altitudine": 110,
+        "latitudine": 44.73816,
         "longitudine": 10.3431,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -665,8 +665,8 @@
         "nome": "Invaso",
         "bacino": "Reno",
         "sottobacino": "Setta",
-        "altitudine": 460.0,
-        "latitudine": 11.222566,
+        "altitudine": 460,
+        "latitudine": 44.226253,
         "longitudine": 11.222566,
         "macroarea": "Alto Reno",
         "comune": "San Benedetto Val di Sambro",
@@ -683,8 +683,8 @@
         "nome": "Pieve Cesato",
         "bacino": "Lamone",
         "sottobacino": "Lamone",
-        "altitudine": 27.0,
-        "latitudine": 11.972299,
+        "altitudine": 27,
+        "latitudine": 44.354734,
         "longitudine": 11.972299,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Faenza",
@@ -693,7 +693,7 @@
         "soglie": {
             "soglia1": 4.5,
             "soglia2": 6.5,
-            "soglia3": 8.0
+            "soglia3": 8
         }
     },
     {
@@ -701,15 +701,15 @@
         "nome": "Imola",
         "bacino": "Santerno",
         "sottobacino": "Santerno",
-        "altitudine": 42.0,
-        "latitudine": 11.712916,
+        "altitudine": 42,
+        "latitudine": 44.345347,
         "longitudine": 11.712916,
         "macroarea": "Alto Reno",
         "comune": "Imola",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 2.0,
+            "soglia1": 2,
             "soglia2": 2.7,
             "soglia3": 3.7
         }
@@ -719,17 +719,17 @@
         "nome": "La Dozza",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 35.0,
-        "latitudine": 11.377574,
+        "altitudine": 35,
+        "latitudine": 44.54504,
         "longitudine": 11.377574,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 11.0,
-            "soglia2": 12.0,
-            "soglia3": 13.0
+            "soglia1": 11,
+            "soglia2": 12,
+            "soglia3": 13
         }
     },
     {
@@ -737,16 +737,16 @@
         "nome": "Castellina di Soragna",
         "bacino": "Taro",
         "sottobacino": "Stirone",
-        "altitudine": 53.0,
-        "latitudine": 10.110137,
+        "altitudine": 53,
+        "latitudine": 44.916141,
         "longitudine": 10.110137,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Soragna",
         "provincia": "Parma",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 3.0,
-            "soglia2": 4.0,
+            "soglia1": 3,
+            "soglia2": 4,
             "soglia3": 5.4
         }
     },
@@ -755,8 +755,8 @@
         "nome": "Brocchetti",
         "bacino": "Idice",
         "sottobacino": "Idice",
-        "altitudine": 15.0,
-        "latitudine": 11.78024,
+        "altitudine": 15,
+        "latitudine": 44.579646,
         "longitudine": 11.78024,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
@@ -773,8 +773,8 @@
         "nome": "Brocchetti cassa",
         "bacino": "Pianura Reno",
         "sottobacino": "Pianura Reno",
-        "altitudine": 15.0,
-        "latitudine": 11.780398,
+        "altitudine": 15,
+        "latitudine": 44.579787,
         "longitudine": 11.780398,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
@@ -791,8 +791,8 @@
         "nome": "Ponte Vico",
         "bacino": "Montone",
         "sottobacino": "Montone",
-        "altitudine": 20.0,
-        "latitudine": 12.03134,
+        "altitudine": 20,
+        "latitudine": 44.330021,
         "longitudine": 12.03134,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Russi",
@@ -800,7 +800,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 4.5,
-            "soglia2": 6.0,
+            "soglia2": 6,
             "soglia3": 7.7
         }
     },
@@ -809,8 +809,8 @@
         "nome": "Parma Ponte Verdi",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 58.0,
-        "latitudine": 10.324681,
+        "altitudine": 58,
+        "latitudine": 44.805476,
         "longitudine": 10.324681,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -819,7 +819,7 @@
         "soglie": {
             "soglia1": 1.8,
             "soglia2": 2.15,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -827,8 +827,8 @@
         "nome": "Matellica",
         "bacino": "Savio",
         "sottobacino": "Savio",
-        "altitudine": 19.0,
-        "latitudine": 12.234007,
+        "altitudine": 19,
+        "latitudine": 44.232179,
         "longitudine": 12.234007,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -845,8 +845,8 @@
         "nome": "Silla",
         "bacino": "Reno",
         "sottobacino": "Silla",
-        "altitudine": 339.0,
-        "latitudine": 10.970474,
+        "altitudine": 339,
+        "latitudine": 44.183059,
         "longitudine": 10.970474,
         "macroarea": "Alto Reno",
         "comune": "Gaggio Montano",
@@ -855,7 +855,7 @@
         "soglie": {
             "soglia1": 0.9,
             "soglia2": 1.4,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -863,8 +863,8 @@
         "nome": "Casola Valsenio",
         "bacino": "Senio",
         "sottobacino": "Senio",
-        "altitudine": 154.0,
-        "latitudine": 11.632342,
+        "altitudine": 154,
+        "latitudine": 44.227137,
         "longitudine": 11.632342,
         "macroarea": "Alto Reno",
         "comune": "Casola Valsenio",
@@ -873,7 +873,7 @@
         "soglie": {
             "soglia1": -0.3,
             "soglia2": 0.3,
-            "soglia3": 1.0
+            "soglia3": 1
         }
     },
     {
@@ -881,8 +881,8 @@
         "nome": "Rivalta RE",
         "bacino": "Crostolo",
         "sottobacino": "Crostolo",
-        "altitudine": 94.0,
-        "latitudine": 10.599173,
+        "altitudine": 94,
+        "latitudine": 44.655464,
         "longitudine": 10.599173,
         "macroarea": "Pianura Mo-Re",
         "comune": "Reggio nell'Emilia",
@@ -891,7 +891,7 @@
         "soglie": {
             "soglia1": 1.1,
             "soglia2": 1.8,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -899,8 +899,8 @@
         "nome": "Salsomaggiore sul Ghiara",
         "bacino": "Taro",
         "sottobacino": "Ghiara",
-        "altitudine": 154.0,
-        "latitudine": 9.98511,
+        "altitudine": 154,
+        "latitudine": 44.814967,
         "longitudine": 9.98511,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Salsomaggiore Terme",
@@ -917,15 +917,15 @@
         "nome": "Coccolia",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 14.0,
-        "latitudine": 12.110851,
+        "altitudine": 14,
+        "latitudine": 44.297685,
         "longitudine": 12.110851,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
         "provincia": "Ravenna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 4.0,
+            "soglia1": 4,
             "soglia2": 5.5,
             "soglia3": 7.5
         }
@@ -935,8 +935,8 @@
         "nome": "Castrocaro",
         "bacino": "Montone",
         "sottobacino": "Montone",
-        "altitudine": 66.0,
-        "latitudine": 11.949397,
+        "altitudine": 66,
+        "latitudine": 44.170119,
         "longitudine": 11.949397,
         "macroarea": "Bacini Romagnoli",
         "comune": "Castrocaro Terme e Terra del Sole",
@@ -944,8 +944,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.3,
-            "soglia2": 2.0,
-            "soglia3": 3.0
+            "soglia2": 2,
+            "soglia3": 3
         }
     },
     {
@@ -953,8 +953,8 @@
         "nome": "Cardinala Idice",
         "bacino": "Idice",
         "sottobacino": "Idice",
-        "altitudine": 15.0,
-        "latitudine": 11.801844,
+        "altitudine": 15,
+        "latitudine": 44.578911,
         "longitudine": 11.801844,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
@@ -962,7 +962,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 9.1,
-            "soglia2": 10.0,
+            "soglia2": 10,
             "soglia3": 12.65
         }
     },
@@ -971,8 +971,8 @@
         "nome": "Ponte dell'Olio",
         "bacino": "Nure",
         "sottobacino": "Nure",
-        "altitudine": 207.0,
-        "latitudine": 9.643723,
+        "altitudine": 207,
+        "latitudine": 44.873982,
         "longitudine": 9.643723,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Vigolzone",
@@ -981,7 +981,7 @@
         "soglie": {
             "soglia1": 1.3,
             "soglia2": 1.6,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -989,8 +989,8 @@
         "nome": "Castelbolognese",
         "bacino": "Senio",
         "sottobacino": "Senio",
-        "altitudine": 42.0,
-        "latitudine": 11.824819,
+        "altitudine": 42,
+        "latitudine": 44.31006,
         "longitudine": 11.824819,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Faenza",
@@ -998,8 +998,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.5,
-            "soglia2": 4.0,
-            "soglia3": 6.0
+            "soglia2": 4,
+            "soglia3": 6
         }
     },
     {
@@ -1007,15 +1007,15 @@
         "nome": "Chiavicone Idice",
         "bacino": "Idice",
         "sottobacino": "Idice",
-        "altitudine": 14.0,
-        "latitudine": 11.861291,
+        "altitudine": 14,
+        "latitudine": 44.579327,
         "longitudine": 11.861291,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
         "provincia": "Ferrara",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 9.0,
+            "soglia1": 9,
             "soglia2": 10.5,
             "soglia3": 11.6
         }
@@ -1025,17 +1025,17 @@
         "nome": "Lavino di Sotto",
         "bacino": "Samoggia",
         "sottobacino": "Lavino",
-        "altitudine": 36.0,
-        "latitudine": 11.230265,
+        "altitudine": 36,
+        "latitudine": 44.584257,
         "longitudine": 11.230265,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Calderara di Reno",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 9.0,
+            "soglia1": 9,
             "soglia2": 11.4,
-            "soglia3": 13.0
+            "soglia3": 13
         }
     },
     {
@@ -1043,17 +1043,17 @@
         "nome": "Castenaso",
         "bacino": "Idice",
         "sottobacino": "Idice",
-        "altitudine": 38.0,
-        "latitudine": 11.470171,
+        "altitudine": 38,
+        "latitudine": 44.507477,
         "longitudine": 11.470171,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Castenaso",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 8.0,
+            "soglia1": 8,
             "soglia2": 9.2,
-            "soglia3": 11.0
+            "soglia3": 11
         }
     },
     {
@@ -1061,8 +1061,8 @@
         "nome": "Alfonsine",
         "bacino": "Senio",
         "sottobacino": "Senio",
-        "altitudine": 14.0,
-        "latitudine": 12.047771,
+        "altitudine": 14,
+        "latitudine": 44.503929,
         "longitudine": 12.047771,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Alfonsine",
@@ -1079,15 +1079,15 @@
         "nome": "S. Bernardino",
         "bacino": "Santerno",
         "sottobacino": "Santerno",
-        "altitudine": 17.0,
-        "latitudine": 11.884022,
+        "altitudine": 17,
+        "latitudine": 44.515837,
         "longitudine": 11.884022,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Lugo",
         "provincia": "Ravenna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 9.0,
+            "soglia1": 9,
             "soglia2": 10.7,
             "soglia3": 12.2
         }
@@ -1097,17 +1097,17 @@
         "nome": "S. Agata",
         "bacino": "Santerno",
         "sottobacino": "Santerno",
-        "altitudine": 20.0,
-        "latitudine": 11.86575,
+        "altitudine": 20,
+        "latitudine": 44.438803,
         "longitudine": 11.86575,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Sant'Agata sul Santerno",
         "provincia": "Ravenna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 10.0,
-            "soglia2": 12.0,
-            "soglia3": 14.0
+            "soglia1": 10,
+            "soglia2": 12,
+            "soglia3": 14
         }
     },
     {
@@ -1115,17 +1115,17 @@
         "nome": "Mordano",
         "bacino": "Santerno",
         "sottobacino": "Santerno",
-        "altitudine": 25.0,
-        "latitudine": 11.814809,
+        "altitudine": 25,
+        "latitudine": 44.39378,
         "longitudine": 11.814809,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Mordano",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 10.0,
-            "soglia2": 12.0,
-            "soglia3": 14.0
+            "soglia1": 10,
+            "soglia2": 12,
+            "soglia3": 14
         }
     },
     {
@@ -1133,8 +1133,8 @@
         "nome": "Porretta Terme",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 352.0,
-        "latitudine": 10.977298,
+        "altitudine": 352,
+        "latitudine": 44.154041,
         "longitudine": 10.977298,
         "macroarea": "Alto Reno",
         "comune": "Alto Reno Terme",
@@ -1142,8 +1142,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 9.7,
-            "soglia2": 11.0,
-            "soglia3": 13.0
+            "soglia2": 11,
+            "soglia3": 13
         }
     },
     {
@@ -1151,8 +1151,8 @@
         "nome": "Gandazzolo Reno",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 9.0,
-        "latitudine": 11.625126,
+        "altitudine": 9,
+        "latitudine": 44.673065,
         "longitudine": 11.625126,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Baricella",
@@ -1161,7 +1161,7 @@
         "soglie": {
             "soglia1": 12.5,
             "soglia2": 14.8,
-            "soglia3": 17.0
+            "soglia3": 17
         }
     },
     {
@@ -1169,8 +1169,8 @@
         "nome": "Gandazzolo Savena",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 9.0,
-        "latitudine": 11.624905,
+        "altitudine": 9,
+        "latitudine": 44.672926,
         "longitudine": 11.624905,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Baricella",
@@ -1178,8 +1178,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 12.5,
-            "soglia2": 14.0,
-            "soglia3": 15.0
+            "soglia2": 14,
+            "soglia3": 15
         }
     },
     {
@@ -1187,8 +1187,8 @@
         "nome": "Vigoleno",
         "bacino": "Taro",
         "sottobacino": "Stirone",
-        "altitudine": 189.0,
-        "latitudine": 9.916907,
+        "altitudine": 189,
+        "latitudine": 44.82072,
         "longitudine": 9.916907,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Salsomaggiore Terme",
@@ -1205,8 +1205,8 @@
         "nome": "Morciano di Romagna",
         "bacino": "Conca",
         "sottobacino": "Conca",
-        "altitudine": 79.0,
-        "latitudine": 12.642039,
+        "altitudine": 79,
+        "latitudine": 43.914414,
         "longitudine": 12.642039,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Morciano di Romagna",
@@ -1223,15 +1223,15 @@
         "nome": "Cesena",
         "bacino": "Savio",
         "sottobacino": "Savio",
-        "altitudine": 31.0,
-        "latitudine": 12.235051,
+        "altitudine": 31,
+        "latitudine": 44.13971,
         "longitudine": 12.235051,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Cesena",
         "provincia": "Forlì-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 4.0,
+            "soglia1": 4,
             "soglia2": 5.5,
             "soglia3": 7.8
         }
@@ -1241,8 +1241,8 @@
         "nome": "Quarto",
         "bacino": "Savio",
         "sottobacino": "Savio",
-        "altitudine": 247.0,
-        "latitudine": 12.095183,
+        "altitudine": 247,
+        "latitudine": 43.892147,
         "longitudine": 12.095183,
         "macroarea": "Bacini Romagnoli",
         "comune": "Sarsina",
@@ -1250,7 +1250,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 3.8
         }
     },
@@ -1259,8 +1259,8 @@
         "nome": "Palesio",
         "bacino": "Quaderna",
         "sottobacino": "Quaderna",
-        "altitudine": 99.0,
-        "latitudine": 11.503026,
+        "altitudine": 99,
+        "latitudine": 44.407984,
         "longitudine": 11.503026,
         "macroarea": "Alto Reno",
         "comune": "Castel San Pietro Terme",
@@ -1277,8 +1277,8 @@
         "nome": "Modigliana",
         "bacino": "Lamone",
         "sottobacino": "Marzeno",
-        "altitudine": 168.0,
-        "latitudine": 11.795154,
+        "altitudine": 168,
+        "latitudine": 44.159661,
         "longitudine": 11.795154,
         "macroarea": "Bacini Romagnoli",
         "comune": "Modigliana",
@@ -1286,8 +1286,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.7,
-            "soglia2": 1.0,
-            "soglia3": 2.0
+            "soglia2": 1,
+            "soglia3": 2
         }
     },
     {
@@ -1295,8 +1295,8 @@
         "nome": "Forli'",
         "bacino": "Montone",
         "sottobacino": "Montone",
-        "altitudine": 30.0,
-        "latitudine": 12.027569,
+        "altitudine": 30,
+        "latitudine": 44.226977,
         "longitudine": 12.027569,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Forlì",
@@ -1304,7 +1304,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 3.5,
-            "soglia2": 5.0,
+            "soglia2": 5,
             "soglia3": 7.5
         }
     },
@@ -1313,8 +1313,8 @@
         "nome": "Rasponi",
         "bacino": "Fiumi Uniti",
         "sottobacino": "Fiumi Uniti",
-        "altitudine": 5.0,
-        "latitudine": 12.273113,
+        "altitudine": 5,
+        "latitudine": 44.393977,
         "longitudine": 12.273113,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -1322,8 +1322,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
-            "soglia2": 3.0,
-            "soglia3": 4.0
+            "soglia2": 3,
+            "soglia3": 4
         }
     },
     {
@@ -1331,17 +1331,17 @@
         "nome": "Ronco",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 26.0,
-        "latitudine": 12.086677,
+        "altitudine": 26,
+        "latitudine": 44.203057,
         "longitudine": 12.086677,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Forlì",
         "provincia": "Forlì-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 4.0,
-            "soglia2": 6.0,
-            "soglia3": 7.0
+            "soglia1": 4,
+            "soglia2": 6,
+            "soglia3": 7
         }
     },
     {
@@ -1349,8 +1349,8 @@
         "nome": "Boretto",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 30.0,
-        "latitudine": 10.558932,
+        "altitudine": 30,
+        "latitudine": 44.906332,
         "longitudine": 10.558932,
         "macroarea": "Pianura Mo-Re",
         "comune": "Boretto",
@@ -1367,8 +1367,8 @@
         "nome": "S. Ruffillo Canale",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 92.0,
-        "latitudine": 11.366439,
+        "altitudine": 92,
+        "latitudine": 44.453526,
         "longitudine": 11.366439,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -1385,8 +1385,8 @@
         "nome": "Savignano",
         "bacino": "Rubicone",
         "sottobacino": "Rubicone",
-        "altitudine": 30.0,
-        "latitudine": 12.396358,
+        "altitudine": 30,
+        "latitudine": 44.093792,
         "longitudine": 12.396358,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Savignano sul Rubicone",
@@ -1394,7 +1394,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.3,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 3.2
         }
     },
@@ -1403,8 +1403,8 @@
         "nome": "S. Bartolo",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 11.0,
-        "latitudine": 12.172677,
+        "altitudine": 11,
+        "latitudine": 44.367905,
         "longitudine": 12.172677,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -1421,8 +1421,8 @@
         "nome": "Teodorano",
         "bacino": "Ronco",
         "sottobacino": "Voltre",
-        "altitudine": 79.0,
-        "latitudine": 12.084923,
+        "altitudine": 79,
+        "latitudine": 44.091479,
         "longitudine": 12.084923,
         "macroarea": "Bacini Romagnoli",
         "comune": "Meldola",
@@ -1431,7 +1431,7 @@
         "soglie": {
             "soglia1": 0.8,
             "soglia2": 1.2,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -1439,17 +1439,17 @@
         "nome": "Berceto Baganza",
         "bacino": "Parma",
         "sottobacino": "Baganza",
-        "altitudine": 803.0,
-        "latitudine": 9.993069,
+        "altitudine": 803,
+        "latitudine": 44.503582,
         "longitudine": 9.993069,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Berceto",
         "provincia": "Parma",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.6,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -1457,15 +1457,15 @@
         "nome": "Gorzano",
         "bacino": "Panaro",
         "sottobacino": "Tiepido",
-        "altitudine": 150.0,
-        "latitudine": 10.880881,
+        "altitudine": 150,
+        "latitudine": 44.512882,
         "longitudine": 10.880881,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Maranello",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.5,
             "soglia3": 2.2
         }
@@ -1475,15 +1475,15 @@
         "nome": "Spilamberto",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 72.0,
-        "latitudine": 11.029999,
+        "altitudine": 72,
+        "latitudine": 44.533978,
         "longitudine": 11.029999,
         "macroarea": "Pianura Mo-Re",
         "comune": "Spilamberto",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 2.0,
+            "soglia1": 2,
             "soglia2": 2.8,
             "soglia3": 3.6
         }
@@ -1493,8 +1493,8 @@
         "nome": "Rubiera SS9",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 57.0,
-        "latitudine": 10.795542,
+        "altitudine": 57,
+        "latitudine": 44.650392,
         "longitudine": 10.795542,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -1511,8 +1511,8 @@
         "nome": "Ponteceno",
         "bacino": "Taro",
         "sottobacino": "Ceno",
-        "altitudine": 712.0,
-        "latitudine": 9.603206,
+        "altitudine": 712,
+        "latitudine": 44.540272,
         "longitudine": 9.603206,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Bedonia",
@@ -1521,7 +1521,7 @@
         "soglie": {
             "soglia1": 1.1,
             "soglia2": 2.4,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -1529,8 +1529,8 @@
         "nome": "Bobbio",
         "bacino": "Trebbia",
         "sottobacino": "Trebbia",
-        "altitudine": 272.0,
-        "latitudine": 9.383694,
+        "altitudine": 272,
+        "latitudine": 44.755103,
         "longitudine": 9.383694,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Bobbio",
@@ -1547,8 +1547,8 @@
         "nome": "Ponte Bacchello",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 38.0,
-        "latitudine": 10.98734,
+        "altitudine": 38,
+        "latitudine": 44.747546,
         "longitudine": 10.98734,
         "macroarea": "Pianura Mo-Re",
         "comune": "Bomporto",
@@ -1565,8 +1565,8 @@
         "nome": "Ponte Verucchio",
         "bacino": "Marecchia",
         "sottobacino": "Marecchia",
-        "altitudine": 116.0,
-        "latitudine": 12.405109,
+        "altitudine": 116,
+        "latitudine": 43.982897,
         "longitudine": 12.405109,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Verucchio",
@@ -1575,7 +1575,7 @@
         "soglie": {
             "soglia1": 2.5,
             "soglia2": 3.2,
-            "soglia3": 4.0
+            "soglia3": 4
         }
     },
     {
@@ -1583,8 +1583,8 @@
         "nome": "Lugo",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 247.0,
-        "latitudine": 10.653654,
+        "altitudine": 247,
+        "latitudine": 44.43329,
         "longitudine": 10.653654,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Prignano sulla Secchia",
@@ -1593,7 +1593,7 @@
         "soglie": {
             "soglia1": 1.2,
             "soglia2": 1.8,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -1601,8 +1601,8 @@
         "nome": "Ponte Samone",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 226.0,
-        "latitudine": 10.922664,
+        "altitudine": 226,
+        "latitudine": 44.356595,
         "longitudine": 10.922664,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Pavullo nel Frignano",
@@ -1619,8 +1619,8 @@
         "nome": "Ponte Cavola",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 367.0,
-        "latitudine": 10.52302,
+        "altitudine": 367,
+        "latitudine": 44.409339,
         "longitudine": 10.52302,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Carpineti",
@@ -1629,7 +1629,7 @@
         "soglie": {
             "soglia1": 0.8,
             "soglia2": 1.6,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -1637,8 +1637,8 @@
         "nome": "Meldola",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 60.0,
-        "latitudine": 12.061551,
+        "altitudine": 60,
+        "latitudine": 44.121457,
         "longitudine": 12.061551,
         "macroarea": "Bacini Romagnoli",
         "comune": "Meldola",
@@ -1655,8 +1655,8 @@
         "nome": "Ponte Veggia",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 122.0,
-        "latitudine": 10.770793,
+        "altitudine": 122,
+        "latitudine": 44.548592,
         "longitudine": 10.770793,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Sassuolo",
@@ -1673,17 +1673,17 @@
         "nome": "Ponte Val di Sasso",
         "bacino": "Panaro",
         "sottobacino": "Scoltenna",
-        "altitudine": 367.0,
-        "latitudine": 10.818805,
+        "altitudine": 367,
+        "latitudine": 44.272581,
         "longitudine": 10.818805,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Sestola",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 2.0,
+            "soglia1": 2,
             "soglia2": 2.8,
-            "soglia3": 4.0
+            "soglia3": 4
         }
     },
     {
@@ -1691,8 +1691,8 @@
         "nome": "Ponte Dolo",
         "bacino": "Secchia",
         "sottobacino": "Dolo",
-        "altitudine": 339.0,
-        "latitudine": 10.613663,
+        "altitudine": 339,
+        "latitudine": 44.373776,
         "longitudine": 10.613663,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Montefiorino",
@@ -1700,8 +1700,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.5,
-            "soglia2": 3.0,
-            "soglia3": 4.0
+            "soglia2": 3,
+            "soglia3": 4
         }
     },
     {
@@ -1709,8 +1709,8 @@
         "nome": "Pioppa",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 32.0,
-        "latitudine": 10.964897,
+        "altitudine": 32,
+        "latitudine": 44.856755,
         "longitudine": 10.964897,
         "macroarea": "Pianura Mo-Re",
         "comune": "San Possidonio",
@@ -1727,8 +1727,8 @@
         "nome": "Langhirano idro",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 263.0,
-        "latitudine": 10.273863,
+        "altitudine": 263,
+        "latitudine": 44.612393,
         "longitudine": 10.273863,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Lesignano de' Bagni",
@@ -1737,7 +1737,7 @@
         "soglie": {
             "soglia1": null,
             "soglia2": 1.7,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -1745,8 +1745,8 @@
         "nome": "Parma Ponte Nuovo",
         "bacino": "Parma",
         "sottobacino": "Baganza",
-        "altitudine": 65.0,
-        "latitudine": 10.31883,
+        "altitudine": 65,
+        "latitudine": 44.790114,
         "longitudine": 10.31883,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -1754,8 +1754,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.2,
-            "soglia2": 2.0,
-            "soglia3": 3.0
+            "soglia2": 2,
+            "soglia3": 3
         }
     },
     {
@@ -1763,8 +1763,8 @@
         "nome": "Rivergaro",
         "bacino": "Trebbia",
         "sottobacino": "Trebbia",
-        "altitudine": 148.0,
-        "latitudine": 9.582107,
+        "altitudine": 148,
+        "latitudine": 44.900392,
         "longitudine": 9.582107,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Rivergaro",
@@ -1772,7 +1772,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.9,
-            "soglia2": 4.0,
+            "soglia2": 4,
             "soglia3": 4.8
         }
     },
@@ -1781,15 +1781,15 @@
         "nome": "Pianello Val Tidone idro",
         "bacino": "Tidone",
         "sottobacino": "Tidone",
-        "altitudine": 154.0,
-        "latitudine": 9.440624,
+        "altitudine": 154,
+        "latitudine": 44.964274,
         "longitudine": 9.440624,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Pianello Val Tidone",
         "provincia": "Piacenza",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.4,
             "soglia3": 2.3
         }
@@ -1799,15 +1799,15 @@
         "nome": "Rottofreno",
         "bacino": "Tidone",
         "sottobacino": "Tidone",
-        "altitudine": 65.0,
-        "latitudine": 9.529765,
+        "altitudine": 65,
+        "latitudine": 45.056681,
         "longitudine": 9.529765,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Rottofreno",
         "provincia": "Piacenza",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.7,
             "soglia3": 2.3
         }
@@ -1817,8 +1817,8 @@
         "nome": "Saliceto",
         "bacino": "Chiavenna",
         "sottobacino": "Chiavenna",
-        "altitudine": 57.0,
-        "latitudine": 9.866951,
+        "altitudine": 57,
+        "latitudine": 44.992099,
         "longitudine": 9.866951,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Cadeo",
@@ -1835,8 +1835,8 @@
         "nome": "Pievepelago idro",
         "bacino": "Panaro",
         "sottobacino": "Scoltenna",
-        "altitudine": 737.0,
-        "latitudine": 10.630172,
+        "altitudine": 737,
+        "latitudine": 44.215298,
         "longitudine": 10.630172,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Riolunato",
@@ -1844,7 +1844,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.3,
-            "soglia2": 3.0,
+            "soglia2": 3,
             "soglia3": 4.5
         }
     },
@@ -1853,8 +1853,8 @@
         "nome": "Ponte Alto",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 43.0,
-        "latitudine": 10.899344,
+        "altitudine": 43,
+        "latitudine": 44.669669,
         "longitudine": 10.899344,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -1862,7 +1862,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 5.5,
-            "soglia2": 8.0,
+            "soglia2": 8,
             "soglia3": 10.1
         }
     },
@@ -1871,8 +1871,8 @@
         "nome": "Vetto",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 342.0,
-        "latitudine": 10.329979,
+        "altitudine": 342,
+        "latitudine": 44.493422,
         "longitudine": 10.329979,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Vetto",
@@ -1881,7 +1881,7 @@
         "soglie": {
             "soglia1": 1.4,
             "soglia2": 2.1,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -1889,8 +1889,8 @@
         "nome": "Sesto Imolese",
         "bacino": "Sillaro",
         "sottobacino": "Sillaro",
-        "altitudine": 24.0,
-        "latitudine": 11.735952,
+        "altitudine": 24,
+        "latitudine": 44.45876,
         "longitudine": 11.735952,
         "macroarea": "Alto Reno",
         "comune": "Imola",
@@ -1907,17 +1907,17 @@
         "nome": "Strada Casale",
         "bacino": "Lamone",
         "sottobacino": "Lamone",
-        "altitudine": 154.0,
-        "latitudine": 11.701814,
+        "altitudine": 154,
+        "latitudine": 44.185208,
         "longitudine": 11.701814,
         "macroarea": "Bacini Romagnoli",
         "comune": "Brisighella",
         "provincia": "Ravenna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.4,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -1925,8 +1925,8 @@
         "nome": "Fiorenzuola d'Arda",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 77.0,
-        "latitudine": 9.906471,
+        "altitudine": 77,
+        "latitudine": 44.930263,
         "longitudine": 9.906471,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Fiorenzuola d'Arda",
@@ -1943,8 +1943,8 @@
         "nome": "Rimini Ausa",
         "bacino": "Marecchia",
         "sottobacino": "Ausa",
-        "altitudine": 10.0,
-        "latitudine": 12.545488,
+        "altitudine": 10,
+        "latitudine": 44.056513,
         "longitudine": 12.545488,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Rimini",
@@ -1953,7 +1953,7 @@
         "soglie": {
             "soglia1": 1.5,
             "soglia2": 2.2,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -1961,8 +1961,8 @@
         "nome": "Pontenure",
         "bacino": "Nure",
         "sottobacino": "Nure",
-        "altitudine": 71.0,
-        "latitudine": 9.771238,
+        "altitudine": 71,
+        "latitudine": 45.009485,
         "longitudine": 9.771238,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Piacenza",
@@ -1979,8 +1979,8 @@
         "nome": "Sorbolo",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 34.0,
-        "latitudine": 10.454047,
+        "altitudine": 34,
+        "latitudine": 44.843971,
         "longitudine": 10.454047,
         "macroarea": "Pianura Mo-Re",
         "comune": "Brescello",
@@ -1988,8 +1988,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 7.9,
-            "soglia2": 10.0,
-            "soglia3": 11.0
+            "soglia2": 10,
+            "soglia3": 11
         }
     },
     {
@@ -1997,8 +1997,8 @@
         "nome": "S. Vittoria",
         "bacino": "Crostolo",
         "sottobacino": "Crostolo",
-        "altitudine": 31.0,
-        "latitudine": 10.639758,
+        "altitudine": 31,
+        "latitudine": 44.853634,
         "longitudine": 10.639758,
         "macroarea": "Pianura Mo-Re",
         "comune": "Gualtieri",
@@ -2007,7 +2007,7 @@
         "soglie": {
             "soglia1": 4.5,
             "soglia2": 5.8,
-            "soglia3": 7.0
+            "soglia3": 7
         }
     },
     {
@@ -2015,8 +2015,8 @@
         "nome": "S. Secondo",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 42.0,
-        "latitudine": 10.254303,
+        "altitudine": 42,
+        "latitudine": 44.916891,
         "longitudine": 10.254303,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Sissa Trecasali",
@@ -2024,8 +2024,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 10.15,
-            "soglia2": 11.0,
-            "soglia3": 14.0
+            "soglia2": 11,
+            "soglia3": 14
         }
     },
     {
@@ -2033,8 +2033,8 @@
         "nome": "Cardinala Cassa",
         "bacino": "Pianura Reno",
         "sottobacino": "Pianura Reno",
-        "altitudine": 19.0,
-        "latitudine": 11.801913,
+        "altitudine": 19,
+        "latitudine": 44.579035,
         "longitudine": 11.801913,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
@@ -2051,8 +2051,8 @@
         "nome": "Ponte Messa",
         "bacino": "Marecchia",
         "sottobacino": "Marecchia",
-        "altitudine": 330.0,
-        "latitudine": 12.25194,
+        "altitudine": 330,
+        "latitudine": 43.82639,
         "longitudine": 12.25194,
         "macroarea": "Bacini Romagnoli",
         "comune": "Pennabilli",
@@ -2060,7 +2060,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.5,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 2.7
         }
     },
@@ -2069,8 +2069,8 @@
         "nome": "S. Marco",
         "bacino": "Montone",
         "sottobacino": "Montone",
-        "altitudine": 11.0,
-        "latitudine": 12.168468,
+        "altitudine": 11,
+        "latitudine": 44.388963,
         "longitudine": 12.168468,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -2087,8 +2087,8 @@
         "nome": "S. Carlo",
         "bacino": "Savio",
         "sottobacino": "Savio",
-        "altitudine": 54.0,
-        "latitudine": 12.199839,
+        "altitudine": 54,
+        "latitudine": 44.09098,
         "longitudine": 12.199839,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Cesena",
@@ -2096,7 +2096,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.5,
-            "soglia2": 4.0,
+            "soglia2": 4,
             "soglia3": 5.5
         }
     },
@@ -2105,8 +2105,8 @@
         "nome": "S. Donnino",
         "bacino": "Panaro",
         "sottobacino": "Tiepido",
-        "altitudine": 44.0,
-        "latitudine": 10.962309,
+        "altitudine": 44,
+        "latitudine": 44.588553,
         "longitudine": 10.962309,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -2114,7 +2114,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.5,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 2.3
         }
     },
@@ -2123,8 +2123,8 @@
         "nome": "S. Ruffillo Savena",
         "bacino": "Idice",
         "sottobacino": "Savena",
-        "altitudine": 92.0,
-        "latitudine": 11.365192,
+        "altitudine": 92,
+        "latitudine": 44.453777,
         "longitudine": 11.365192,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -2141,8 +2141,8 @@
         "nome": "S. Antonio",
         "bacino": "Idice",
         "sottobacino": "Idice",
-        "altitudine": 17.0,
-        "latitudine": 11.70609,
+        "altitudine": 17,
+        "latitudine": 44.574803,
         "longitudine": 11.70609,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Medicina",
@@ -2159,8 +2159,8 @@
         "nome": "S. Maria Nova",
         "bacino": "Bevano",
         "sottobacino": "Bevano",
-        "altitudine": 21.0,
-        "latitudine": 12.169919,
+        "altitudine": 21,
+        "latitudine": 44.215062,
         "longitudine": 12.169919,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Bertinoro",
@@ -2177,8 +2177,8 @@
         "nome": "Parma Cassa briglia monte",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 110.0,
-        "latitudine": 10.3388,
+        "altitudine": 110,
+        "latitudine": 44.721643,
         "longitudine": 10.3388,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -2195,8 +2195,8 @@
         "nome": "Ponte Locatello",
         "bacino": "Reno",
         "sottobacino": "Setta",
-        "altitudine": 258.0,
-        "latitudine": 11.186318,
+        "altitudine": 258,
+        "latitudine": 44.246855,
         "longitudine": 11.186318,
         "macroarea": "Alto Reno",
         "comune": "San Benedetto Val di Sambro",
@@ -2213,8 +2213,8 @@
         "nome": "Ponte Ronca",
         "bacino": "Samoggia",
         "sottobacino": "Ghironda",
-        "altitudine": 74.0,
-        "latitudine": 11.186605,
+        "altitudine": 74,
+        "latitudine": 44.492494,
         "longitudine": 11.186605,
         "macroarea": "Alto Reno",
         "comune": "Zola Predosa",
@@ -2231,8 +2231,8 @@
         "nome": "Cavanella SIAP",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 7.0,
-        "latitudine": 12.152016,
+        "altitudine": 7,
+        "latitudine": 45.027689,
         "longitudine": 12.152016,
         "macroarea": "Vene-D",
         "comune": "Adria",
@@ -2249,8 +2249,8 @@
         "nome": "Ariano SIAP",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 4.0,
-        "latitudine": 12.117563,
+        "altitudine": 4,
+        "latitudine": 44.9484,
         "longitudine": 12.117563,
         "macroarea": "Vene-D",
         "comune": "Ariano nel Polesine",
@@ -2267,8 +2267,8 @@
         "nome": "Rivalta RA",
         "bacino": "Lamone",
         "sottobacino": "Marzeno",
-        "altitudine": 52.0,
-        "latitudine": 11.886657,
+        "altitudine": 52,
+        "latitudine": 44.24182,
         "longitudine": 11.886657,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Faenza",
@@ -2276,8 +2276,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.5,
-            "soglia2": 4.0,
-            "soglia3": 5.0
+            "soglia2": 4,
+            "soglia3": 5
         }
     },
     {
@@ -2285,8 +2285,8 @@
         "nome": "Puianello",
         "bacino": "Crostolo",
         "sottobacino": "Crostolo",
-        "altitudine": 136.0,
-        "latitudine": 10.567929,
+        "altitudine": 136,
+        "latitudine": 44.624019,
         "longitudine": 10.567929,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Quattro Castella",
@@ -2295,7 +2295,7 @@
         "soglie": {
             "soglia1": 1.7,
             "soglia2": 2.3,
-            "soglia3": 3.0
+            "soglia3": 3
         }
     },
     {
@@ -2303,8 +2303,8 @@
         "nome": "Rubiera casse valle",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 38.0,
-        "latitudine": 10.815107,
+        "altitudine": 38,
+        "latitudine": 44.658626,
         "longitudine": 10.815107,
         "macroarea": "Pianura Mo-Re",
         "comune": "Campogalliano",
@@ -2313,7 +2313,7 @@
         "soglie": {
             "soglia1": 1.8,
             "soglia2": 3.6,
-            "soglia3": 5.0
+            "soglia3": 5
         }
     },
     {
@@ -2321,8 +2321,8 @@
         "nome": "Bevano Adriatica",
         "bacino": "Bevano",
         "sottobacino": "Bevano",
-        "altitudine": 6.0,
-        "latitudine": 12.279839,
+        "altitudine": 6,
+        "latitudine": 44.324499,
         "longitudine": 12.279839,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -2339,8 +2339,8 @@
         "nome": "Ponte Sant'Ambrogio",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 39.0,
-        "latitudine": 10.997032,
+        "altitudine": 39,
+        "latitudine": 44.622828,
         "longitudine": 10.997032,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -2357,17 +2357,17 @@
         "nome": "Ferriere Idro",
         "bacino": "Nure",
         "sottobacino": "Nure",
-        "altitudine": 629.0,
-        "latitudine": 9.498643,
+        "altitudine": 629,
+        "latitudine": 44.643676,
         "longitudine": 9.498643,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Ferriere",
         "provincia": "Piacenza",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.6,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -2375,8 +2375,8 @@
         "nome": "Bazzano",
         "bacino": "Samoggia",
         "sottobacino": "Samoggia",
-        "altitudine": 82.0,
-        "latitudine": 11.08392,
+        "altitudine": 82,
+        "latitudine": 44.508277,
         "longitudine": 11.08392,
         "macroarea": "Alto Reno",
         "comune": "Valsamoggia",
@@ -2393,17 +2393,17 @@
         "nome": "Marradi",
         "bacino": "Lamone",
         "sottobacino": "Lamone",
-        "altitudine": 350.0,
-        "latitudine": 11.613876,
+        "altitudine": 350,
+        "latitudine": 44.077411,
         "longitudine": 11.613876,
         "macroarea": "Bacini Romagnoli",
         "comune": "Marradi",
         "provincia": "Firenze",
         "regione": "Toscana",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.4,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -2411,8 +2411,8 @@
         "nome": "Fossalta",
         "bacino": "Panaro",
         "sottobacino": "Tiepido",
-        "altitudine": 36.0,
-        "latitudine": 10.97722,
+        "altitudine": 36,
+        "latitudine": 44.62483,
         "longitudine": 10.97722,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -2421,7 +2421,7 @@
         "soglie": {
             "soglia1": 3.2,
             "soglia2": 5.7,
-            "soglia3": 7.0
+            "soglia3": 7
         }
     },
     {
@@ -2429,8 +2429,8 @@
         "nome": "Isola Pescaroli SIAP",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 29.0,
-        "latitudine": 10.181389,
+        "altitudine": 29,
+        "latitudine": 45.042222,
         "longitudine": 10.181389,
         "macroarea": null,
         "comune": "San Daniele Po",
@@ -2447,8 +2447,8 @@
         "nome": "Parma S. Siro",
         "bacino": "Parma",
         "sottobacino": null,
-        "altitudine": 42.0,
-        "latitudine": 10.327778,
+        "altitudine": 42,
+        "latitudine": 44.893889,
         "longitudine": 10.327778,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Torrile",
@@ -2465,17 +2465,17 @@
         "nome": "Rubiera Tresinaro",
         "bacino": "Secchia",
         "sottobacino": "Tresinaro",
-        "altitudine": 54.0,
-        "latitudine": 10.789997,
+        "altitudine": 54,
+        "latitudine": 44.648039,
         "longitudine": 10.789997,
         "macroarea": "Pianura Mo-Re",
         "comune": "Rubiera",
         "provincia": "Reggio nell'Emilia",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 2.0,
-            "soglia2": 3.0,
-            "soglia3": 4.0
+            "soglia1": 2,
+            "soglia2": 3,
+            "soglia3": 4
         }
     },
     {
@@ -2483,8 +2483,8 @@
         "nome": "Casse Espansione Enza SIAP",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 75.0,
-        "latitudine": 10.44642,
+        "altitudine": 75,
+        "latitudine": 44.728297,
         "longitudine": 10.44642,
         "macroarea": "Pianura Mo-Re",
         "comune": "Montecchio Emilia",
@@ -2501,8 +2501,8 @@
         "nome": "Cedogno",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 273.0,
-        "latitudine": 10.355099,
+        "altitudine": 273,
+        "latitudine": 44.532613,
         "longitudine": 10.355099,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Canossa",
@@ -2519,8 +2519,8 @@
         "nome": "Fidenza SIAP",
         "bacino": "Taro",
         "sottobacino": "Stirone",
-        "altitudine": 79.0,
-        "latitudine": 10.049114,
+        "altitudine": 79,
+        "latitudine": 44.869843,
         "longitudine": 10.049114,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Fidenza",
@@ -2537,15 +2537,15 @@
         "nome": "Suviana",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 472.0,
-        "latitudine": 11.04081,
+        "altitudine": 472,
+        "latitudine": 44.13444,
         "longitudine": 11.04081,
         "macroarea": "Alto Reno",
         "comune": "Camugnano",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 70.0,
+            "soglia1": 70,
             "soglia2": null,
             "soglia3": null
         }
@@ -2555,8 +2555,8 @@
         "nome": "Pizzocalvo",
         "bacino": "Idice",
         "sottobacino": "Idice",
-        "altitudine": 64.0,
-        "latitudine": 11.439218,
+        "altitudine": 64,
+        "latitudine": 44.449139,
         "longitudine": 11.439218,
         "macroarea": "Alto Reno",
         "comune": "San Lazzaro di Savena",
@@ -2565,7 +2565,7 @@
         "soglie": {
             "soglia1": 0.5,
             "soglia2": 0.7,
-            "soglia3": 1.0
+            "soglia3": 1
         }
     },
     {
@@ -2573,8 +2573,8 @@
         "nome": "Savio",
         "bacino": "Savio",
         "sottobacino": "Savio",
-        "altitudine": 10.0,
-        "latitudine": 12.295485,
+        "altitudine": 10,
+        "latitudine": 44.30563,
         "longitudine": 12.295485,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Cervia",
@@ -2582,8 +2582,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 3.5,
-            "soglia2": 5.0,
-            "soglia3": 6.0
+            "soglia2": 5,
+            "soglia3": 6
         }
     },
     {
@@ -2591,15 +2591,15 @@
         "nome": "Concordia sulla Secchia",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 30.0,
-        "latitudine": 10.983335,
+        "altitudine": 30,
+        "latitudine": 44.910819,
         "longitudine": 10.983335,
         "macroarea": "Pianura Mo-Re",
         "comune": "Concordia sulla Secchia",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 8.0,
+            "soglia1": 8,
             "soglia2": 9.8,
             "soglia3": 12.3
         }
@@ -2609,8 +2609,8 @@
         "nome": "Arcoveggio",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 28.0,
-        "latitudine": 11.348252,
+        "altitudine": 28,
+        "latitudine": 44.540281,
         "longitudine": 11.348252,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -2618,8 +2618,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 10.5,
-            "soglia2": 12.0,
-            "soglia3": 13.0
+            "soglia2": 12,
+            "soglia3": 13
         }
     },
     {
@@ -2627,8 +2627,8 @@
         "nome": "Polesella SIAP",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 9.0,
-        "latitudine": 11.755919,
+        "altitudine": 9,
+        "latitudine": 44.960617,
         "longitudine": 11.755919,
         "macroarea": "Vene-D",
         "comune": "Polesella",
@@ -2645,8 +2645,8 @@
         "nome": "Dosso",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 26.0,
-        "latitudine": 11.349782,
+        "altitudine": 26,
+        "latitudine": 44.764186,
         "longitudine": 11.349782,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Terre del Reno",
@@ -2663,8 +2663,8 @@
         "nome": "Castelmaggiore",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 25.0,
-        "latitudine": 11.36633,
+        "altitudine": 25,
+        "latitudine": 44.557409,
         "longitudine": 11.36633,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Castel Maggiore",
@@ -2681,17 +2681,17 @@
         "nome": "Loiano Ponte Savena",
         "bacino": "Idice",
         "sottobacino": "Savena",
-        "altitudine": 540.0,
-        "latitudine": 11.291968,
+        "altitudine": 540,
+        "latitudine": 44.268212,
         "longitudine": 11.291968,
         "macroarea": "Alto Reno",
         "comune": "Loiano",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.5,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -2699,8 +2699,8 @@
         "nome": "Gallo",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 21.0,
-        "latitudine": 11.545382,
+        "altitudine": 21,
+        "latitudine": 44.724097,
         "longitudine": 11.545382,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Malalbergo",
@@ -2708,7 +2708,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 9.3,
-            "soglia2": 12.0,
+            "soglia2": 12,
             "soglia3": 13.7
         }
     },
@@ -2717,15 +2717,15 @@
         "nome": "Castel San Pietro",
         "bacino": "Sillaro",
         "sottobacino": "Sillaro",
-        "altitudine": 74.0,
-        "latitudine": 11.588405,
+        "altitudine": 74,
+        "latitudine": 44.381025,
         "longitudine": 11.588405,
         "macroarea": "Alto Reno",
         "comune": "Castel San Pietro Terme",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.3,
             "soglia3": 1.7
         }
@@ -2735,8 +2735,8 @@
         "nome": "Calcara",
         "bacino": "Samoggia",
         "sottobacino": "Samoggia",
-        "altitudine": 50.0,
-        "latitudine": 11.133014,
+        "altitudine": 50,
+        "latitudine": 44.54736,
         "longitudine": 11.133014,
         "macroarea": "Alto Reno",
         "comune": "Valsamoggia",
@@ -2744,8 +2744,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.2,
-            "soglia2": 3.0,
-            "soglia3": 4.0
+            "soglia2": 3,
+            "soglia3": 4
         }
     },
     {
@@ -2753,8 +2753,8 @@
         "nome": "Compiano",
         "bacino": "Enza",
         "sottobacino": "Tassobbio",
-        "altitudine": 296.0,
-        "latitudine": 10.352731,
+        "altitudine": 296,
+        "latitudine": 44.524367,
         "longitudine": 10.352731,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Canossa",
@@ -2762,7 +2762,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.7,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 3.1
         }
     },
@@ -2771,8 +2771,8 @@
         "nome": "Cabanne",
         "bacino": "Trebbia",
         "sottobacino": "Aveto",
-        "altitudine": 848.0,
-        "latitudine": 9.346466,
+        "altitudine": 848,
+        "latitudine": 44.4952,
         "longitudine": 9.346466,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Rezzoaglio",
@@ -2789,15 +2789,15 @@
         "nome": "Pracchia",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 620.0,
-        "latitudine": 10.905569,
+        "altitudine": 620,
+        "latitudine": 44.054038,
         "longitudine": 10.905569,
         "macroarea": "Alto Reno",
         "comune": "Pistoia",
         "provincia": "Pistoia",
         "regione": "Toscana",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.3,
             "soglia3": 2.3
         }
@@ -2807,8 +2807,8 @@
         "nome": "Ariano",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 4.0,
-        "latitudine": 12.122145,
+        "altitudine": 4,
+        "latitudine": 44.942901,
         "longitudine": 12.122145,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Mesola",
@@ -2825,8 +2825,8 @@
         "nome": "Lugo SIAP",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 228.0,
-        "latitudine": 10.654131,
+        "altitudine": 228,
+        "latitudine": 44.441968,
         "longitudine": 10.654131,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Baiso",
@@ -2843,8 +2843,8 @@
         "nome": "Fornovo SIAP",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 142.0,
-        "latitudine": 10.092499,
+        "altitudine": 142,
+        "latitudine": 44.697256,
         "longitudine": 10.092499,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Medesano",
@@ -2861,8 +2861,8 @@
         "nome": "Sasso Marconi",
         "bacino": "Reno",
         "sottobacino": "Setta",
-        "altitudine": 105.0,
-        "latitudine": 11.247854,
+        "altitudine": 105,
+        "latitudine": 44.381507,
         "longitudine": 11.247854,
         "macroarea": "Alto Reno",
         "comune": "Sasso Marconi",
@@ -2870,7 +2870,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.3,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 2.5
         }
     },
@@ -2879,8 +2879,8 @@
         "nome": "Casalecchio chiusa",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 65.0,
-        "latitudine": 11.282429,
+        "altitudine": 65,
+        "latitudine": 44.473179,
         "longitudine": 11.282429,
         "macroarea": "Alto Reno",
         "comune": "Casalecchio di Reno",
@@ -2897,8 +2897,8 @@
         "nome": "Pradella",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 422.0,
-        "latitudine": 9.737732,
+        "altitudine": 422,
+        "latitudine": 44.474762,
         "longitudine": 9.737732,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Borgo Val di Taro",
@@ -2906,7 +2906,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.3,
-            "soglia2": 3.0,
+            "soglia2": 3,
             "soglia3": 4.3
         }
     },
@@ -2915,8 +2915,8 @@
         "nome": "Pianoro",
         "bacino": "Idice",
         "sottobacino": "Savena",
-        "altitudine": 174.0,
-        "latitudine": 11.339904,
+        "altitudine": 174,
+        "latitudine": 44.371014,
         "longitudine": 11.339904,
         "macroarea": "Alto Reno",
         "comune": "Pianoro",
@@ -2924,7 +2924,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.8,
-            "soglia2": 1.0,
+            "soglia2": 1,
             "soglia3": 1.4
         }
     },
@@ -2933,8 +2933,8 @@
         "nome": "Bova",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 37.0,
-        "latitudine": 11.332862,
+        "altitudine": 37,
+        "latitudine": 44.50636,
         "longitudine": 11.332862,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -2943,7 +2943,7 @@
         "soglie": {
             "soglia1": 0.4,
             "soglia2": 1.2,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -2951,8 +2951,8 @@
         "nome": "Ponte Lamberti",
         "bacino": "Taro",
         "sottobacino": "Ceno",
-        "altitudine": 341.0,
-        "latitudine": 9.8121,
+        "altitudine": 341,
+        "latitudine": 44.650975,
         "longitudine": 9.8121,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Varsi",
@@ -2960,7 +2960,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.6,
-            "soglia2": 3.0,
+            "soglia2": 3,
             "soglia3": 3.7
         }
     },
@@ -2969,8 +2969,8 @@
         "nome": "Vergato",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 193.0,
-        "latitudine": 11.113128,
+        "altitudine": 193,
+        "latitudine": 44.287796,
         "longitudine": 11.113128,
         "macroarea": "Alto Reno",
         "comune": "Vergato",
@@ -2978,8 +2978,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
-            "soglia2": 3.0,
-            "soglia3": 5.0
+            "soglia2": 3,
+            "soglia3": 5
         }
     },
     {
@@ -2987,8 +2987,8 @@
         "nome": "Casalecchio canale",
         "bacino": "Reno",
         "sottobacino": "Canale Di Reno",
-        "altitudine": 63.0,
-        "latitudine": 11.281103,
+        "altitudine": 63,
+        "latitudine": 44.475627,
         "longitudine": 11.281103,
         "macroarea": "Alto Reno",
         "comune": "Casalecchio di Reno",
@@ -3005,8 +3005,8 @@
         "nome": "Lavino di Sopra",
         "bacino": "Samoggia",
         "sottobacino": "Lavino",
-        "altitudine": 75.0,
-        "latitudine": 11.221036,
+        "altitudine": 75,
+        "latitudine": 44.490757,
         "longitudine": 11.221036,
         "macroarea": "Alto Reno",
         "comune": "Zola Predosa",
@@ -3015,7 +3015,7 @@
         "soglie": {
             "soglia1": 8.8,
             "soglia2": 9.8,
-            "soglia3": 11.0
+            "soglia3": 11
         }
     },
     {
@@ -3023,15 +3023,15 @@
         "nome": "Opera Reno Panfilia",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 24.0,
-        "latitudine": 11.368929,
+        "altitudine": 24,
+        "latitudine": 44.778491,
         "longitudine": 11.368929,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Terre del Reno",
         "provincia": "Ferrara",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 20.0,
+            "soglia1": 20,
             "soglia2": 21.8,
             "soglia3": 23.4
         }
@@ -3041,8 +3041,8 @@
         "nome": "Secondo Salto",
         "bacino": "Reno",
         "sottobacino": "Cavo Napoleonico",
-        "altitudine": 16.0,
-        "latitudine": 11.370158,
+        "altitudine": 16,
+        "latitudine": 44.78278,
         "longitudine": 11.370158,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Terre del Reno",
@@ -3059,8 +3059,8 @@
         "nome": "Casoni",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 18.0,
-        "latitudine": 11.472511,
+        "altitudine": 18,
+        "latitudine": 44.639052,
         "longitudine": 11.472511,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Malalbergo",
@@ -3077,8 +3077,8 @@
         "nome": "Bonconvento",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 32.0,
-        "latitudine": 11.313818,
+        "altitudine": 32,
+        "latitudine": 44.609269,
         "longitudine": 11.313818,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Sala Bolognese",
@@ -3086,7 +3086,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 7.5,
-            "soglia2": 10.0,
+            "soglia2": 10,
             "soglia3": 11.5
         }
     },
@@ -3095,8 +3095,8 @@
         "nome": "Saletto",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 18.0,
-        "latitudine": 11.441136,
+        "altitudine": 18,
+        "latitudine": 44.632318,
         "longitudine": 11.441136,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Bentivoglio",
@@ -3104,7 +3104,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.8,
-            "soglia2": 3.0,
+            "soglia2": 3,
             "soglia3": 3.8
         }
     },
@@ -3113,15 +3113,15 @@
         "nome": "Ostia Parmense",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 354.0,
-        "latitudine": 9.84219,
+        "altitudine": 354,
+        "latitudine": 44.514057,
         "longitudine": 9.84219,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Borgo Val di Taro",
         "provincia": "Parma",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 3.0,
+            "soglia1": 3,
             "soglia2": 3.6,
             "soglia3": 4.7
         }
@@ -3131,8 +3131,8 @@
         "nome": "Farini",
         "bacino": "Nure",
         "sottobacino": "Nure",
-        "altitudine": 436.0,
-        "latitudine": 9.569663,
+        "altitudine": 436,
+        "latitudine": 44.712114,
         "longitudine": 9.569663,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Farini",
@@ -3149,15 +3149,15 @@
         "nome": "Rubiera casse monte",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 38.0,
-        "latitudine": 10.814953,
+        "altitudine": 38,
+        "latitudine": 44.658547,
         "longitudine": 10.814953,
         "macroarea": "Pianura Mo-Re",
         "comune": "Campogalliano",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 6.0,
+            "soglia1": 6,
             "soglia2": 7.5,
             "soglia3": 8.5
         }
@@ -3167,8 +3167,8 @@
         "nome": "Castiglione",
         "bacino": "Savio",
         "sottobacino": "Savio",
-        "altitudine": 14.0,
-        "latitudine": 12.260896,
+        "altitudine": 14,
+        "latitudine": 44.259008,
         "longitudine": 12.260896,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -3176,8 +3176,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 4.5,
-            "soglia2": 6.0,
-            "soglia3": 8.0
+            "soglia2": 6,
+            "soglia3": 8
         }
     },
     {
@@ -3185,8 +3185,8 @@
         "nome": "Mercato Saraceno",
         "bacino": "Savio",
         "sottobacino": "Savio",
-        "altitudine": 125.0,
-        "latitudine": 12.196596,
+        "altitudine": 125,
+        "latitudine": 43.958135,
         "longitudine": 12.196596,
         "macroarea": "Bacini Romagnoli",
         "comune": "Mercato Saraceno",
@@ -3194,7 +3194,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.5,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 3.8
         }
     },
@@ -3203,8 +3203,8 @@
         "nome": "Mezzano",
         "bacino": "Lamone",
         "sottobacino": "Lamone",
-        "altitudine": 12.0,
-        "latitudine": 12.082855,
+        "altitudine": 12,
+        "latitudine": 44.469587,
         "longitudine": 12.082855,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -3212,7 +3212,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 4.5,
-            "soglia2": 6.0,
+            "soglia2": 6,
             "soglia3": 7.5
         }
     },
@@ -3221,8 +3221,8 @@
         "nome": "Rocca San Casciano",
         "bacino": "Montone",
         "sottobacino": "Montone",
-        "altitudine": 212.0,
-        "latitudine": 11.844404,
+        "altitudine": 212,
+        "latitudine": 44.060789,
         "longitudine": 11.844404,
         "macroarea": "Bacini Romagnoli",
         "comune": "Rocca San Casciano",
@@ -3239,8 +3239,8 @@
         "nome": "Opera Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 17.0,
-        "latitudine": 11.440866,
+        "altitudine": 17,
+        "latitudine": 44.927807,
         "longitudine": 11.440866,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Bondeno",
@@ -3257,8 +3257,8 @@
         "nome": "Casalecchio tiro a volo",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 54.0,
-        "latitudine": 11.282075,
+        "altitudine": 54,
+        "latitudine": 44.480226,
         "longitudine": 11.282075,
         "macroarea": "Alto Reno",
         "comune": "Casalecchio di Reno",
@@ -3275,8 +3275,8 @@
         "nome": "Fiumalbo",
         "bacino": "Panaro",
         "sottobacino": "Scoltenna",
-        "altitudine": 944.0,
-        "latitudine": 10.649172,
+        "altitudine": 944,
+        "latitudine": 44.179338,
         "longitudine": 10.649172,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Fiumalbo",
@@ -3293,8 +3293,8 @@
         "nome": "Pontelagoscuro SIAP",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 8.0,
-        "latitudine": 11.604934,
+        "altitudine": 8,
+        "latitudine": 44.886953,
         "longitudine": 11.604934,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Ferrara",
@@ -3311,8 +3311,8 @@
         "nome": "Conca 1",
         "bacino": "Conca",
         "sottobacino": "Conca",
-        "altitudine": 348.0,
-        "latitudine": 12.495583,
+        "altitudine": 348,
+        "latitudine": 43.871123,
         "longitudine": 12.495583,
         "macroarea": "Bacini Romagnoli",
         "comune": "Monte Grimano Terme",
@@ -3329,15 +3329,15 @@
         "nome": "Bomporto",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 32.0,
-        "latitudine": 11.045084,
+        "altitudine": 32,
+        "latitudine": 44.727163,
         "longitudine": 11.045084,
         "macroarea": "Pianura Mo-Re",
         "comune": "Bomporto",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 8.0,
+            "soglia1": 8,
             "soglia2": 9.2,
             "soglia3": 11.8
         }
@@ -3347,8 +3347,8 @@
         "nome": "Trebbia Valsigiara",
         "bacino": "Trebbia",
         "sottobacino": "Trebbia",
-        "altitudine": 462.0,
-        "latitudine": 9.330116,
+        "altitudine": 462,
+        "latitudine": 44.640245,
         "longitudine": 9.330116,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Ottone",
@@ -3365,17 +3365,17 @@
         "nome": "Piacenza",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 55.0,
-        "latitudine": 9.705535,
+        "altitudine": 55,
+        "latitudine": 45.060519,
         "longitudine": 9.705535,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Piacenza",
         "provincia": "Piacenza",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 5.0,
-            "soglia2": 6.0,
-            "soglia3": 7.0
+            "soglia1": 5,
+            "soglia2": 6,
+            "soglia3": 7
         }
     },
     {
@@ -3383,8 +3383,8 @@
         "nome": "Camposanto",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 28.0,
-        "latitudine": 11.135092,
+        "altitudine": 28,
+        "latitudine": 44.786696,
         "longitudine": 11.135092,
         "macroarea": "Pianura Mo-Re",
         "comune": "Camposanto",
@@ -3393,7 +3393,7 @@
         "soglie": {
             "soglia1": 7.3,
             "soglia2": 8.7,
-            "soglia3": 12.0
+            "soglia3": 12
         }
     },
     {
@@ -3401,8 +3401,8 @@
         "nome": "Borgo Tossignano",
         "bacino": "Santerno",
         "sottobacino": "Santerno",
-        "altitudine": 98.0,
-        "latitudine": 11.578993,
+        "altitudine": 98,
+        "latitudine": 44.274665,
         "longitudine": 11.578993,
         "macroarea": "Alto Reno",
         "comune": "Borgo Tossignano",
@@ -3410,7 +3410,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.5,
-            "soglia2": 2.0,
+            "soglia2": 2,
             "soglia3": 2.8
         }
     },
@@ -3419,8 +3419,8 @@
         "nome": "Navicello",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 36.0,
-        "latitudine": 10.995307,
+        "altitudine": 36,
+        "latitudine": 44.66995,
         "longitudine": 10.995307,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -3428,7 +3428,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 7.5,
-            "soglia2": 9.0,
+            "soglia2": 9,
             "soglia3": 11.5
         }
     },
@@ -3437,8 +3437,8 @@
         "nome": "Ficarolo",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 10.0,
-        "latitudine": 11.425556,
+        "altitudine": 10,
+        "latitudine": 44.945278,
         "longitudine": 11.425556,
         "macroarea": null,
         "comune": "Ficarolo",
@@ -3455,15 +3455,15 @@
         "nome": "Tornolo",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 491.0,
-        "latitudine": 9.630549,
+        "altitudine": 491,
+        "latitudine": 44.49151,
         "longitudine": 9.630549,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Tornolo",
         "provincia": "Parma",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 3.0,
+            "soglia1": 3,
             "soglia2": 3.6,
             "soglia3": 4.4
         }
@@ -3473,8 +3473,8 @@
         "nome": "Salsominore",
         "bacino": "Trebbia",
         "sottobacino": "Aveto",
-        "altitudine": 408.0,
-        "latitudine": 9.405315,
+        "altitudine": 408,
+        "latitudine": 44.632711,
         "longitudine": 9.405315,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Ferriere",
@@ -3491,17 +3491,17 @@
         "nome": "Fanano",
         "bacino": "Panaro",
         "sottobacino": "Leo",
-        "altitudine": 512.0,
-        "latitudine": 10.799092,
+        "altitudine": 512,
+        "latitudine": 44.203858,
         "longitudine": 10.799092,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Fanano",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.3,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -3509,8 +3509,8 @@
         "nome": "Modena Naviglio",
         "bacino": "Panaro",
         "sottobacino": "Naviglio",
-        "altitudine": 32.0,
-        "latitudine": 10.947561,
+        "altitudine": 32,
+        "latitudine": 44.679461,
         "longitudine": 10.947561,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -3527,8 +3527,8 @@
         "nome": "Pontelagoscuro",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 8.0,
-        "latitudine": 11.608072,
+        "altitudine": 8,
+        "latitudine": 44.888296,
         "longitudine": 11.608072,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Ferrara",
@@ -3545,8 +3545,8 @@
         "nome": "Tebano",
         "bacino": "Senio",
         "sottobacino": "Senio",
-        "altitudine": 51.0,
-        "latitudine": 11.782947,
+        "altitudine": 51,
+        "latitudine": 44.294236,
         "longitudine": 11.782947,
         "macroarea": "Alto Reno",
         "comune": "Castel Bolognese",
@@ -3563,8 +3563,8 @@
         "nome": "Vignola SIAP",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 110.0,
-        "latitudine": 11.010278,
+        "altitudine": 110,
+        "latitudine": 44.474722,
         "longitudine": 11.010278,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Vignola",
@@ -3581,8 +3581,8 @@
         "nome": "S. Cesario SIAP",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 42.0,
-        "latitudine": 11.009479,
+        "altitudine": 42,
+        "latitudine": 44.606927,
         "longitudine": 11.009479,
         "macroarea": "Pianura Mo-Re",
         "comune": "Modena",
@@ -3599,8 +3599,8 @@
         "nome": "Casse Espansione Enza monte",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 90.0,
-        "latitudine": 10.441714,
+        "altitudine": 90,
+        "latitudine": 44.706881,
         "longitudine": 10.441714,
         "macroarea": "Pianura Mo-Re",
         "comune": "Montecchio Emilia",
@@ -3617,8 +3617,8 @@
         "nome": "Cassa Crostolo SIAP",
         "bacino": "Crostolo",
         "sottobacino": "Crostolo",
-        "altitudine": 102.0,
-        "latitudine": 10.588292,
+        "altitudine": 102,
+        "latitudine": 44.643039,
         "longitudine": 10.588292,
         "macroarea": "Pianura Mo-Re",
         "comune": "Reggio nell'Emilia",
@@ -3635,8 +3635,8 @@
         "nome": "Ravone",
         "bacino": "Reno",
         "sottobacino": "Ravone",
-        "altitudine": 76.0,
-        "latitudine": 11.314722,
+        "altitudine": 76,
+        "latitudine": 44.48,
         "longitudine": 11.314722,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -3645,7 +3645,7 @@
         "soglie": {
             "soglia1": 0.4,
             "soglia2": 1.4,
-            "soglia3": 2.0
+            "soglia3": 2
         }
     },
     {
@@ -3653,15 +3653,15 @@
         "nome": "S. Ilario d'Enza",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 58.0,
-        "latitudine": 10.42692,
+        "altitudine": 58,
+        "latitudine": 44.76993,
         "longitudine": 10.42692,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
         "provincia": "Parma",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.7,
             "soglia3": 2.1
         }
@@ -3671,8 +3671,8 @@
         "nome": "Vigolo Marchese",
         "bacino": "Chiavenna",
         "sottobacino": "Chiavenna",
-        "altitudine": 127.0,
-        "latitudine": 9.842244,
+        "altitudine": 127,
+        "latitudine": 44.878174,
         "longitudine": 9.842244,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Castell'Arquato",
@@ -3689,8 +3689,8 @@
         "nome": "S. Zaccaria",
         "bacino": "Bevano",
         "sottobacino": "Bevano",
-        "altitudine": 10.0,
-        "latitudine": 12.214065,
+        "altitudine": 10,
+        "latitudine": 44.257283,
         "longitudine": 12.214065,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Ravenna",
@@ -3707,8 +3707,8 @@
         "nome": "S. Zeno",
         "bacino": "Montone",
         "sottobacino": "Rabbi",
-        "altitudine": 280.0,
-        "latitudine": 11.88026,
+        "altitudine": 280,
+        "latitudine": 44.0211,
         "longitudine": 11.88026,
         "macroarea": "Bacini Romagnoli",
         "comune": "Galeata",
@@ -3725,8 +3725,8 @@
         "nome": "Chiavica Bastia Sillaro",
         "bacino": "Sillaro",
         "sottobacino": "Sillaro",
-        "altitudine": 15.0,
-        "latitudine": 11.861487,
+        "altitudine": 15,
+        "latitudine": 44.578187,
         "longitudine": 11.861487,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
@@ -3734,7 +3734,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 8.7,
-            "soglia2": 11.0,
+            "soglia2": 11,
             "soglia3": 12.7
         }
     },
@@ -3743,8 +3743,8 @@
         "nome": "Bagnetto Reno",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 28.0,
-        "latitudine": 11.261466,
+        "altitudine": 28,
+        "latitudine": 44.685416,
         "longitudine": 11.261466,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Castello d'Argile",
@@ -3761,17 +3761,17 @@
         "nome": "Borgoforte",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 29.0,
-        "latitudine": 10.75911,
+        "altitudine": 29,
+        "latitudine": 45.04561,
         "longitudine": 10.75911,
         "macroarea": "Lomb-F",
         "comune": null,
         "provincia": null,
         "regione": null,
         "soglie": {
-            "soglia1": 5.0,
-            "soglia2": 6.0,
-            "soglia3": 7.0
+            "soglia1": 5,
+            "soglia2": 6,
+            "soglia3": 7
         }
     },
     {
@@ -3779,8 +3779,8 @@
         "nome": "Centonara",
         "bacino": "Quaderna",
         "sottobacino": "Quaderna",
-        "altitudine": 41.0,
-        "latitudine": 11.510563,
+        "altitudine": 41,
+        "latitudine": 44.471953,
         "longitudine": 11.510563,
         "macroarea": "Alto Reno",
         "comune": "Ozzano dell'Emilia",
@@ -3797,8 +3797,8 @@
         "nome": "Marzolara",
         "bacino": "Parma",
         "sottobacino": "Baganza",
-        "altitudine": 309.0,
-        "latitudine": 10.171386,
+        "altitudine": 309,
+        "latitudine": 44.634852,
         "longitudine": 10.171386,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Calestano",
@@ -3815,8 +3815,8 @@
         "nome": "Bentivoglio",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 19.0,
-        "latitudine": 11.419177,
+        "altitudine": 19,
+        "latitudine": 44.632102,
         "longitudine": 11.419177,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Bentivoglio",
@@ -3825,7 +3825,7 @@
         "soglie": {
             "soglia1": 15.6,
             "soglia2": 16.5,
-            "soglia3": 17.0
+            "soglia3": 17
         }
     },
     {
@@ -3833,8 +3833,8 @@
         "nome": "Ponte Bastia",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 10.0,
-        "latitudine": 11.875204,
+        "altitudine": 10,
+        "latitudine": 44.577447,
         "longitudine": 11.875204,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Conselice",
@@ -3843,7 +3843,7 @@
         "soglie": {
             "soglia1": 8.3,
             "soglia2": 10.7,
-            "soglia3": 13.0
+            "soglia3": 13
         }
     },
     {
@@ -3851,8 +3851,8 @@
         "nome": "Correcchio canale",
         "bacino": "Sillaro",
         "sottobacino": "Correcchio",
-        "altitudine": 25.0,
-        "latitudine": 11.729708,
+        "altitudine": 25,
+        "latitudine": 44.450186,
         "longitudine": 11.729708,
         "macroarea": "Alto Reno",
         "comune": "Imola",
@@ -3869,8 +3869,8 @@
         "nome": "Paltrone Samoggia",
         "bacino": "Samoggia",
         "sottobacino": "Samoggia",
-        "altitudine": 41.0,
-        "latitudine": 11.182593,
+        "altitudine": 41,
+        "latitudine": 44.579093,
         "longitudine": 11.182593,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Anzola dell'Emilia",
@@ -3887,8 +3887,8 @@
         "nome": "Ongina",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 35.0,
-        "latitudine": 10.052839,
+        "altitudine": 35,
+        "latitudine": 45.034287,
         "longitudine": 10.052839,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Polesine Zibello",
@@ -3905,8 +3905,8 @@
         "nome": "Mezzani chiavica bocca d'Enza valle",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 27.0,
-        "latitudine": 10.487694,
+        "altitudine": 27,
+        "latitudine": 44.905917,
         "longitudine": 10.487694,
         "macroarea": "Pianura Mo-Re",
         "comune": "Sorbolo Mezzani",
@@ -3923,8 +3923,8 @@
         "nome": "Impianto Forcelli Lavino",
         "bacino": "Samoggia",
         "sottobacino": "Lavino",
-        "altitudine": 33.0,
-        "latitudine": 11.232977,
+        "altitudine": 33,
+        "latitudine": 44.612949,
         "longitudine": 11.232977,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Sala Bolognese",
@@ -3932,7 +3932,7 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 29.5,
-            "soglia2": 32.0,
+            "soglia2": 32,
             "soglia3": 33.5
         }
     },
@@ -3941,8 +3941,8 @@
         "nome": "Beccara Nuova Reno",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 15.0,
-        "latitudine": 11.847272,
+        "altitudine": 15,
+        "latitudine": 44.591956,
         "longitudine": 11.847272,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
@@ -3950,8 +3950,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 8.5,
-            "soglia2": 11.0,
-            "soglia3": 14.0
+            "soglia2": 11,
+            "soglia3": 14
         }
     },
     {
@@ -3959,8 +3959,8 @@
         "nome": "Bassarone cassa",
         "bacino": "Pianura Reno",
         "sottobacino": "Pianura Reno",
-        "altitudine": 5.0,
-        "latitudine": 11.823003,
+        "altitudine": 5,
+        "latitudine": 44.611113,
         "longitudine": 11.823003,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Argenta",
@@ -3977,17 +3977,17 @@
         "nome": "Massarolo",
         "bacino": "Quaderna",
         "sottobacino": "Gaiana",
-        "altitudine": 21.0,
-        "latitudine": 11.614909,
+        "altitudine": 21,
+        "latitudine": 44.535328,
         "longitudine": 11.614909,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Medicina",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 18.0,
+            "soglia1": 18,
             "soglia2": 19.3,
-            "soglia3": 20.0
+            "soglia3": 20
         }
     },
     {
@@ -3995,8 +3995,8 @@
         "nome": "Ramiola",
         "bacino": "Taro",
         "sottobacino": "Taro",
-        "altitudine": 139.0,
-        "latitudine": 10.092777,
+        "altitudine": 139,
+        "latitudine": 44.697253,
         "longitudine": 10.092777,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Medesano",
@@ -4013,8 +4013,8 @@
         "nome": "Ongina Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 35.0,
-        "latitudine": 10.052916,
+        "altitudine": 35,
+        "latitudine": 45.034349,
         "longitudine": 10.052916,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Polesine Zibello",
@@ -4031,16 +4031,16 @@
         "nome": "Correcchio Sillaro",
         "bacino": "Sillaro",
         "sottobacino": "Correcchio",
-        "altitudine": 25.0,
-        "latitudine": 11.729604,
+        "altitudine": 25,
+        "latitudine": 44.450126,
         "longitudine": 11.729604,
         "macroarea": "Alto Reno",
         "comune": "Imola",
         "provincia": "Bologna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 20.0,
-            "soglia2": 21.0,
+            "soglia1": 20,
+            "soglia2": 21,
             "soglia3": 22.8
         }
     },
@@ -4049,8 +4049,8 @@
         "nome": "Sostegno Reno",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 24.0,
-        "latitudine": 11.272371,
+        "altitudine": 24,
+        "latitudine": 44.665467,
         "longitudine": 11.272371,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Sala Bolognese",
@@ -4067,8 +4067,8 @@
         "nome": "Rigosa Bassa",
         "bacino": "Pianura Fra Ongina E Taro",
         "sottobacino": "Pianura Fra Ongina E Taro",
-        "altitudine": 31.0,
-        "latitudine": 10.22325,
+        "altitudine": 31,
+        "latitudine": 44.993361,
         "longitudine": 10.22325,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Roccabianca",
@@ -4085,17 +4085,17 @@
         "nome": "Sermide",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 10.0,
-        "latitudine": 11.293337,
+        "altitudine": 10,
+        "latitudine": 45.014857,
         "longitudine": 11.293337,
         "macroarea": null,
         "comune": "Sermide e Felonica",
         "provincia": "Mantova",
         "regione": "Lombardia",
         "soglie": {
-            "soglia1": 7.0,
-            "soglia2": 8.0,
-            "soglia3": 9.0
+            "soglia1": 7,
+            "soglia2": 8,
+            "soglia3": 9
         }
     },
     {
@@ -4103,8 +4103,8 @@
         "nome": "Spessa Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 64.0,
-        "latitudine": 9.346085,
+        "altitudine": 64,
+        "latitudine": 45.101792,
         "longitudine": 9.346085,
         "macroarea": null,
         "comune": "Arena Po",
@@ -4121,17 +4121,17 @@
         "nome": "Foscaglia Panaro",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 20.0,
-        "latitudine": 11.287661,
+        "altitudine": 20,
+        "latitudine": 44.824593,
         "longitudine": 11.287661,
         "macroarea": "Pianura Mo-Re",
         "comune": "Finale Emilia",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 15.0,
-            "soglia2": 16.0,
-            "soglia3": 18.0
+            "soglia1": 15,
+            "soglia2": 16,
+            "soglia3": 18
         }
     },
     {
@@ -4139,8 +4139,8 @@
         "nome": "Anzola Ghironda",
         "bacino": "Samoggia",
         "sottobacino": "Ghironda",
-        "altitudine": 39.0,
-        "latitudine": 11.196527,
+        "altitudine": 39,
+        "latitudine": 44.552079,
         "longitudine": 11.196527,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Anzola dell'Emilia",
@@ -4148,8 +4148,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 37.4,
-            "soglia2": 38.0,
-            "soglia3": 39.0
+            "soglia2": 38,
+            "soglia3": 39
         }
     },
     {
@@ -4157,8 +4157,8 @@
         "nome": "Campigna IDRO",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 570.0,
-        "latitudine": 11.781212,
+        "altitudine": 570,
+        "latitudine": 43.89252,
         "longitudine": 11.781212,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
@@ -4175,8 +4175,8 @@
         "nome": "Abbeveratoia",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 57.0,
-        "latitudine": 10.311917,
+        "altitudine": 57,
+        "latitudine": 44.827639,
         "longitudine": 10.311917,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -4193,8 +4193,8 @@
         "nome": "Celle IDRO",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 572.0,
-        "latitudine": 11.778812,
+        "altitudine": 572,
+        "latitudine": 43.905957,
         "longitudine": 11.778812,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
@@ -4211,8 +4211,8 @@
         "nome": "Corniolo",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 476.0,
-        "latitudine": 11.799164,
+        "altitudine": 476,
+        "latitudine": 43.903146,
         "longitudine": 11.799164,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
@@ -4229,8 +4229,8 @@
         "nome": "Conca Diga",
         "bacino": "Conca",
         "sottobacino": "Conca",
-        "altitudine": 19.0,
-        "latitudine": 12.700267,
+        "altitudine": 19,
+        "latitudine": 43.958186,
         "longitudine": 12.700267,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "San Giovanni in Marignano",
@@ -4247,8 +4247,8 @@
         "nome": "Casalmaggiore",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 33.0,
-        "latitudine": 10.419781,
+        "altitudine": 33,
+        "latitudine": 44.976609,
         "longitudine": 10.419781,
         "macroarea": null,
         "comune": "Casalmaggiore",
@@ -4265,8 +4265,8 @@
         "nome": "Diga di Ridracoli",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 565.0,
-        "latitudine": 11.838658,
+        "altitudine": 565,
+        "latitudine": 43.870084,
         "longitudine": 11.838658,
         "macroarea": "Bacini Romagnoli",
         "comune": "Bagno di Romagna",
@@ -4283,8 +4283,8 @@
         "nome": "Guardasone",
         "bacino": "Enza",
         "sottobacino": "Enza",
-        "altitudine": 158.0,
-        "latitudine": 10.407612,
+        "altitudine": 158,
+        "latitudine": 44.622552,
         "longitudine": 10.407612,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Traversetolo",
@@ -4301,15 +4301,15 @@
         "nome": "Ponte Motta",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 26.0,
-        "latitudine": 10.994739,
+        "altitudine": 26,
+        "latitudine": 44.821165,
         "longitudine": 10.994739,
         "macroarea": "Pianura Mo-Re",
         "comune": "Cavezzo",
         "provincia": "Modena",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 7.0,
+            "soglia1": 7,
             "soglia2": 8.5,
             "soglia3": 11.2
         }
@@ -4319,8 +4319,8 @@
         "nome": "Cremona",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 45.0,
-        "latitudine": 9.995033,
+        "altitudine": 45,
+        "latitudine": 45.128596,
         "longitudine": 9.995033,
         "macroarea": null,
         "comune": "Cremona",
@@ -4337,8 +4337,8 @@
         "nome": "Conca 2",
         "bacino": "Conca",
         "sottobacino": "Conca",
-        "altitudine": 221.0,
-        "latitudine": 12.528898,
+        "altitudine": 221,
+        "latitudine": 43.88383,
         "longitudine": 12.528898,
         "macroarea": "Bacini Romagnoli",
         "comune": null,
@@ -4355,8 +4355,8 @@
         "nome": "Pontelagoscuro Conca",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 5.0,
-        "latitudine": 11.605,
+        "altitudine": 5,
+        "latitudine": 44.887014,
         "longitudine": 11.605,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Ferrara",
@@ -4368,8 +4368,8 @@
         "nome": "Casei Gerola Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 231.0,
-        "latitudine": 8.901962,
+        "altitudine": 231,
+        "latitudine": 45.054382,
         "longitudine": 8.901962,
         "macroarea": null,
         "comune": "Mezzana Bigli",
@@ -4386,8 +4386,8 @@
         "nome": "Crescentino Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 155.0,
-        "latitudine": 8.099722,
+        "altitudine": 155,
+        "latitudine": 45.179167,
         "longitudine": 8.099722,
         "macroarea": null,
         "comune": "Verrua Savoia",
@@ -4404,8 +4404,8 @@
         "nome": "Ponte Becca Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 65.0,
-        "latitudine": 9.227146,
+        "altitudine": 65,
+        "latitudine": 45.141582,
         "longitudine": 9.227146,
         "macroarea": null,
         "comune": "Mezzanino",
@@ -4422,8 +4422,8 @@
         "nome": "Carignano Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 240.0,
-        "latitudine": 7.689722,
+        "altitudine": 240,
+        "latitudine": 44.9025,
         "longitudine": 7.689722,
         "macroarea": null,
         "comune": "Carignano",
@@ -4440,17 +4440,17 @@
         "nome": "Ponte Valenza Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 90.0,
-        "latitudine": 8.631667,
+        "altitudine": 90,
+        "latitudine": 45.050833,
         "longitudine": 8.631667,
         "macroarea": null,
         "comune": "Valenza",
         "provincia": "Alessandria",
         "regione": "Piemonte",
         "soglie": {
-            "soglia1": 3.0,
+            "soglia1": 3,
             "soglia2": 3.8,
-            "soglia3": 5.0
+            "soglia3": 5
         }
     },
     {
@@ -4458,8 +4458,8 @@
         "nome": "Isola S.Antonio PO",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 84.0,
-        "latitudine": 8.822222,
+        "altitudine": 84,
+        "latitudine": 45.036111,
         "longitudine": 8.822222,
         "macroarea": null,
         "comune": "Isola Sant'Antonio",
@@ -4476,8 +4476,8 @@
         "nome": "Casale Monferrato Po",
         "bacino": "Po",
         "sottobacino": "Po",
-        "altitudine": 115.0,
-        "latitudine": 8.4475,
+        "altitudine": 115,
+        "latitudine": 45.142222,
         "longitudine": 8.4475,
         "macroarea": null,
         "comune": "Casale Monferrato",
@@ -4494,8 +4494,8 @@
         "nome": "Castell'Arquato Canale",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 159.0,
-        "latitudine": 9.872578,
+        "altitudine": 159,
+        "latitudine": 44.851204,
         "longitudine": 9.872578,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Castell'Arquato",
@@ -4512,8 +4512,8 @@
         "nome": "Castell'Arquato",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 159.0,
-        "latitudine": 9.871705,
+        "altitudine": 159,
+        "latitudine": 44.851467,
         "longitudine": 9.871705,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Castell'Arquato",
@@ -4530,8 +4530,8 @@
         "nome": "Vergato DX",
         "bacino": "Reno",
         "sottobacino": "Reno",
-        "altitudine": 193.0,
-        "latitudine": 11.113589,
+        "altitudine": 193,
+        "latitudine": 44.28778,
         "longitudine": 11.113589,
         "macroarea": "Alto Reno",
         "comune": "Vergato",
@@ -4539,8 +4539,8 @@
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
-            "soglia2": 3.0,
-            "soglia3": 5.0
+            "soglia2": 3,
+            "soglia3": 5
         }
     },
     {
@@ -4548,8 +4548,8 @@
         "nome": "S. Sofia",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 258.0,
-        "latitudine": 11.905145,
+        "altitudine": 258,
+        "latitudine": 43.941328,
         "longitudine": 11.905145,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
@@ -4566,15 +4566,15 @@
         "nome": "Gatta",
         "bacino": "Secchia",
         "sottobacino": "Secchia",
-        "altitudine": 397.0,
-        "latitudine": 10.4661921,
+        "altitudine": 397,
+        "latitudine": 44.4029935,
         "longitudine": 10.4661921,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Castelnovo ne' Monti",
         "provincia": "Reggio nell'Emilia",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 1.0,
+            "soglia1": 1,
             "soglia2": 1.8,
             "soglia3": 2.6
         }
@@ -4584,8 +4584,8 @@
         "nome": "Codrignano",
         "bacino": "Santerno",
         "sottobacino": "Santerno",
-        "altitudine": 70.0,
-        "latitudine": 11.640855,
+        "altitudine": 70,
+        "latitudine": 44.29826,
         "longitudine": 11.640855,
         "macroarea": "Alto Reno",
         "comune": "Borgo Tossignano",
@@ -4602,8 +4602,8 @@
         "nome": "Battiferro Bypass",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 32.0,
-        "latitudine": 11.334619,
+        "altitudine": 32,
+        "latitudine": 44.520528,
         "longitudine": 11.334619,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -4620,8 +4620,8 @@
         "nome": "Battiferro Monte",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 32.0,
-        "latitudine": 11.334634,
+        "altitudine": 32,
+        "latitudine": 44.520522,
         "longitudine": 11.334634,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -4638,8 +4638,8 @@
         "nome": "Battiferro Valle",
         "bacino": "Navile - Savena Abbandonato",
         "sottobacino": "Navile - Savena Abbandonato",
-        "altitudine": 32.0,
-        "latitudine": 11.334715,
+        "altitudine": 32,
+        "latitudine": 44.520662,
         "longitudine": 11.334715,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -4656,8 +4656,8 @@
         "nome": "Bacine GRONDA",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 565.0,
-        "latitudine": 11.820592,
+        "altitudine": 565,
+        "latitudine": 43.877284,
         "longitudine": 11.820592,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
@@ -4674,15 +4674,15 @@
         "nome": "Sarna",
         "bacino": "Lamone",
         "sottobacino": "Lamone",
-        "altitudine": 57.0,
-        "latitudine": 11.82135,
+        "altitudine": 57,
+        "latitudine": 44.244858,
         "longitudine": 11.82135,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Faenza",
         "provincia": "Ravenna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 2.0,
+            "soglia1": 2,
             "soglia2": 3.5,
             "soglia3": 4.5
         }
@@ -4692,8 +4692,8 @@
         "nome": "Faenza",
         "bacino": "Lamone",
         "sottobacino": "Lamone",
-        "altitudine": 37.0,
-        "latitudine": 11.891484,
+        "altitudine": 37,
+        "latitudine": 44.286883,
         "longitudine": 11.891484,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Faenza",
@@ -4702,7 +4702,7 @@
         "soglie": {
             "soglia1": 3.5,
             "soglia2": 4.5,
-            "soglia3": 6.0
+            "soglia3": 6
         }
     },
     {
@@ -4710,17 +4710,17 @@
         "nome": "Reda",
         "bacino": "Lamone",
         "sottobacino": "Lamone",
-        "altitudine": 26.0,
-        "latitudine": 11.942758,
+        "altitudine": 26,
+        "latitudine": 44.306503,
         "longitudine": 11.942758,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Faenza",
         "provincia": "Ravenna",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 5.0,
-            "soglia2": 7.0,
-            "soglia3": 9.0
+            "soglia1": 5,
+            "soglia2": 7,
+            "soglia3": 9
         }
     },
     {
@@ -4728,8 +4728,8 @@
         "nome": "Invaso Cassa Parma 1",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 91.0,
-        "latitudine": 10.34306,
+        "altitudine": 91,
+        "latitudine": 44.736111,
         "longitudine": 10.34306,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -4746,16 +4746,16 @@
         "nome": "Bondeno Panaro",
         "bacino": "Panaro",
         "sottobacino": "Panaro",
-        "altitudine": 13.0,
-        "latitudine": 11.414342,
+        "altitudine": 13,
+        "latitudine": 44.883001,
         "longitudine": 11.414342,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Bondeno",
         "provincia": "Ferrara",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 11.0,
-            "soglia2": 12.0,
+            "soglia1": 11,
+            "soglia2": 12,
             "soglia3": 13.8
         }
     },
@@ -4764,8 +4764,8 @@
         "nome": "Case Bonini",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 349.0,
-        "latitudine": 9.775866,
+        "altitudine": 349,
+        "latitudine": 44.751978,
         "longitudine": 9.775866,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Vernasca",
@@ -4782,8 +4782,8 @@
         "nome": "Ciriano",
         "bacino": "Chiavenna",
         "sottobacino": "Chero",
-        "altitudine": 116.0,
-        "latitudine": 9.813531,
+        "altitudine": 116,
+        "latitudine": 44.908826,
         "longitudine": 9.813531,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Carpaneto Piacentino",
@@ -4800,8 +4800,8 @@
         "nome": "Burana",
         "bacino": "Reno",
         "sottobacino": "Cavo Napoleonico",
-        "altitudine": 11.0,
-        "latitudine": 11.431938,
+        "altitudine": 11,
+        "latitudine": 44.877496,
         "longitudine": 11.431938,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Bondeno",
@@ -4818,8 +4818,8 @@
         "nome": "Foce Naviglio",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 31.0,
-        "latitudine": 10.381722,
+        "altitudine": 31,
+        "latitudine": 44.93,
         "longitudine": 10.381722,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Colorno",
@@ -4836,8 +4836,8 @@
         "nome": "Alseno",
         "bacino": "Ongina",
         "sottobacino": "Ongina",
-        "altitudine": 75.0,
-        "latitudine": 9.99518,
+        "altitudine": 75,
+        "latitudine": 44.88517,
         "longitudine": 9.99518,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Alseno",
@@ -4854,8 +4854,8 @@
         "nome": "Capoponte",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 335.0,
-        "latitudine": 10.22669,
+        "altitudine": 335,
+        "latitudine": 44.563551,
         "longitudine": 10.22669,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Langhirano",
@@ -4872,8 +4872,8 @@
         "nome": "Ponte Dattaro",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 64.0,
-        "latitudine": 10.326412,
+        "altitudine": 64,
+        "latitudine": 44.784717,
         "longitudine": 10.326412,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Parma",
@@ -4890,8 +4890,8 @@
         "nome": "Fiorano",
         "bacino": "Secchia",
         "sottobacino": "Spezzano",
-        "altitudine": 125.0,
-        "latitudine": 10.836506,
+        "altitudine": 125,
+        "latitudine": 44.534501,
         "longitudine": 10.836506,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Fiorano Modenese",
@@ -4908,8 +4908,8 @@
         "nome": "Marzocchina",
         "bacino": "Sillaro",
         "sottobacino": "Sillaro",
-        "altitudine": 128.0,
-        "latitudine": 11.52969,
+        "altitudine": 128,
+        "latitudine": 44.3315,
         "longitudine": 11.52969,
         "macroarea": "Alto Reno",
         "comune": "Castel San Pietro Terme",
@@ -4926,8 +4926,8 @@
         "nome": "Codigoro",
         "bacino": "Pianura Tra Po E Reno",
         "sottobacino": "Po Di Volano",
-        "altitudine": 0.0,
-        "latitudine": 12.107038,
+        "altitudine": 0,
+        "latitudine": 44.829993,
         "longitudine": 12.107038,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Codigoro",
@@ -4944,8 +4944,8 @@
         "nome": "Fiscaglia Valle",
         "bacino": "Pianura Tra Po E Reno",
         "sottobacino": "Po Di Volano",
-        "altitudine": 5.0,
-        "latitudine": 11.945408,
+        "altitudine": 5,
+        "latitudine": 44.77891,
         "longitudine": 11.945408,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Fiscaglia",
@@ -4962,8 +4962,8 @@
         "nome": "Fiscaglia Monte",
         "bacino": "Pianura Tra Po E Reno",
         "sottobacino": "Po Di Volano",
-        "altitudine": 5.0,
-        "latitudine": 11.945294,
+        "altitudine": 5,
+        "latitudine": 44.778821,
         "longitudine": 11.945294,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Fiscaglia",
@@ -4980,8 +4980,8 @@
         "nome": "Pontelagoscuro idrometro Boicelli",
         "bacino": "Pianura Tra Po E Reno",
         "sottobacino": "Canale Boicelli",
-        "altitudine": 2.0,
-        "latitudine": 11.603633,
+        "altitudine": 2,
+        "latitudine": 44.884903,
         "longitudine": 11.603633,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Ferrara",
@@ -4998,8 +4998,8 @@
         "nome": "Ponte Felisio",
         "bacino": "Senio",
         "sottobacino": "Senio",
-        "altitudine": 27.0,
-        "latitudine": 11.867409,
+        "altitudine": 27,
+        "latitudine": 44.349891,
         "longitudine": 11.867409,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Faenza",
@@ -5016,8 +5016,8 @@
         "nome": "Cusercoli Idro",
         "bacino": "Ronco",
         "sottobacino": "Ronco",
-        "altitudine": 120.0,
-        "latitudine": 12.00597,
+        "altitudine": 120,
+        "latitudine": 44.04414,
         "longitudine": 12.00597,
         "macroarea": "Bacini Romagnoli",
         "comune": "Civitella di Romagna",
@@ -5034,8 +5034,8 @@
         "nome": "Linaro",
         "bacino": "Savio",
         "sottobacino": "Borello",
-        "altitudine": 145.0,
-        "latitudine": 12.11278,
+        "altitudine": 145,
+        "latitudine": 44.00078,
         "longitudine": 12.11278,
         "macroarea": "Bacini Romagnoli",
         "comune": "Mercato Saraceno",
@@ -5052,8 +5052,8 @@
         "nome": "Ponte Uso",
         "bacino": "Uso",
         "sottobacino": "Uso",
-        "altitudine": 161.0,
-        "latitudine": 12.302748,
+        "altitudine": 161,
+        "latitudine": 43.977646,
         "longitudine": 12.302748,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Sogliano al Rubicone",
@@ -5070,8 +5070,8 @@
         "nome": "Monte Cerignone",
         "bacino": "Conca",
         "sottobacino": "Conca",
-        "altitudine": 458.0,
-        "latitudine": 12.416991,
+        "altitudine": 458,
+        "latitudine": 43.844273,
         "longitudine": 12.416991,
         "macroarea": "Bacini Romagnoli",
         "comune": "Monte Cerignone",
@@ -5088,8 +5088,8 @@
         "nome": "Ghisiliera Via Sabotino",
         "bacino": "Reno",
         "sottobacino": "Ravone",
-        "altitudine": 55.0,
-        "latitudine": 11.32228,
+        "altitudine": 55,
+        "latitudine": 44.49728,
         "longitudine": 11.32228,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -5106,8 +5106,8 @@
         "nome": "Case Bonini Briglia",
         "bacino": "Arda",
         "sottobacino": "Arda",
-        "altitudine": 349.0,
-        "latitudine": 9.773878,
+        "altitudine": 349,
+        "latitudine": 44.751708,
         "longitudine": 9.773878,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Vernasca",
@@ -5124,8 +5124,8 @@
         "nome": "Ponte degli Alpini",
         "bacino": "Parma",
         "sottobacino": "Parma",
-        "altitudine": 582.0,
-        "latitudine": 10.07314,
+        "altitudine": 582,
+        "latitudine": 44.48194,
         "longitudine": 10.07314,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Corniglio",
@@ -5142,8 +5142,8 @@
         "nome": "Ravone Via del Chiu",
         "bacino": "Reno",
         "sottobacino": "Ravone",
-        "altitudine": 55.0,
-        "latitudine": 11.32286,
+        "altitudine": 55,
+        "latitudine": 44.501461,
         "longitudine": 11.32286,
         "macroarea": "Alto Reno",
         "comune": "Bologna",
@@ -5160,8 +5160,8 @@
         "nome": "Polesera Cassa",
         "bacino": "Pianura Tra Po E Tidone",
         "sottobacino": "Rio Torto",
-        "altitudine": 87.0,
-        "latitudine": 9.428908,
+        "altitudine": 87,
+        "latitudine": 45.04361,
         "longitudine": 9.428908,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Castel San Giovanni",
@@ -5178,8 +5178,8 @@
         "nome": "Polesera Opera",
         "bacino": "Pianura Tra Po E Tidone",
         "sottobacino": "Rio Torto",
-        "altitudine": 87.0,
-        "latitudine": 9.431183,
+        "altitudine": 87,
+        "latitudine": 45.041805,
         "longitudine": 9.431183,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Castel San Giovanni",
@@ -5196,8 +5196,8 @@
         "nome": "Canonica Valle",
         "bacino": "Reno",
         "sottobacino": "Canale Di Reno",
-        "altitudine": 54.0,
-        "latitudine": 11.290039,
+        "altitudine": 54,
+        "latitudine": 44.488842,
         "longitudine": 11.290039,
         "macroarea": "Alto Reno",
         "comune": "Casalecchio di Reno",
@@ -5214,17 +5214,17 @@
         "nome": "Marsaglia",
         "bacino": "Trebbia",
         "sottobacino": "Trebbia",
-        "altitudine": 322.0,
-        "latitudine": 9.378631,
+        "altitudine": 322,
+        "latitudine": 44.711116,
         "longitudine": 9.378631,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Corte Brugnatella",
         "provincia": "Piacenza",
         "regione": "Emilia-Romagna",
         "soglie": {
-            "soglia1": 3.0,
+            "soglia1": 3,
             "soglia2": 4.5,
-            "soglia3": 5.0
+            "soglia3": 5
         }
     },
     {
@@ -5232,8 +5232,8 @@
         "nome": "Molato Diga Monte",
         "bacino": "Tidone",
         "sottobacino": "Tidone",
-        "altitudine": 355.0,
-        "latitudine": 9.287998,
+        "altitudine": 355,
+        "latitudine": 44.907085,
         "longitudine": 9.287998,
         "macroarea": "Pianura Pc-Pr",
         "comune": "Alta Val Tidone",
@@ -5250,8 +5250,8 @@
         "nome": "Rio Riccò",
         "bacino": "Taro",
         "sottobacino": "Ricco'",
-        "altitudine": 142.0,
-        "latitudine": 10.124015,
+        "altitudine": 142,
+        "latitudine": 44.69776,
         "longitudine": 10.124015,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Fornovo di Taro",
@@ -5268,8 +5268,8 @@
         "nome": "Cafragna",
         "bacino": "Taro",
         "sottobacino": "Scodogna",
-        "altitudine": 198.0,
-        "latitudine": 10.168047,
+        "altitudine": 198,
+        "latitudine": 44.689133,
         "longitudine": 10.168047,
         "macroarea": "Bacini Pc-Pr",
         "comune": "Fornovo di Taro",
@@ -5286,8 +5286,8 @@
         "nome": "Borgo Visignolo",
         "bacino": "Secchia",
         "sottobacino": "Tresinaro",
-        "altitudine": 202.0,
-        "latitudine": 10.63556,
+        "altitudine": 202,
+        "latitudine": 44.54575,
         "longitudine": 10.63556,
         "macroarea": "Enza Secchia Panaro",
         "comune": "Baiso",
@@ -5304,8 +5304,8 @@
         "nome": "Fiumicello idro valle",
         "bacino": "Montone",
         "sottobacino": "Rabbi",
-        "altitudine": 560.0,
-        "latitudine": 11.748266,
+        "altitudine": 560,
+        "latitudine": 43.948129,
         "longitudine": 11.748266,
         "macroarea": "Bacini Romagnoli",
         "comune": "Premilcuore",
