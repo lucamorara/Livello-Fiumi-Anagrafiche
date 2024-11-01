@@ -272,15 +272,20 @@
     {
         "id": "14379",
         "nome": "Bellocchio",
-        "bacino": null,
-        "sottobacino": null,
+        "bacino": "Comacchio",
+        "sottobacino": "Comacchio",
         "altitudine": 0,
         "latitudine": 44.620278,
         "longitudine": 12.235556,
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Comacchio",
         "provincia": "Ferrara",
-        "regione": "Emilia-Romagna"
+        "regione": "Emilia-Romagna",
+        "soglie": {
+            "soglia1": null,
+            "soglia2": null,
+            "soglia3": null
+        }
     },
     {
         "id": "5358",
@@ -2446,7 +2451,7 @@
         "id": "53034",
         "nome": "Parma S. Siro",
         "bacino": "Parma",
-        "sottobacino": null,
+        "sottobacino": "Torrile",
         "altitudine": 42,
         "latitudine": 44.893889,
         "longitudine": 10.327778,
@@ -4361,7 +4366,12 @@
         "macroarea": "Basso Reno E Ferrara",
         "comune": "Ferrara",
         "provincia": "Ferrara",
-        "regione": "Emilia-Romagna"
+        "regione": "Emilia-Romagna",
+        "soglie": {
+            "soglia1": null,
+            "soglia2": null,
+            "soglia3": null
+        }
     },
     {
         "id": "12753",
