@@ -4,881 +4,1763 @@
     "nome": "Arba",
     "latitudine": 46.142589,
     "longitudine": 12.808347,
-    "altitudine": 176.0
+    "altitudine": 176.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "6",
     "nome": "Arzenutto",
     "latitudine": 46.016584,
     "longitudine": 12.870542,
-    "altitudine": 71.0
+    "altitudine": 71.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "7",
     "nome": "Attimis",
     "latitudine": 46.188316,
     "longitudine": 13.30582,
-    "altitudine": 197.0
+    "altitudine": 197.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "9",
     "nome": "Azzida",
     "latitudine": 46.118391,
     "longitudine": 13.494746,
-    "altitudine": 165.0
+    "altitudine": 165.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "11",
     "nome": "Barcis invaso",
     "latitudine": 46.187855,
     "longitudine": 12.575168,
-    "altitudine": 405.0
+    "altitudine": 405.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "12",
     "nome": "Basaldella",
     "latitudine": 46.028068,
     "longitudine": 13.207894,
-    "altitudine": 83.0
+    "altitudine": 83.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "16",
-    "nome": "Cà Selva invaso",
+    "nome": "C\u00e0 Selva invaso",
     "latitudine": 46.258478,
     "longitudine": 12.700746,
-    "altitudine": 498.0
+    "altitudine": 498.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "17",
-    "nome": "Cà Zul invaso",
+    "nome": "C\u00e0 Zul invaso",
     "latitudine": 46.292178,
     "longitudine": 12.716113,
-    "altitudine": 600.0
+    "altitudine": 600.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "18",
     "nome": "Caltea",
     "latitudine": 46.15263,
     "longitudine": 12.539739,
-    "altitudine": 833.0
+    "altitudine": 833.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "20",
     "nome": "Caprizzi",
     "latitudine": 46.373244,
     "longitudine": 12.779448,
-    "altitudine": 510.0
+    "altitudine": 510.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "24",
     "nome": "Cave del Predil Idro",
     "latitudine": 46.442183745955,
     "longitudine": 13.57064626968,
-    "altitudine": 900.0
+    "altitudine": 900.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "25",
     "nome": "Cedarchis",
     "latitudine": 46.456389,
     "longitudine": 13.035886,
-    "altitudine": 402.0
+    "altitudine": 402.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "27",
     "nome": "Cellina Vajont",
     "latitudine": 46.147997,
     "longitudine": 12.681553,
-    "altitudine": 263.0
+    "altitudine": 263.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "29",
     "nome": "Cerneglons",
     "latitudine": 46.055799,
     "longitudine": 13.317992,
-    "altitudine": 91.0
+    "altitudine": 91.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "30",
     "nome": "Cerneglons T.Torre",
     "latitudine": 46.042519,
     "longitudine": 13.310481,
-    "altitudine": 92.0
+    "altitudine": 92.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "32",
     "nome": "Chiusaforte",
     "latitudine": 46.40467,
     "longitudine": 13.317505,
-    "altitudine": 400.0
+    "altitudine": 400.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "34",
     "nome": "Cimolais",
     "latitudine": 46.285646,
     "longitudine": 12.440843,
-    "altitudine": 650.0
+    "altitudine": 650.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "35",
     "nome": "Cividale idro",
     "latitudine": 46.091179,
     "longitudine": 13.430171,
-    "altitudine": 123.0
+    "altitudine": 123.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "39",
     "nome": "Codroipo",
     "latitudine": 45.956636,
     "longitudine": 12.992555,
-    "altitudine": 39.0
+    "altitudine": 39.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "45",
     "nome": "Colugna",
     "latitudine": 46.09271,
     "longitudine": 13.192559,
-    "altitudine": 141.0
+    "altitudine": 141.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "49",
     "nome": "Corno di Rosazzo",
     "latitudine": 46.01576,
     "longitudine": 13.44556,
-    "altitudine": 100.0
+    "altitudine": 100.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "50",
     "nome": "Coseano",
     "latitudine": 46.085097,
     "longitudine": 13.026109,
-    "altitudine": 113.0
+    "altitudine": 113.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "51",
     "nome": "Dignano",
     "latitudine": 46.084672,
     "longitudine": 12.930306,
-    "altitudine": 112.0
+    "altitudine": 112.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "53",
     "nome": "Dogna",
     "latitudine": 46.442496,
     "longitudine": 13.312559,
-    "altitudine": 424.0
+    "altitudine": 424.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "55",
-    "nome": "Faedis T. Grivò",
+    "nome": "Faedis T. Griv\u00f2",
     "latitudine": 46.148137,
     "longitudine": 13.345018,
-    "altitudine": 159.0
+    "altitudine": 159.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "58",
     "nome": "Fiaschetti",
     "latitudine": 45.985306,
     "longitudine": 12.483269,
-    "altitudine": 30.0
+    "altitudine": 30.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "59",
     "nome": "Forcate",
     "latitudine": 45.998401,
     "longitudine": 12.588671,
-    "altitudine": 40.0
+    "altitudine": 40.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "66",
     "nome": "Gorizia idro",
     "latitudine": 45.956288,
     "longitudine": 13.614325,
-    "altitudine": 160.0
+    "altitudine": 160.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "67",
     "nome": "Gradisca",
     "latitudine": 45.886131,
     "longitudine": 13.504433,
-    "altitudine": 37.0
+    "altitudine": 37.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "68",
     "nome": "Grado Marea",
     "latitudine": 45.683121,
     "longitudine": 13.38345,
-    "altitudine": 2.0
+    "altitudine": 2.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "71",
     "nome": "La Baita Idro",
     "latitudine": 45.946661,
     "longitudine": 13.511061,
-    "altitudine": 56.0
+    "altitudine": 56.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "75",
     "nome": "Lesis (ex Claut)",
     "latitudine": 46.272132,
     "longitudine": 12.5446,
-    "altitudine": 620.0
+    "altitudine": 620.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "76",
     "nome": "Lestizza",
     "latitudine": 45.951091,
     "longitudine": 13.135254,
-    "altitudine": 45.0
+    "altitudine": 45.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "77",
     "nome": "Lignano marea",
     "latitudine": 45.697699,
     "longitudine": 13.143481,
-    "altitudine": 2.0
+    "altitudine": 2.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "79",
     "nome": "Madrisio",
     "latitudine": 45.860782,
     "longitudine": 12.975227,
-    "altitudine": 14.0
+    "altitudine": 14.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "81",
     "nome": "Malborghetto F. Fella",
     "latitudine": 46.505812,
     "longitudine": 13.440331,
-    "altitudine": 733.0
+    "altitudine": 733.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "85",
     "nome": "Maniago",
     "latitudine": 46.173929,
     "longitudine": 12.718688,
-    "altitudine": 283.0
+    "altitudine": 283.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "86",
     "nome": "Manzano",
     "latitudine": 45.99165,
     "longitudine": 13.390948,
-    "altitudine": 60.0
+    "altitudine": 60.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "87",
     "nome": "Marano Lagunare",
     "latitudine": 45.761821,
     "longitudine": 13.166686,
-    "altitudine": 2.0
+    "altitudine": 2.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "88",
     "nome": "Mariano del Friuli (IDRO)",
     "latitudine": 45.921081,
     "longitudine": 13.456102,
-    "altitudine": 35.0
+    "altitudine": 35.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "89",
     "nome": "Meduno",
     "latitudine": 46.217903,
     "longitudine": 12.77291,
-    "altitudine": 255.0
+    "altitudine": 255.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "90",
     "nome": "Moggio Udinese",
     "latitudine": 46.399703,
     "longitudine": 13.186236,
-    "altitudine": 310.0
+    "altitudine": 310.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "91",
     "nome": "Molmentet",
     "latitudine": 46.189847,
     "longitudine": 13.266738,
-    "altitudine": 193.0
+    "altitudine": 193.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "92",
     "nome": "Monfalcone",
     "latitudine": 45.780302,
     "longitudine": 13.54963,
-    "altitudine": 3.0
+    "altitudine": 3.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "96",
     "nome": "Mure",
     "latitudine": 45.840301,
     "longitudine": 12.80522,
-    "altitudine": 8.0
+    "altitudine": 8.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "97",
     "nome": "Muscoli",
     "latitudine": 45.835787,
     "longitudine": 13.340433,
-    "altitudine": 5.0
+    "altitudine": 5.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "98",
     "nome": "Musi (nivometrica)",
     "latitudine": 46.307212,
     "longitudine": 13.27273,
-    "altitudine": 523.0
+    "altitudine": 523.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "99",
     "nome": "Muzzana Rio Revonchio",
     "latitudine": 45.818172,
     "longitudine": 13.129493,
-    "altitudine": 6.0
+    "altitudine": 6.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "100",
     "nome": "Oblino",
     "latitudine": 45.953886,
     "longitudine": 13.519722,
-    "altitudine": 57.0
+    "altitudine": 57.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "104",
     "nome": "Palazzolo dello Stella",
     "latitudine": 45.803232,
     "longitudine": 13.074126,
-    "altitudine": 5.0
+    "altitudine": 5.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "106",
     "nome": "Panigai",
     "latitudine": 45.829405,
     "longitudine": 12.675565,
-    "altitudine": 8.0
+    "altitudine": 8.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "112",
     "nome": "Pentina",
     "latitudine": 46.187209,
     "longitudine": 12.537651,
-    "altitudine": 410.0
+    "altitudine": 410.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "114",
     "nome": "Pescincanna",
     "latitudine": 45.942808,
     "longitudine": 12.749362,
-    "altitudine": 26.0
+    "altitudine": 26.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "115",
     "nome": "Pieris",
     "latitudine": 45.805573,
     "longitudine": 13.429548,
-    "altitudine": 16.0
+    "altitudine": 16.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "117",
     "nome": "Pocenia",
     "latitudine": 45.836288,
     "longitudine": 13.086272,
-    "altitudine": 9.0
+    "altitudine": 9.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "119",
     "nome": "Ponte Avons",
     "latitudine": 46.391172,
     "longitudine": 13.013347,
-    "altitudine": 310.0
+    "altitudine": 310.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "120",
     "nome": "Ponte Delizia",
     "latitudine": 45.965073,
     "longitudine": 12.901054,
-    "altitudine": 57.0
+    "altitudine": 57.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "121",
     "nome": "Ponte della Muda",
     "latitudine": 45.946083305714,
     "longitudine": 12.439315640873,
-    "altitudine": 56.0
+    "altitudine": 56.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "122",
     "nome": "Ponte di Nimis",
     "latitudine": 46.189187,
     "longitudine": 13.251327,
-    "altitudine": 187.0
+    "altitudine": 187.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "123",
     "nome": "Ponte Lovea",
     "latitudine": 46.47322,
     "longitudine": 13.074808,
-    "altitudine": 471.0
+    "altitudine": 471.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "124",
     "nome": "Ponte Sambo",
     "latitudine": 46.267018,
     "longitudine": 13.329246,
-    "altitudine": 389.0
+    "altitudine": 389.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "125",
     "nome": "Ponte di Versa",
     "latitudine": 45.897875,
     "longitudine": 13.421991,
-    "altitudine": 23.0
+    "altitudine": 23.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "126",
     "nome": "Pontebba Idro Fella",
     "latitudine": 46.509136,
     "longitudine": 13.325619,
-    "altitudine": 560.0
+    "altitudine": 560.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "128",
     "nome": "Pontebba T. Pontebbana",
     "latitudine": 46.510575,
     "longitudine": 13.30019,
-    "altitudine": 589.0
+    "altitudine": 589.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "130",
     "nome": "Pordenone Meduna",
     "latitudine": 45.945969,
     "longitudine": 12.699206,
-    "altitudine": 23.0
+    "altitudine": 23.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "132",
     "nome": "Pordenone Noncello",
     "latitudine": 45.951845,
     "longitudine": 12.658982,
-    "altitudine": 30.0
+    "altitudine": 30.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "134",
     "nome": "Pradis T. Aupa",
     "latitudine": 46.423037,
     "longitudine": 13.201284,
-    "altitudine": 367.0
+    "altitudine": 367.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "135",
     "nome": "Pramollo",
     "latitudine": 46.529829,
     "longitudine": 13.303484,
-    "altitudine": 900.0
+    "altitudine": 900.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "137",
     "nome": "Prata di Pordenone F. Meduna",
     "latitudine": 45.898483,
     "longitudine": 12.60359,
-    "altitudine": 20.0
+    "altitudine": 20.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "138",
     "nome": "Prata di Sopra",
     "latitudine": 45.903393,
     "longitudine": 12.602451,
-    "altitudine": 19.0
+    "altitudine": 19.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "139",
     "nome": "Prato Carnico",
     "latitudine": 46.51879,
     "longitudine": 12.80572,
-    "altitudine": 674.0
+    "altitudine": 674.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "141",
     "nome": "Prepotto",
     "latitudine": 46.048288,
     "longitudine": 13.489992,
-    "altitudine": 105.0
+    "altitudine": 105.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "144",
     "nome": "Pulfero",
     "latitudine": 46.173298,
     "longitudine": 13.483116,
-    "altitudine": 184.0
+    "altitudine": 184.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "147",
     "nome": "Resiutta",
     "latitudine": 46.388879,
     "longitudine": 13.221205,
-    "altitudine": 316.0
+    "altitudine": 316.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "154",
     "nome": "Sant'Andrat del Cormor",
     "latitudine": 45.914405,
     "longitudine": 13.161958,
-    "altitudine": 25.0
+    "altitudine": 25.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "155",
     "nome": "San Cassiano",
     "latitudine": 45.876824,
     "longitudine": 12.535115,
-    "altitudine": 20.0
+    "altitudine": 20.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "156",
     "nome": "San Francesco idro",
     "latitudine": 46.313412,
     "longitudine": 12.933999,
-    "altitudine": 389.0
+    "altitudine": 389.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "165",
     "nome": "Savogna d'Isonzo",
     "latitudine": 45.900513,
     "longitudine": 13.568542,
-    "altitudine": 40.0
+    "altitudine": 40.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "168",
     "nome": "Selvis",
     "latitudine": 46.069532,
     "longitudine": 13.333655,
-    "altitudine": 110.0
+    "altitudine": 110.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "169",
     "nome": "Settimana Briglia",
     "latitudine": 46.282569,
     "longitudine": 12.500402,
-    "altitudine": 608.0
+    "altitudine": 608.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "171",
     "nome": "Squarzare",
     "latitudine": 45.843915,
     "longitudine": 12.617717,
-    "altitudine": 13.0
+    "altitudine": 13.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "172",
     "nome": "Stalis",
     "latitudine": 45.850925,
     "longitudine": 12.86196,
-    "altitudine": 15.0
+    "altitudine": 15.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "174",
     "nome": "Tarvisio",
     "latitudine": 46.504294,
     "longitudine": 13.593889,
-    "altitudine": 701.0
+    "altitudine": 701.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "175",
     "nome": "Tavagnacco",
     "latitudine": 46.128436,
     "longitudine": 13.204853,
-    "altitudine": 140.0
+    "altitudine": 140.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "176",
     "nome": "Terme di Arta",
     "latitudine": 46.477142,
     "longitudine": 13.018276,
-    "altitudine": 445.0
+    "altitudine": 445.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "177",
     "nome": "Tesis T. Colvera",
     "latitudine": 46.125101,
     "longitudine": 12.789011,
-    "altitudine": 181.0
+    "altitudine": 181.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "179",
     "nome": "Tolmezzo Idro",
     "latitudine": 46.409726,
     "longitudine": 13.005266,
-    "altitudine": 330.0
+    "altitudine": 330.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "181",
-    "nome": "Torreano T. Chiarò",
+    "nome": "Torreano T. Chiar\u00f2",
     "latitudine": 46.125494,
     "longitudine": 13.430038,
-    "altitudine": 174.0
+    "altitudine": 174.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "182",
     "nome": "Torrente Alba",
     "latitudine": 46.195369,
     "longitudine": 12.603741,
-    "altitudine": 396.0
+    "altitudine": 396.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "185",
     "nome": "Tramonti invaso",
     "latitudine": 46.240651,
     "longitudine": 12.750119,
-    "altitudine": 318.0
+    "altitudine": 318.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "186",
     "nome": "Travesio",
     "latitudine": 46.196551,
     "longitudine": 12.871441,
-    "altitudine": 218.0
+    "altitudine": 218.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "187",
     "nome": "Tremeacque Livenza",
     "latitudine": 45.828388,
     "longitudine": 12.568554,
-    "altitudine": 11.0
+    "altitudine": 11.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "188",
     "nome": "Tremeacque Meduna",
     "latitudine": 45.828229,
     "longitudine": 12.57035,
-    "altitudine": 10.0
+    "altitudine": 10.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "192",
     "nome": "Turriaco",
     "latitudine": 45.81648,
     "longitudine": 13.43132,
-    "altitudine": 0.0
+    "altitudine": 0.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "195",
     "nome": "Ugovizza Uque",
     "latitudine": 46.510304,
     "longitudine": 13.471761,
-    "altitudine": 771.0
+    "altitudine": 771.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "196",
     "nome": "Vacile",
     "latitudine": 46.144543,
     "longitudine": 12.887664,
-    "altitudine": 148.0
+    "altitudine": 148.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "199",
     "nome": "Villa Santina T. Degano",
     "latitudine": 46.411276,
     "longitudine": 12.906771,
-    "altitudine": 375.0
+    "altitudine": 375.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "200",
     "nome": "Villesse",
     "latitudine": 45.851242,
     "longitudine": 13.419959,
-    "altitudine": 15.0
+    "altitudine": 15.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "201",
     "nome": "Villotta di Chions",
     "latitudine": 45.855064,
     "longitudine": 12.757509,
-    "altitudine": 14.0
+    "altitudine": 14.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "202",
     "nome": "Villuzza",
     "latitudine": 46.1814,
     "longitudine": 12.958073,
-    "altitudine": 240.0
+    "altitudine": 240.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "203",
     "nome": "Viscone",
     "latitudine": 45.925195,
     "longitudine": 13.378875,
-    "altitudine": 36.0
+    "altitudine": 36.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "204",
     "nome": "Visinale di Sopra",
     "latitudine": 45.902859,
     "longitudine": 12.614448,
-    "altitudine": 18.0
+    "altitudine": 18.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "205",
     "nome": "Zavattina T. Cormor",
     "latitudine": 45.833708,
     "longitudine": 13.159947,
-    "altitudine": 9.0
+    "altitudine": 9.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "207",
     "nome": "Zompitta idro",
     "latitudine": 46.163771,
     "longitudine": 13.257275,
-    "altitudine": 155.0
+    "altitudine": 155.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "209",
     "nome": "Zuiano",
     "latitudine": 45.874009,
     "longitudine": 12.713078,
-    "altitudine": 9.0
+    "altitudine": 9.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "239",
     "nome": "Latisana 2 ss14 idro",
     "latitudine": 45.770261,
     "longitudine": 12.996944,
-    "altitudine": 15.0
+    "altitudine": 15.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "240",
     "nome": "Latisana 1 idro",
     "latitudine": 45.772131,
     "longitudine": 12.996125,
-    "altitudine": 11.0
+    "altitudine": 11.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "241",
     "nome": "Cellina Prescudin idro",
     "latitudine": 46.203754,
     "longitudine": 12.514495,
-    "altitudine": 425.0
+    "altitudine": 425.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "502",
     "nome": "Trieste Marea",
     "latitudine": 45.64735,
     "longitudine": 13.759398,
-    "altitudine": 3.0
+    "altitudine": 3.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "513",
     "nome": "Scolmatore Corno Tag.",
     "latitudine": 46.144039,
     "longitudine": 13.024471,
-    "altitudine": 146.0
+    "altitudine": 146.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "524",
     "nome": "Ravedis invaso",
     "latitudine": 46.171862,
     "longitudine": 12.656364,
-    "altitudine": 343.0
+    "altitudine": 343.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "526",
     "nome": "Venzone Tagliamento",
     "latitudine": 46.335267,
     "longitudine": 13.134807,
-    "altitudine": 237.0
+    "altitudine": 237.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "529",
     "nome": "Forni di sopra idro",
     "latitudine": 46.405906,
     "longitudine": 12.58673,
-    "altitudine": 838.0
+    "altitudine": 838.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "540",
     "nome": "Invillino F. Tagliamento",
     "latitudine": 46.404051,
     "longitudine": 12.929658,
-    "altitudine": 358.0
+    "altitudine": 358.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "543",
     "nome": "Sacile",
     "latitudine": 45.950911,
     "longitudine": 12.502155,
-    "altitudine": 23.0
+    "altitudine": 23.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "550",
     "nome": "Tarcento Idro",
     "latitudine": 46.217139108931,
     "longitudine": 13.223274350166,
-    "altitudine": 230.0
+    "altitudine": 230.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "571",
     "nome": "Tarvisio Coccau",
     "latitudine": 46.52803,
     "longitudine": 13.63821,
-    "altitudine": 666.0
+    "altitudine": 666.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "572",
     "nome": "Tarvisio Cave",
     "latitudine": 46.46133,
     "longitudine": 13.57348,
-    "altitudine": 921.0
+    "altitudine": 921.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "573",
     "nome": "Chiarisacco F. Corno",
     "latitudine": 45.83388,
     "longitudine": 13.214675,
-    "altitudine": 10.0
+    "altitudine": 10.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "579",
     "nome": "Ponte di Corva sul fiume Meduna",
     "latitudine": 45.91679,
     "longitudine": 12.66018,
-    "altitudine": 6.0
+    "altitudine": 6.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "587",
     "nome": "Gorgazzo Idro",
     "latitudine": 46.038706616508,
     "longitudine": 12.49664247036,
-    "altitudine": 50.0
+    "altitudine": 50.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "592",
     "nome": "Clauzetto frana",
     "latitudine": 46.221333268011,
     "longitudine": 12.902326583862,
-    "altitudine": 0.0
+    "altitudine": 0.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "596",
     "nome": "Ovaro Muina",
     "latitudine": 46.45983,
     "longitudine": 12.87169,
-    "altitudine": 460.0
+    "altitudine": 460.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "597",
     "nome": "Ariis Idro",
     "latitudine": 45.871958,
     "longitudine": 13.08393,
-    "altitudine": 13.0
+    "altitudine": 13.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "602",
     "nome": "Francovez Rosandra",
     "latitudine": 45.607263,
     "longitudine": 13.820138,
-    "altitudine": 9.0
+    "altitudine": 9.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   },
   {
     "id": "612",
     "nome": "Comeglians (new)",
     "latitudine": 46.516967210607,
     "longitudine": 12.864919432694,
-    "altitudine": 520.0
+    "altitudine": 520.0,
+    "bacino": "liguria",
+    "sottobacino": "liguria",
+    "soglie": {
+      "soglia1": null,
+      "soglia2": null,
+      "soglia3": null
+    }
   }
 ]
