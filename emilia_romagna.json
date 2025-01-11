@@ -15,7 +15,9 @@
             "soglia1": 2.5,
             "soglia2": 3.5,
             "soglia3": 5.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14023",
@@ -33,7 +35,9 @@
             "soglia1": 335.8,
             "soglia2": 337.8,
             "soglia3": 340.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53087",
@@ -51,7 +55,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53086",
@@ -69,7 +75,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3136",
@@ -87,7 +95,9 @@
             "soglia1": 8.65,
             "soglia2": 10.4,
             "soglia3": 12
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5530",
@@ -105,7 +115,9 @@
             "soglia1": 1.6,
             "soglia2": 2.6,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5500",
@@ -123,7 +135,9 @@
             "soglia1": 1.2,
             "soglia2": 1.6,
             "soglia3": 2.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3123",
@@ -141,7 +155,9 @@
             "soglia1": 9.5,
             "soglia2": 11.5,
             "soglia3": 13.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3132",
@@ -159,7 +175,9 @@
             "soglia1": 10.3,
             "soglia2": 11.8,
             "soglia3": 13
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3174",
@@ -177,7 +195,9 @@
             "soglia1": 2.4,
             "soglia2": 3.2,
             "soglia3": 4.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12635",
@@ -195,7 +215,9 @@
             "soglia1": 5.2,
             "soglia2": 6.2,
             "soglia3": 8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5570",
@@ -213,7 +235,9 @@
             "soglia1": 1,
             "soglia2": 1.5,
             "soglia3": 2.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5511",
@@ -231,7 +255,9 @@
             "soglia1": 5.6,
             "soglia2": 7,
             "soglia3": 8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "11099",
@@ -249,7 +275,9 @@
             "soglia1": 2.5,
             "soglia2": 4.2,
             "soglia3": 5.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5534",
@@ -267,7 +295,9 @@
             "soglia1": 1.3,
             "soglia2": 1.8,
             "soglia3": 2.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14379",
@@ -285,7 +315,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5358",
@@ -303,7 +335,9 @@
             "soglia1": 2.2,
             "soglia2": 3,
             "soglia3": 3.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "13036",
@@ -321,7 +355,9 @@
             "soglia1": null,
             "soglia2": 1.2,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3184",
@@ -333,13 +369,15 @@
         "longitudine": 12.295992,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Cesena",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.1,
             "soglia2": 0.8,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5492",
@@ -357,7 +395,9 @@
             "soglia1": 0.8,
             "soglia2": 1.7,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5518",
@@ -375,7 +415,9 @@
             "soglia1": 1.2,
             "soglia2": 1.8,
             "soglia3": 2.9
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5525",
@@ -393,7 +435,9 @@
             "soglia1": 0.9,
             "soglia2": 1.4,
             "soglia3": 1.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5475",
@@ -411,7 +455,9 @@
             "soglia1": 2.5,
             "soglia2": 3.2,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5526",
@@ -429,7 +475,9 @@
             "soglia1": null,
             "soglia2": 1.5,
             "soglia3": 1.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3108",
@@ -447,7 +495,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12637",
@@ -465,7 +515,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5533",
@@ -483,7 +535,9 @@
             "soglia1": 2.5,
             "soglia2": 4,
             "soglia3": 4.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3183",
@@ -495,13 +549,15 @@
         "longitudine": 12.177013,
         "macroarea": "Bacini Romagnoli",
         "comune": "Mercato Saraceno",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.5,
             "soglia2": 1,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3107",
@@ -519,7 +575,9 @@
             "soglia1": 12.4,
             "soglia2": 13.2,
             "soglia3": 15.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3035",
@@ -530,14 +588,16 @@
         "latitudine": 44.262794,
         "longitudine": 11.992953,
         "macroarea": "Costa Ri-Ra-Fc",
-        "comune": "Forlì",
-        "provincia": "Forlì-Cesena",
+        "comune": "Forl\u00ec",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 4.5,
             "soglia2": 6.5,
             "soglia3": 8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12996",
@@ -555,7 +615,9 @@
             "soglia1": 1.9,
             "soglia2": 2.4,
             "soglia3": 2.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3098",
@@ -573,7 +635,9 @@
             "soglia1": 5.5,
             "soglia2": 7,
             "soglia3": 8.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3135",
@@ -591,7 +655,9 @@
             "soglia1": 11.45,
             "soglia2": 13.6,
             "soglia3": 15
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5493",
@@ -609,7 +675,9 @@
             "soglia1": 0.5,
             "soglia2": 2,
             "soglia3": 2.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3198",
@@ -620,14 +688,16 @@
         "latitudine": 44.163848,
         "longitudine": 12.009565,
         "macroarea": "Costa Ri-Ra-Fc",
-        "comune": "Forlì",
-        "provincia": "Forlì-Cesena",
+        "comune": "Forl\u00ec",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.9,
             "soglia2": 1.3,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3114",
@@ -645,7 +715,9 @@
             "soglia1": 8,
             "soglia2": 10,
             "soglia3": 11.1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14595",
@@ -663,7 +735,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3004",
@@ -681,7 +755,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3200",
@@ -699,7 +775,9 @@
             "soglia1": 4.5,
             "soglia2": 6.5,
             "soglia3": 8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3143",
@@ -717,7 +795,9 @@
             "soglia1": 2,
             "soglia2": 2.7,
             "soglia3": 3.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3139",
@@ -735,7 +815,9 @@
             "soglia1": 11,
             "soglia2": 12,
             "soglia3": 13
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5532",
@@ -753,7 +835,9 @@
             "soglia1": 3,
             "soglia2": 4,
             "soglia3": 5.4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3109",
@@ -771,7 +855,9 @@
             "soglia1": 10.8,
             "soglia2": 11.7,
             "soglia3": 14.35
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3110",
@@ -789,7 +875,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3051",
@@ -807,7 +895,9 @@
             "soglia1": 4.5,
             "soglia2": 6,
             "soglia3": 7.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5551",
@@ -825,7 +915,9 @@
             "soglia1": 1.8,
             "soglia2": 2.15,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3053",
@@ -843,7 +935,9 @@
             "soglia1": null,
             "soglia2": 3.5,
             "soglia3": 5.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5342",
@@ -861,7 +955,9 @@
             "soglia1": 0.9,
             "soglia2": 1.4,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5563",
@@ -879,7 +975,9 @@
             "soglia1": -0.3,
             "soglia2": 0.3,
             "soglia3": 1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3205",
@@ -897,7 +995,9 @@
             "soglia1": 1.1,
             "soglia2": 1.8,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5539",
@@ -915,7 +1015,9 @@
             "soglia1": 1.5,
             "soglia2": 1.9,
             "soglia3": 2.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3052",
@@ -933,7 +1035,9 @@
             "soglia1": 4,
             "soglia2": 5.5,
             "soglia3": 7.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3055",
@@ -945,13 +1049,15 @@
         "longitudine": 11.949397,
         "macroarea": "Bacini Romagnoli",
         "comune": "Castrocaro Terme e Terra del Sole",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.3,
             "soglia2": 2,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3111",
@@ -969,7 +1075,9 @@
             "soglia1": 9.1,
             "soglia2": 10,
             "soglia3": 12.65
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3794",
@@ -987,7 +1095,9 @@
             "soglia1": 1.3,
             "soglia2": 1.6,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3105",
@@ -1005,7 +1115,9 @@
             "soglia1": 2.5,
             "soglia2": 4,
             "soglia3": 6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3113",
@@ -1023,7 +1135,9 @@
             "soglia1": 9,
             "soglia2": 10.5,
             "soglia3": 11.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3125",
@@ -1041,7 +1155,9 @@
             "soglia1": 9,
             "soglia2": 11.4,
             "soglia3": 13
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3128",
@@ -1059,7 +1175,9 @@
             "soglia1": 8,
             "soglia2": 9.2,
             "soglia3": 11
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3137",
@@ -1077,7 +1195,9 @@
             "soglia1": 8.3,
             "soglia2": 10.2,
             "soglia3": 12.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3134",
@@ -1095,7 +1215,9 @@
             "soglia1": 9,
             "soglia2": 10.7,
             "soglia3": 12.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3133",
@@ -1113,7 +1235,9 @@
             "soglia1": 10,
             "soglia2": 12,
             "soglia3": 14
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3140",
@@ -1131,7 +1255,9 @@
             "soglia1": 10,
             "soglia2": 12,
             "soglia3": 14
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3142",
@@ -1149,7 +1275,9 @@
             "soglia1": 9.7,
             "soglia2": 11,
             "soglia3": 13
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3149",
@@ -1167,7 +1295,9 @@
             "soglia1": 12.5,
             "soglia2": 14.8,
             "soglia3": 17
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3150",
@@ -1185,7 +1315,9 @@
             "soglia1": 12.5,
             "soglia2": 14,
             "soglia3": 15
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3170",
@@ -1203,7 +1335,9 @@
             "soglia1": 2.1,
             "soglia2": 2.6,
             "soglia3": 3.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "11100",
@@ -1221,7 +1355,9 @@
             "soglia1": 0.8,
             "soglia2": 1.3,
             "soglia3": 1.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3187",
@@ -1233,13 +1369,15 @@
         "longitudine": 12.235051,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Cesena",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 4,
             "soglia2": 5.5,
             "soglia3": 7.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3202",
@@ -1251,13 +1389,15 @@
         "longitudine": 12.095183,
         "macroarea": "Bacini Romagnoli",
         "comune": "Sarsina",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": 2,
             "soglia3": 3.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "11102",
@@ -1275,7 +1415,9 @@
             "soglia1": 0.9,
             "soglia2": 1.3,
             "soglia3": 1.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3195",
@@ -1287,13 +1429,15 @@
         "longitudine": 11.795154,
         "macroarea": "Bacini Romagnoli",
         "comune": "Modigliana",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.7,
             "soglia2": 1,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3190",
@@ -1304,14 +1448,16 @@
         "latitudine": 44.226977,
         "longitudine": 12.027569,
         "macroarea": "Costa Ri-Ra-Fc",
-        "comune": "Forlì",
-        "provincia": "Forlì-Cesena",
+        "comune": "Forl\u00ec",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 3.5,
             "soglia2": 5,
             "soglia3": 7.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3203",
@@ -1329,7 +1475,9 @@
             "soglia1": null,
             "soglia2": 3,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3207",
@@ -1340,14 +1488,16 @@
         "latitudine": 44.203057,
         "longitudine": 12.086677,
         "macroarea": "Costa Ri-Ra-Fc",
-        "comune": "Forlì",
-        "provincia": "Forlì-Cesena",
+        "comune": "Forl\u00ec",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 4,
             "soglia2": 6,
             "soglia3": 7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3028",
@@ -1365,7 +1515,9 @@
             "soglia1": 4.5,
             "soglia2": 5.5,
             "soglia3": 6.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5582",
@@ -1383,7 +1535,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3215",
@@ -1395,13 +1549,15 @@
         "longitudine": 12.396358,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Savignano sul Rubicone",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.3,
             "soglia2": 2,
             "soglia3": 3.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3208",
@@ -1419,7 +1575,9 @@
             "soglia1": null,
             "soglia2": 4.5,
             "soglia3": 5.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3219",
@@ -1431,13 +1589,15 @@
         "longitudine": 12.084923,
         "macroarea": "Bacini Romagnoli",
         "comune": "Meldola",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.8,
             "soglia2": 1.2,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3776",
@@ -1455,7 +1615,9 @@
             "soglia1": 1,
             "soglia2": 1.6,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5506",
@@ -1473,7 +1635,9 @@
             "soglia1": 1,
             "soglia2": 1.5,
             "soglia3": 2.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5507",
@@ -1491,7 +1655,9 @@
             "soglia1": 2,
             "soglia2": 2.8,
             "soglia3": 3.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5505",
@@ -1509,7 +1675,9 @@
             "soglia1": 1.3,
             "soglia2": 1.8,
             "soglia3": 2.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "11837",
@@ -1527,7 +1695,9 @@
             "soglia1": 1.1,
             "soglia2": 2.4,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5301",
@@ -1545,7 +1715,9 @@
             "soglia1": 2.7,
             "soglia2": 4.3,
             "soglia3": 4.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5340",
@@ -1563,7 +1735,9 @@
             "soglia1": 8.5,
             "soglia2": 9.8,
             "soglia3": 11.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5359",
@@ -1581,7 +1755,9 @@
             "soglia1": 2.5,
             "soglia2": 3.2,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5411",
@@ -1599,7 +1775,9 @@
             "soglia1": 1.2,
             "soglia2": 1.8,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5414",
@@ -1617,7 +1795,9 @@
             "soglia1": null,
             "soglia2": 1.6,
             "soglia3": 2.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5422",
@@ -1635,7 +1815,9 @@
             "soglia1": 0.8,
             "soglia2": 1.6,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5430",
@@ -1647,13 +1829,15 @@
         "longitudine": 12.061551,
         "macroarea": "Bacini Romagnoli",
         "comune": "Meldola",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.6,
             "soglia2": 1.1,
             "soglia3": 2.1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5433",
@@ -1671,7 +1855,9 @@
             "soglia1": 11.2,
             "soglia2": 11.8,
             "soglia3": 12.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5434",
@@ -1689,7 +1875,9 @@
             "soglia1": 2,
             "soglia2": 2.8,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5435",
@@ -1707,7 +1895,9 @@
             "soglia1": 2.5,
             "soglia2": 3,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5438",
@@ -1725,7 +1915,9 @@
             "soglia1": 7.8,
             "soglia2": 9.6,
             "soglia3": 11.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5477",
@@ -1743,7 +1935,9 @@
             "soglia1": null,
             "soglia2": 1.7,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5478",
@@ -1761,7 +1955,9 @@
             "soglia1": 1.2,
             "soglia2": 2,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5490",
@@ -1779,7 +1975,9 @@
             "soglia1": 2.9,
             "soglia2": 4,
             "soglia3": 4.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5485",
@@ -1797,7 +1995,9 @@
             "soglia1": 1,
             "soglia2": 1.4,
             "soglia3": 2.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5486",
@@ -1815,7 +2015,9 @@
             "soglia1": 1,
             "soglia2": 1.7,
             "soglia3": 2.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5488",
@@ -1833,7 +2035,9 @@
             "soglia1": 2.8,
             "soglia2": 3.9,
             "soglia3": 4.9
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5502",
@@ -1851,7 +2055,9 @@
             "soglia1": 2.3,
             "soglia2": 3,
             "soglia3": 4.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5498",
@@ -1869,7 +2075,9 @@
             "soglia1": 5.5,
             "soglia2": 8,
             "soglia3": 10.1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5519",
@@ -1887,7 +2095,9 @@
             "soglia1": 1.4,
             "soglia2": 2.1,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3131",
@@ -1905,7 +2115,9 @@
             "soglia1": 11.5,
             "soglia2": 12.8,
             "soglia3": 14.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3217",
@@ -1923,7 +2135,9 @@
             "soglia1": 1,
             "soglia2": 1.4,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12462",
@@ -1941,7 +2155,9 @@
             "soglia1": 1.3,
             "soglia2": 1.6,
             "soglia3": 1.9
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12479",
@@ -1959,7 +2175,9 @@
             "soglia1": 1.5,
             "soglia2": 2.2,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12710",
@@ -1977,7 +2195,9 @@
             "soglia1": 1.5,
             "soglia2": 2.1,
             "soglia3": 2.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5522",
@@ -1995,7 +2215,9 @@
             "soglia1": 7.9,
             "soglia2": 10,
             "soglia3": 11
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5523",
@@ -2013,7 +2235,9 @@
             "soglia1": 4.5,
             "soglia2": 5.8,
             "soglia3": 7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5494",
@@ -2031,7 +2255,9 @@
             "soglia1": 10.15,
             "soglia2": 11,
             "soglia3": 14
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3112",
@@ -2049,7 +2275,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53082",
@@ -2067,7 +2295,9 @@
             "soglia1": 1.5,
             "soglia2": 2,
             "soglia3": 2.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3210",
@@ -2085,7 +2315,9 @@
             "soglia1": null,
             "soglia2": 3.8,
             "soglia3": 4.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5431",
@@ -2097,13 +2329,15 @@
         "longitudine": 12.199839,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Cesena",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 2.5,
             "soglia2": 4,
             "soglia3": 5.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5436",
@@ -2121,7 +2355,9 @@
             "soglia1": 1.5,
             "soglia2": 2,
             "soglia3": 2.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5524",
@@ -2139,7 +2375,9 @@
             "soglia1": 0.8,
             "soglia2": 1.2,
             "soglia3": 1.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3130",
@@ -2157,7 +2395,9 @@
             "soglia1": 10.5,
             "soglia2": 12.2,
             "soglia3": 13.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3036",
@@ -2169,13 +2409,15 @@
         "longitudine": 12.169919,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Bertinoro",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.5,
             "soglia2": 2.2,
             "soglia3": 3.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5425",
@@ -2193,7 +2435,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53123",
@@ -2211,7 +2455,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "13173",
@@ -2229,7 +2475,9 @@
             "soglia1": 0.6,
             "soglia2": 1.6,
             "soglia3": 2.1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5325",
@@ -2247,7 +2495,9 @@
             "soglia1": 3.2,
             "soglia2": 3.7,
             "soglia3": 4.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5321",
@@ -2265,7 +2515,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3176",
@@ -2283,7 +2535,9 @@
             "soglia1": 2.5,
             "soglia2": 4,
             "soglia3": 5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5514",
@@ -2301,7 +2555,9 @@
             "soglia1": 1.7,
             "soglia2": 2.3,
             "soglia3": 3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12668",
@@ -2319,7 +2575,9 @@
             "soglia1": 1.8,
             "soglia2": 3.6,
             "soglia3": 5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3182",
@@ -2337,7 +2595,9 @@
             "soglia1": 1.6,
             "soglia2": 2.2,
             "soglia3": 3.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12709",
@@ -2355,7 +2615,9 @@
             "soglia1": 6.5,
             "soglia2": 8.2,
             "soglia3": 10.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3177",
@@ -2373,7 +2635,9 @@
             "soglia1": 1,
             "soglia2": 1.6,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3096",
@@ -2391,7 +2655,9 @@
             "soglia1": 0.4,
             "soglia2": 1.1,
             "soglia3": 1.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3037",
@@ -2409,7 +2675,9 @@
             "soglia1": 1,
             "soglia2": 1.4,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53036",
@@ -2427,7 +2695,9 @@
             "soglia1": 3.2,
             "soglia2": 5.7,
             "soglia3": 7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12899",
@@ -2445,7 +2715,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53034",
@@ -2463,7 +2735,9 @@
             "soglia1": 9.2,
             "soglia2": 10.7,
             "soglia3": 11.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5516",
@@ -2481,7 +2755,9 @@
             "soglia1": 2,
             "soglia2": 3,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5323",
@@ -2499,7 +2775,9 @@
             "soglia1": 1.2,
             "soglia2": 2.4,
             "soglia3": 3.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "13035",
@@ -2517,7 +2795,9 @@
             "soglia1": 1.2,
             "soglia2": 1.7,
             "soglia3": 2.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5327",
@@ -2535,7 +2815,9 @@
             "soglia1": 0.5,
             "soglia2": 1.3,
             "soglia3": 2.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5564",
@@ -2553,7 +2835,9 @@
             "soglia1": 70,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3100",
@@ -2571,7 +2855,9 @@
             "soglia1": 0.5,
             "soglia2": 0.7,
             "soglia3": 1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3216",
@@ -2589,7 +2875,9 @@
             "soglia1": 3.5,
             "soglia2": 5,
             "soglia3": 6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12639",
@@ -2607,7 +2895,9 @@
             "soglia1": 8,
             "soglia2": 9.8,
             "soglia3": 12.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3121",
@@ -2625,7 +2915,9 @@
             "soglia1": 10.5,
             "soglia2": 12,
             "soglia3": 13
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5334",
@@ -2643,7 +2935,9 @@
             "soglia1": 5.7,
             "soglia2": 6.7,
             "soglia3": 7.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3116",
@@ -2661,7 +2955,9 @@
             "soglia1": 8.3,
             "soglia2": 10.8,
             "soglia3": 12.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3126",
@@ -2679,7 +2975,9 @@
             "soglia1": 9.5,
             "soglia2": 10.8,
             "soglia3": 12.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3159",
@@ -2697,7 +2995,9 @@
             "soglia1": 1,
             "soglia2": 1.5,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3120",
@@ -2715,7 +3015,9 @@
             "soglia1": 9.3,
             "soglia2": 12,
             "soglia3": 13.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3102",
@@ -2733,7 +3035,9 @@
             "soglia1": 1,
             "soglia2": 1.3,
             "soglia3": 1.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3122",
@@ -2751,7 +3055,9 @@
             "soglia1": 2.2,
             "soglia2": 3,
             "soglia3": 4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3179",
@@ -2769,7 +3075,9 @@
             "soglia1": 1.7,
             "soglia2": 2,
             "soglia3": 3.1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5561",
@@ -2787,7 +3095,9 @@
             "soglia1": 0.8,
             "soglia2": 1.6,
             "soglia3": 2.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3001",
@@ -2805,7 +3115,9 @@
             "soglia1": 1,
             "soglia2": 1.3,
             "soglia3": 2.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5420",
@@ -2823,7 +3135,9 @@
             "soglia1": 1.7,
             "soglia2": 2.1,
             "soglia3": 3.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5329",
@@ -2841,7 +3155,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5328",
@@ -2859,7 +3175,9 @@
             "soglia1": 1.3,
             "soglia2": 1.8,
             "soglia3": 2.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3094",
@@ -2877,7 +3195,9 @@
             "soglia1": 1.3,
             "soglia2": 2,
             "soglia3": 2.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3095",
@@ -2895,7 +3215,9 @@
             "soglia1": 0.8,
             "soglia2": 1.6,
             "soglia3": 2.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3798",
@@ -2913,7 +3235,9 @@
             "soglia1": 2.3,
             "soglia2": 3,
             "soglia3": 4.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3097",
@@ -2931,7 +3255,9 @@
             "soglia1": 0.8,
             "soglia2": 1,
             "soglia3": 1.4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3115",
@@ -2949,7 +3275,9 @@
             "soglia1": 0.4,
             "soglia2": 1.2,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3795",
@@ -2967,7 +3295,9 @@
             "soglia1": 2.6,
             "soglia2": 3,
             "soglia3": 3.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3104",
@@ -2985,7 +3315,9 @@
             "soglia1": null,
             "soglia2": 3,
             "soglia3": 5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3106",
@@ -3003,7 +3335,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3124",
@@ -3021,7 +3355,9 @@
             "soglia1": 8.8,
             "soglia2": 9.8,
             "soglia3": 11
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3117",
@@ -3039,7 +3375,9 @@
             "soglia1": 20,
             "soglia2": 21.8,
             "soglia3": 23.4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3118",
@@ -3057,7 +3395,9 @@
             "soglia1": 10.5,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3127",
@@ -3075,7 +3415,9 @@
             "soglia1": 12.8,
             "soglia2": 13.6,
             "soglia3": 14.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3141",
@@ -3093,7 +3435,9 @@
             "soglia1": 7.5,
             "soglia2": 10,
             "soglia3": 11.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3148",
@@ -3111,7 +3455,9 @@
             "soglia1": 1.8,
             "soglia2": 3,
             "soglia3": 3.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3172",
@@ -3129,7 +3475,9 @@
             "soglia1": 3,
             "soglia2": 3.6,
             "soglia3": 4.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3173",
@@ -3147,7 +3495,9 @@
             "soglia1": 2.1,
             "soglia2": 2.8,
             "soglia3": 3.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3181",
@@ -3165,7 +3515,9 @@
             "soglia1": 6,
             "soglia2": 7.5,
             "soglia3": 8.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3185",
@@ -3183,7 +3535,9 @@
             "soglia1": 4.5,
             "soglia2": 6,
             "soglia3": 8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3193",
@@ -3195,13 +3549,15 @@
         "longitudine": 12.196596,
         "macroarea": "Bacini Romagnoli",
         "comune": "Mercato Saraceno",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.5,
             "soglia2": 2,
             "soglia3": 3.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3194",
@@ -3219,7 +3575,9 @@
             "soglia1": 4.5,
             "soglia2": 6,
             "soglia3": 7.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3206",
@@ -3231,13 +3589,15 @@
         "longitudine": 11.844404,
         "macroarea": "Bacini Romagnoli",
         "comune": "Rocca San Casciano",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.5,
             "soglia2": 0.8,
             "soglia3": 1.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3099",
@@ -3255,7 +3615,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3101",
@@ -3273,7 +3635,9 @@
             "soglia1": 0.7,
             "soglia2": 2.3,
             "soglia3": 3.4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5508",
@@ -3291,7 +3655,9 @@
             "soglia1": 1.3,
             "soglia2": 1.7,
             "soglia3": 2.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5335",
@@ -3309,7 +3675,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "6560",
@@ -3327,7 +3695,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5415",
@@ -3345,7 +3715,9 @@
             "soglia1": 8,
             "soglia2": 9.2,
             "soglia3": 11.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5416",
@@ -3363,7 +3735,9 @@
             "soglia1": 1.7,
             "soglia2": 2.6,
             "soglia3": 3.1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5417",
@@ -3381,7 +3755,9 @@
             "soglia1": 5,
             "soglia2": 6,
             "soglia3": 7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5437",
@@ -3399,7 +3775,9 @@
             "soglia1": 7.3,
             "soglia2": 8.7,
             "soglia3": 12
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5439",
@@ -3417,7 +3795,9 @@
             "soglia1": 1.5,
             "soglia2": 2,
             "soglia3": 2.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5448",
@@ -3435,7 +3815,9 @@
             "soglia1": 7.5,
             "soglia2": 9,
             "soglia3": 11.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12094",
@@ -3453,7 +3835,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5491",
@@ -3471,7 +3855,9 @@
             "soglia1": 3,
             "soglia2": 3.6,
             "soglia3": 4.4
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5487",
@@ -3489,7 +3875,9 @@
             "soglia1": 3.2,
             "soglia2": 4.3,
             "soglia3": 6.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5503",
@@ -3507,7 +3895,9 @@
             "soglia1": 1,
             "soglia2": 1.3,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5504",
@@ -3525,7 +3915,9 @@
             "soglia1": 2.4,
             "soglia2": 2.9,
             "soglia3": 3.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5393",
@@ -3543,7 +3935,9 @@
             "soglia1": 0.5,
             "soglia2": 1.3,
             "soglia3": 2.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3057",
@@ -3561,7 +3955,9 @@
             "soglia1": 3.5,
             "soglia2": 4.5,
             "soglia3": 5.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53096",
@@ -3579,7 +3975,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5339",
@@ -3597,7 +3995,9 @@
             "soglia1": 5.5,
             "soglia2": 6.5,
             "soglia3": 9.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14596",
@@ -3615,7 +4015,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14597",
@@ -3633,7 +4035,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "13023",
@@ -3651,7 +4055,9 @@
             "soglia1": 0.4,
             "soglia2": 1.4,
             "soglia3": 2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53075",
@@ -3669,7 +4075,9 @@
             "soglia1": 1,
             "soglia2": 1.7,
             "soglia3": 2.1
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53088",
@@ -3687,7 +4095,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3213",
@@ -3705,7 +4115,9 @@
             "soglia1": 1.5,
             "soglia2": 2.5,
             "soglia3": 3.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53097",
@@ -3717,13 +4129,15 @@
         "longitudine": 11.88026,
         "macroarea": "Bacini Romagnoli",
         "comune": "Galeata",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 1.2,
             "soglia2": 1.6,
             "soglia3": 2.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5304",
@@ -3741,7 +4155,9 @@
             "soglia1": 8.7,
             "soglia2": 11,
             "soglia3": 12.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5368",
@@ -3759,7 +4175,9 @@
             "soglia1": 22.9,
             "soglia2": 25.5,
             "soglia3": 27.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12733",
@@ -3777,7 +4195,9 @@
             "soglia1": 5,
             "soglia2": 6,
             "soglia3": 7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5303",
@@ -3795,7 +4215,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5481",
@@ -3813,7 +4235,9 @@
             "soglia1": 1.1,
             "soglia2": 1.4,
             "soglia3": 1.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3166",
@@ -3831,7 +4255,9 @@
             "soglia1": 15.6,
             "soglia2": 16.5,
             "soglia3": 17
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3153",
@@ -3849,7 +4275,9 @@
             "soglia1": 8.3,
             "soglia2": 10.7,
             "soglia3": 13
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3157",
@@ -3867,7 +4295,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3164",
@@ -3885,7 +4315,9 @@
             "soglia1": 36.5,
             "soglia2": 37.7,
             "soglia3": 38.7
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14028",
@@ -3903,7 +4335,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14623",
@@ -3921,7 +4355,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5370",
@@ -3939,7 +4375,9 @@
             "soglia1": 29.5,
             "soglia2": 32,
             "soglia3": 33.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3152",
@@ -3957,7 +4395,9 @@
             "soglia1": 8.5,
             "soglia2": 11,
             "soglia3": 14
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3154",
@@ -3975,7 +4415,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3155",
@@ -3993,7 +4435,9 @@
             "soglia1": 18,
             "soglia2": 19.3,
             "soglia3": 20
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12715",
@@ -4011,7 +4455,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14029",
@@ -4029,7 +4475,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3156",
@@ -4047,7 +4495,9 @@
             "soglia1": 20,
             "soglia2": 21,
             "soglia3": 22.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5314",
@@ -4065,7 +4515,9 @@
             "soglia1": 23.9,
             "soglia2": 26.5,
             "soglia3": 28.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14625",
@@ -4083,7 +4535,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12847",
@@ -4101,7 +4555,9 @@
             "soglia1": 7,
             "soglia2": 8,
             "soglia3": 9
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12850",
@@ -4119,7 +4575,9 @@
             "soglia1": 4.5,
             "soglia2": 5.5,
             "soglia3": 6.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5313",
@@ -4137,7 +4595,9 @@
             "soglia1": 15,
             "soglia2": 16,
             "soglia3": 18
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3165",
@@ -4155,7 +4615,9 @@
             "soglia1": 37.4,
             "soglia2": 38,
             "soglia3": 39
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12471",
@@ -4167,13 +4629,15 @@
         "longitudine": 11.781212,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14613",
@@ -4191,7 +4655,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12473",
@@ -4203,13 +4669,15 @@
         "longitudine": 11.778812,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12474",
@@ -4221,13 +4689,15 @@
         "longitudine": 11.799164,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53072",
@@ -4245,7 +4715,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12750",
@@ -4263,7 +4735,9 @@
             "soglia1": 3.6,
             "soglia2": 4.6,
             "soglia3": 5.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12467",
@@ -4275,13 +4749,15 @@
         "longitudine": 11.838658,
         "macroarea": "Bacini Romagnoli",
         "comune": "Bagno di Romagna",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 557.3,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12712",
@@ -4299,7 +4775,9 @@
             "soglia1": 0.3,
             "soglia2": 0.8,
             "soglia3": 1.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14373",
@@ -4317,7 +4795,9 @@
             "soglia1": 7,
             "soglia2": 8.5,
             "soglia3": 11.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12765",
@@ -4335,7 +4815,9 @@
             "soglia1": 2.2,
             "soglia2": 3.2,
             "soglia3": 4.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "6561",
@@ -4353,7 +4835,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14755",
@@ -4371,7 +4855,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12753",
@@ -4389,7 +4875,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5387",
@@ -4407,7 +4895,9 @@
             "soglia1": 3.7,
             "soglia2": 4.2,
             "soglia3": 5.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12815",
@@ -4425,7 +4915,9 @@
             "soglia1": 3.5,
             "soglia2": 4.5,
             "soglia3": 5.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3959",
@@ -4443,7 +4935,9 @@
             "soglia1": 3.2,
             "soglia2": 3.9,
             "soglia3": 5.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5421",
@@ -4461,7 +4955,9 @@
             "soglia1": 3,
             "soglia2": 3.8,
             "soglia3": 5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5386",
@@ -4479,7 +4975,9 @@
             "soglia1": 5.8,
             "soglia2": 6.5,
             "soglia3": 7.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5403",
@@ -4497,7 +4995,9 @@
             "soglia1": -0.3,
             "soglia2": 0.9,
             "soglia3": 2.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53130",
@@ -4515,7 +5015,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53131",
@@ -4533,7 +5035,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53132",
@@ -4551,7 +5055,9 @@
             "soglia1": null,
             "soglia2": 3,
             "soglia3": 5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3212",
@@ -4563,13 +5069,15 @@
         "longitudine": 11.905145,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": 0.9,
             "soglia2": 1.5,
             "soglia3": 2.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5473",
@@ -4587,7 +5095,9 @@
             "soglia1": 1,
             "soglia2": 1.8,
             "soglia3": 2.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3103",
@@ -4605,7 +5115,9 @@
             "soglia1": 0.8,
             "soglia2": 1.2,
             "soglia3": 1.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53135",
@@ -4623,7 +5135,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53136",
@@ -4641,7 +5155,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53137",
@@ -4659,7 +5175,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12470",
@@ -4671,13 +5189,15 @@
         "longitudine": 11.820592,
         "macroarea": "Bacini Romagnoli",
         "comune": "Santa Sofia",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3214",
@@ -4695,7 +5215,9 @@
             "soglia1": 2,
             "soglia2": 3.5,
             "soglia3": 4.5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3189",
@@ -4713,7 +5235,9 @@
             "soglia1": 3.5,
             "soglia2": 4.5,
             "soglia3": 6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3204",
@@ -4731,7 +5255,9 @@
             "soglia1": 5,
             "soglia2": 7,
             "soglia3": 9
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12999",
@@ -4749,7 +5275,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5367",
@@ -4767,7 +5295,9 @@
             "soglia1": 11,
             "soglia2": 12,
             "soglia3": 13.8
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5531",
@@ -4785,7 +5315,9 @@
             "soglia1": 1.3,
             "soglia2": 1.8,
             "soglia3": 2.3
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "5489",
@@ -4803,7 +5335,9 @@
             "soglia1": 0.9,
             "soglia2": 1.4,
             "soglia3": 1.6
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "3119",
@@ -4821,7 +5355,9 @@
             "soglia1": 9.7,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "14621",
@@ -4839,7 +5375,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53217",
@@ -4857,7 +5395,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53218",
@@ -4875,7 +5415,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53220",
@@ -4893,7 +5435,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53222",
@@ -4911,7 +5455,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53224",
@@ -4929,7 +5475,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53225",
@@ -4947,7 +5495,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53226",
@@ -4965,7 +5515,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53227",
@@ -4983,7 +5535,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53228",
@@ -5001,7 +5555,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53229",
@@ -5019,7 +5575,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53230",
@@ -5031,13 +5589,15 @@
         "longitudine": 12.00597,
         "macroarea": "Bacini Romagnoli",
         "comune": "Civitella di Romagna",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53231",
@@ -5049,13 +5609,15 @@
         "longitudine": 12.11278,
         "macroarea": "Bacini Romagnoli",
         "comune": "Mercato Saraceno",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53232",
@@ -5067,13 +5629,15 @@
         "longitudine": 12.302748,
         "macroarea": "Costa Ri-Ra-Fc",
         "comune": "Sogliano al Rubicone",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53233",
@@ -5091,7 +5655,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53234",
@@ -5109,7 +5675,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53235",
@@ -5127,7 +5695,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53219",
@@ -5145,7 +5715,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53223",
@@ -5163,7 +5735,9 @@
             "soglia1": null,
             "soglia2": 1.5,
             "soglia3": 2.2
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53237",
@@ -5181,7 +5755,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53236",
@@ -5199,7 +5775,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53037",
@@ -5217,7 +5795,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12480",
@@ -5235,7 +5815,9 @@
             "soglia1": 3,
             "soglia2": 4.5,
             "soglia3": 5
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53238",
@@ -5253,11 +5835,13 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53247",
-        "nome": "Rio Riccò",
+        "nome": "Rio Ricc\u00f2",
         "bacino": "Taro",
         "sottobacino": "Ricco'",
         "altitudine": 142,
@@ -5271,7 +5855,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53248",
@@ -5289,7 +5875,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "53221",
@@ -5307,7 +5895,9 @@
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     },
     {
         "id": "12475",
@@ -5319,12 +5909,14 @@
         "longitudine": 11.748266,
         "macroarea": "Bacini Romagnoli",
         "comune": "Premilcuore",
-        "provincia": "Forlì-Cesena",
+        "provincia": "Forl\u00ec-Cesena",
         "regione": "Emilia-Romagna",
         "soglie": {
             "soglia1": null,
             "soglia2": null,
             "soglia3": null
-        }
+        },
+        "proprietario": "Arpae",
+        "gestore": "Arpae"
     }
 ]
