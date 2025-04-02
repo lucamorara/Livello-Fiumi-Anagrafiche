@@ -241,6 +241,10 @@
             {
                 "data_ora": "2025-04-02T05:30:00Z",
                 "valore": 0.74
+            },
+            {
+                "data_ora": "2025-04-02T06:00:00Z",
+                "valore": null
             }
         ]
     },
@@ -486,6 +490,10 @@
             {
                 "data_ora": "2025-04-02T05:30:00Z",
                 "valore": 334.07
+            },
+            {
+                "data_ora": "2025-04-02T06:00:00Z",
+                "valore": 334.08
             }
         ]
     },
@@ -731,6 +739,10 @@
             {
                 "data_ora": "2025-04-02T05:30:00Z",
                 "valore": 38.6
+            },
+            {
+                "data_ora": "2025-04-02T06:00:00Z",
+                "valore": 38.58
             }
         ]
     },
@@ -975,6 +987,10 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
+                "valore": 37.24
+            },
+            {
+                "data_ora": "2025-04-02T06:00:00Z",
                 "valore": 37.24
             }
         ]
@@ -1710,7 +1726,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 0.98
             }
         ]
     },
@@ -4650,7 +4666,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": -0.26
             }
         ]
     },
@@ -8325,7 +8341,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": -0.85
             }
         ]
     },
@@ -11510,7 +11526,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 0.61
             }
         ]
     },
@@ -13470,7 +13486,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 0.05
             }
         ]
     },
@@ -21065,7 +21081,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 0.76
             }
         ]
     },
@@ -27680,7 +27696,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 2.02
             }
         ]
     },
@@ -32090,7 +32106,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 0.09
             }
         ]
     },
@@ -45075,7 +45091,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 3.44
             }
         ]
     },
@@ -49240,7 +49256,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": -0.19
             }
         ]
     },
@@ -55852,6 +55868,10 @@
             {
                 "data_ora": "2025-04-02T05:00:00Z",
                 "valore": 11.72
+            },
+            {
+                "data_ora": "2025-04-02T05:30:00Z",
+                "valore": 11.73
             }
         ]
     },
@@ -63069,6 +63089,10 @@
             {
                 "data_ora": "2025-04-02T05:00:00Z",
                 "valore": 7.86
+            },
+            {
+                "data_ora": "2025-04-02T05:30:00Z",
+                "valore": 7.85
             }
         ]
     },
@@ -68213,7 +68237,7 @@
             },
             {
                 "data_ora": "2025-04-02T05:30:00Z",
-                "valore": null
+                "valore": 0.09
             }
         ]
     },
@@ -69439,6 +69463,10 @@
             {
                 "data_ora": "2025-04-02T05:30:00Z",
                 "valore": 0.0
+            },
+            {
+                "data_ora": "2025-04-02T06:00:00Z",
+                "valore": 0.0
             }
         ]
     },
@@ -70310,15 +70338,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T00:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T01:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T01:30:00Z",
                 "valore": null
             },
             {
@@ -70326,15 +70346,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T02:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T03:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T03:30:00Z",
                 "valore": null
             },
             {
@@ -70342,15 +70354,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T04:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T05:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T05:30:00Z",
                 "valore": null
             },
             {
@@ -70358,15 +70362,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T06:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T07:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T07:30:00Z",
                 "valore": null
             },
             {
@@ -70374,15 +70370,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T08:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T09:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T09:30:00Z",
                 "valore": null
             },
             {
@@ -70390,15 +70378,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T10:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T11:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T11:30:00Z",
                 "valore": null
             },
             {
@@ -70406,15 +70386,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T12:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T13:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T13:30:00Z",
                 "valore": null
             },
             {
@@ -70422,15 +70394,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T14:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T15:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T15:30:00Z",
                 "valore": null
             },
             {
@@ -70438,15 +70402,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T16:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T17:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T17:30:00Z",
                 "valore": null
             },
             {
@@ -70454,15 +70410,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T18:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T19:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T19:30:00Z",
                 "valore": null
             },
             {
@@ -70470,15 +70418,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T20:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T21:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T21:30:00Z",
                 "valore": null
             },
             {
@@ -70486,11 +70426,99 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T22:30:00Z",
+                "data_ora": "2025-04-01T23:00:00Z",
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T23:00:00Z",
+                "data_ora": "2025-04-01T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T11:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T12:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T13:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T14:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T15:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T16:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T17:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T18:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T19:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T20:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T21:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T22:30:00Z",
                 "valore": null
             },
             {
@@ -70502,15 +70530,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T00:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-02T01:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-02T01:30:00Z",
                 "valore": null
             },
             {
@@ -70518,15 +70538,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T02:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-02T03:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-02T03:30:00Z",
                 "valore": null
             },
             {
@@ -70534,11 +70546,27 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T04:30:00Z",
+                "data_ora": "2025-04-02T05:00:00Z",
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T05:00:00Z",
+                "data_ora": "2025-04-02T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T04:30:00Z",
                 "valore": null
             },
             {
@@ -70555,15 +70583,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T00:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T01:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T01:30:00Z",
                 "valore": null
             },
             {
@@ -70571,15 +70591,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T02:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T03:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T03:30:00Z",
                 "valore": null
             },
             {
@@ -70587,15 +70599,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T04:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T05:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T05:30:00Z",
                 "valore": null
             },
             {
@@ -70603,15 +70607,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T06:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T07:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T07:30:00Z",
                 "valore": null
             },
             {
@@ -70619,15 +70615,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T08:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T09:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T09:30:00Z",
                 "valore": null
             },
             {
@@ -70635,15 +70623,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T10:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T11:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T11:30:00Z",
                 "valore": null
             },
             {
@@ -70651,15 +70631,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T12:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T13:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T13:30:00Z",
                 "valore": null
             },
             {
@@ -70667,15 +70639,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T14:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T15:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T15:30:00Z",
                 "valore": null
             },
             {
@@ -70683,15 +70647,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T16:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T17:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T17:30:00Z",
                 "valore": null
             },
             {
@@ -70699,15 +70655,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T18:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T19:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T19:30:00Z",
                 "valore": null
             },
             {
@@ -70715,15 +70663,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T20:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-01T21:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-01T21:30:00Z",
                 "valore": null
             },
             {
@@ -70731,11 +70671,99 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T22:30:00Z",
+                "data_ora": "2025-04-01T23:00:00Z",
                 "valore": null
             },
             {
-                "data_ora": "2025-04-01T23:00:00Z",
+                "data_ora": "2025-04-01T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T11:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T12:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T13:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T14:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T15:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T16:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T17:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T18:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T19:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T20:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T21:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-01T22:30:00Z",
                 "valore": null
             },
             {
@@ -70747,15 +70775,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T00:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-02T01:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-02T01:30:00Z",
                 "valore": null
             },
             {
@@ -70763,15 +70783,7 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T02:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-04-02T03:00:00Z",
-                "valore": null
-            },
-            {
-                "data_ora": "2025-04-02T03:30:00Z",
                 "valore": null
             },
             {
@@ -70779,11 +70791,27 @@
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T04:30:00Z",
+                "data_ora": "2025-04-02T05:00:00Z",
                 "valore": null
             },
             {
-                "data_ora": "2025-04-02T05:00:00Z",
+                "data_ora": "2025-04-02T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-04-02T04:30:00Z",
                 "valore": null
             },
             {
