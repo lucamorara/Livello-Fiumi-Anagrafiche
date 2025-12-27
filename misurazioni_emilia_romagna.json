@@ -288,7 +288,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.84
             }
         ]
     },
@@ -1460,7 +1460,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 7.63
             }
         ]
     },
@@ -1753,7 +1753,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.79
             }
         ]
     },
@@ -2042,7 +2042,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": -0.13
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -0.12
             }
         ]
     },
@@ -2332,6 +2336,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 7.78
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -2620,7 +2628,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 8.09
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 8.07
             }
         ]
     },
@@ -3491,7 +3503,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.13
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.12
             }
         ]
     },
@@ -3784,7 +3800,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.37
             }
         ]
     },
@@ -4077,7 +4093,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.33
             }
         ]
     },
@@ -4370,7 +4386,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.8
             }
         ]
     },
@@ -4660,6 +4676,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.65
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.66
             }
         ]
     },
@@ -5242,12 +5262,305 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.26
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.26
             }
         ]
     },
     {
         "id": "3184",
-        "dati": []
+        "dati": [
+            {
+                "data_ora": "2025-12-26T00:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T01:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T02:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T03:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T04:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T05:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T06:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T07:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T08:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T09:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T10:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T11:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T11:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T12:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T12:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T13:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T13:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T14:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T14:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T15:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T15:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T16:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T16:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T17:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T17:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T18:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T18:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T19:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T19:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T20:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T20:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T21:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T21:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T22:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T22:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T23:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T23:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T00:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T01:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T02:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T03:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T04:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T05:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T06:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T07:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T08:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T09:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T10:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": -0.19
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -0.2
+            }
+        ]
     },
     {
         "id": "5492",
@@ -5538,7 +5851,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.03
             }
         ]
     },
@@ -5827,7 +6140,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.68
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.69
             }
         ]
     },
@@ -6117,6 +6434,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.05
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.05
             }
         ]
     },
@@ -6405,7 +6726,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 1.56
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.56
             }
         ]
     },
@@ -6698,7 +7023,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.94
             }
         ]
     },
@@ -6987,7 +7312,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 9.86
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 9.86
             }
         ]
     },
@@ -7569,7 +7898,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.16
             }
         ]
     },
@@ -7859,6 +8188,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -0.16
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -0.16
             }
         ]
     },
@@ -8147,7 +8480,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 9.96
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 9.96
             }
         ]
     },
@@ -8437,6 +8774,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 3.13
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -8729,7 +9070,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.36
             }
         ]
     },
@@ -9019,6 +9360,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 3.15
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 3.09
             }
         ]
     },
@@ -9311,7 +9656,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 11.11
             }
         ]
     },
@@ -9604,7 +9949,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": -0.85
             }
         ]
     },
@@ -10757,6 +11102,14 @@
             {
                 "data_ora": "2025-12-27T10:30:00Z",
                 "valore": 3.0
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 2.97
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -11049,7 +11402,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.93
             }
         ]
     },
@@ -11339,6 +11692,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 9.64
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -11627,7 +11984,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 2.63
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 2.62
             }
         ]
     },
@@ -11913,6 +12274,14 @@
             {
                 "data_ora": "2025-12-27T10:30:00Z",
                 "valore": 3.16
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 3.12
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -12201,13 +12570,306 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.74
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.75
             }
         ]
     },
     {
         "id": "3053",
-        "dati": []
+        "dati": [
+            {
+                "data_ora": "2025-12-26T00:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T01:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T02:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T03:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T04:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T05:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T06:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T07:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T08:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T09:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T10:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T11:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T11:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T12:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T12:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T13:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T13:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T14:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T14:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T15:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T15:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T16:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T16:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T17:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T17:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T18:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T18:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T19:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T19:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T20:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T20:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T21:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T21:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T22:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T22:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T23:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T23:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T00:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T01:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T02:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T03:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T04:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T05:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T06:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T07:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T08:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T09:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T10:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.54
+            }
+        ]
     },
     {
         "id": "5342",
@@ -12784,6 +13446,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -1.33
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -13365,7 +14031,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.76
             }
         ]
     },
@@ -14236,7 +14902,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.28
             }
         ]
     },
@@ -14529,7 +15195,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.23
             }
         ]
     },
@@ -14819,6 +15485,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 6.63
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 7.12
             }
         ]
     },
@@ -15107,6 +15777,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 8.37
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -15397,6 +16071,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 6.18
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 6.17
             }
         ]
     },
@@ -15685,7 +16363,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 8.17
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 8.14
             }
         ]
     },
@@ -15974,7 +16656,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 7.46
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 7.42
             }
         ]
     },
@@ -16263,7 +16949,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 7.05
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 7.02
             }
         ]
     },
@@ -16553,6 +17243,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 5.65
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -17130,6 +17824,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 13.49
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -17419,6 +18117,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 13.67
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -18005,7 +18707,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.15
             }
         ]
     },
@@ -18295,6 +18997,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.17
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.16
             }
         ]
     },
@@ -18584,6 +19290,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.05
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -18872,7 +19582,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.24
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.24
             }
         ]
     },
@@ -19162,6 +19876,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.56
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -19460,7 +20178,296 @@
     },
     {
         "id": "3203",
-        "dati": []
+        "dati": [
+            {
+                "data_ora": "2025-12-26T00:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T01:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T02:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T03:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T04:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T05:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T06:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T07:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T08:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T09:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T10:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T11:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T11:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T12:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T12:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T13:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T13:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T14:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T14:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T15:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T15:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T16:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T16:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T17:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T17:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T18:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T18:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T19:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T19:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T20:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T20:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T21:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T21:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T22:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T22:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T23:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-26T23:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T00:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T00:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T01:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T01:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T02:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T02:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T03:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T04:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T04:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T05:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T05:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T06:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T06:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T07:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T07:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T08:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T08:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T09:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T09:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T10:00:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 1.26
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.26
+            }
+        ]
     },
     {
         "id": "3207",
@@ -20329,6 +21336,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.02
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 0.02
             }
         ]
@@ -21201,6 +22212,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.25
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -21489,6 +22504,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.11
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 0.11
             }
         ]
@@ -21782,7 +22801,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.49
             }
         ]
     },
@@ -22075,7 +23094,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.15
             }
         ]
     },
@@ -22364,7 +23383,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.9
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.9
             }
         ]
     },
@@ -22654,6 +23677,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -0.25
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -0.26
             }
         ]
     },
@@ -22942,6 +23969,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.73
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 0.73
             }
         ]
@@ -24054,7 +25085,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": -0.28
             }
         ]
     },
@@ -24344,6 +25375,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -1.73
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -24629,6 +25664,14 @@
             {
                 "data_ora": "2025-12-27T10:30:00Z",
                 "valore": 0.37
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.34
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -24918,6 +25961,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 10.34
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -25210,7 +26257,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.09
             }
         ]
     },
@@ -25500,6 +26547,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.86
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -25789,6 +26840,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 5.77
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -26077,7 +27132,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 1.52
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.51
             }
         ]
     },
@@ -26370,7 +27429,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.74
             }
         ]
     },
@@ -26663,7 +27722,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.29
             }
         ]
     },
@@ -26956,7 +28015,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.11
             }
         ]
     },
@@ -27249,7 +28308,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.08
             }
         ]
     },
@@ -27542,7 +28601,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.01
             }
         ]
     },
@@ -27835,7 +28894,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 2.87
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 2.84
             }
         ]
     },
@@ -28124,7 +29187,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.47
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.47
             }
         ]
     },
@@ -28414,6 +29481,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 9.05
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 9.04
             }
         ]
     },
@@ -28706,7 +29777,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.56
             }
         ]
     },
@@ -28999,7 +30070,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.93
             }
         ]
     },
@@ -29870,7 +30941,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 2.2
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 2.21
             }
         ]
     },
@@ -30163,7 +31238,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.56
             }
         ]
     },
@@ -30742,6 +31817,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.95
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.95
             }
         ]
     },
@@ -31031,6 +32110,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.45
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -31320,6 +32403,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.46
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.46
             }
         ]
     },
@@ -31608,7 +32695,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 9.6
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 9.59
             }
         ]
     },
@@ -31898,6 +32989,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.34
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -32479,7 +33574,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.21
             }
         ]
     },
@@ -33928,7 +35023,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.77
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.76
             }
         ]
     },
@@ -34222,6 +35321,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.5
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -34510,7 +35613,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 1.91
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.89
             }
         ]
     },
@@ -35092,7 +36199,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.11
             }
         ]
     },
@@ -35385,7 +36492,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.48
             }
         ]
     },
@@ -35678,7 +36785,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.47
             }
         ]
     },
@@ -36549,7 +37656,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.54
             }
         ]
     },
@@ -37128,6 +38239,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 66.68
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -37416,7 +38531,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.24
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.24
             }
         ]
     },
@@ -37994,7 +39113,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 5.34
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 5.28
             }
         ]
     },
@@ -38287,7 +39410,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 9.25
             }
         ]
     },
@@ -38869,7 +39992,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 5.95
             }
         ]
     },
@@ -39162,7 +40285,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 8.48
             }
         ]
     },
@@ -39455,7 +40578,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.41
             }
         ]
     },
@@ -40038,6 +41161,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.82
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.81
             }
         ]
     },
@@ -40327,6 +41454,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.19
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.18
             }
         ]
     },
@@ -40897,6 +42028,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -0.3
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -0.29
             }
         ]
     },
@@ -41189,7 +42324,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.15
             }
         ]
     },
@@ -41479,6 +42614,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -0.19
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -42642,7 +43781,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.53
             }
         ]
     },
@@ -42935,7 +44074,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.62
             }
         ]
     },
@@ -43228,7 +44367,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.27
             }
         ]
     },
@@ -43517,6 +44656,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": -0.95
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": -0.95
             }
         ]
@@ -43810,7 +44953,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.67
             }
         ]
     },
@@ -44100,6 +45243,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.82
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -44974,7 +46121,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 17.55
             }
         ]
     },
@@ -45557,6 +46704,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 11.18
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -46138,6 +47289,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.46
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 0.46
             }
         ]
@@ -46721,6 +47876,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.22
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.24
             }
         ]
     },
@@ -47014,6 +48173,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.84
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.84
             }
         ]
     },
@@ -47302,6 +48465,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.59
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 0.59
             }
         ]
@@ -48173,7 +49340,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 7.4
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 7.39
             }
         ]
     },
@@ -48755,7 +49926,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 1.09
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.09
             }
         ]
     },
@@ -49056,55 +50231,27 @@
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-26T00:30:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-26T01:00:00Z",
                 "valore": 0.5
-            },
-            {
-                "data_ora": "2025-12-26T01:30:00Z",
-                "valore": 0.51
             },
             {
                 "data_ora": "2025-12-26T02:00:00Z",
                 "valore": 0.5
             },
             {
-                "data_ora": "2025-12-26T02:30:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-26T03:00:00Z",
                 "valore": 0.52
-            },
-            {
-                "data_ora": "2025-12-26T03:30:00Z",
-                "valore": 0.51
             },
             {
                 "data_ora": "2025-12-26T04:00:00Z",
                 "valore": 0.5
             },
             {
-                "data_ora": "2025-12-26T04:30:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-26T05:00:00Z",
                 "valore": 0.53
             },
             {
-                "data_ora": "2025-12-26T05:30:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-26T06:00:00Z",
-                "valore": 0.51
-            },
-            {
-                "data_ora": "2025-12-26T06:30:00Z",
                 "valore": 0.51
             },
             {
@@ -49112,39 +50259,19 @@
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-26T07:30:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-26T08:00:00Z",
                 "valore": 0.52
-            },
-            {
-                "data_ora": "2025-12-26T08:30:00Z",
-                "valore": 0.51
             },
             {
                 "data_ora": "2025-12-26T09:00:00Z",
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-26T09:30:00Z",
-                "valore": 0.49
-            },
-            {
                 "data_ora": "2025-12-26T10:00:00Z",
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-26T10:30:00Z",
-                "valore": 0.53
-            },
-            {
                 "data_ora": "2025-12-26T11:00:00Z",
-                "valore": 0.52
-            },
-            {
-                "data_ora": "2025-12-26T11:30:00Z",
                 "valore": 0.52
             },
             {
@@ -49152,31 +50279,15 @@
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-26T12:30:00Z",
-                "valore": 0.5
-            },
-            {
                 "data_ora": "2025-12-26T13:00:00Z",
                 "valore": 0.52
-            },
-            {
-                "data_ora": "2025-12-26T13:30:00Z",
-                "valore": 0.54
             },
             {
                 "data_ora": "2025-12-26T14:00:00Z",
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-26T14:30:00Z",
-                "valore": 0.53
-            },
-            {
                 "data_ora": "2025-12-26T15:00:00Z",
-                "valore": 0.53
-            },
-            {
-                "data_ora": "2025-12-26T15:30:00Z",
                 "valore": 0.53
             },
             {
@@ -49184,11 +50295,99 @@
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-26T16:30:00Z",
+                "data_ora": "2025-12-26T17:00:00Z",
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-26T17:00:00Z",
+                "data_ora": "2025-12-26T18:00:00Z",
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-26T19:00:00Z",
+                "valore": 0.52
+            },
+            {
+                "data_ora": "2025-12-26T20:00:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T21:00:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T22:00:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T23:00:00Z",
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-26T00:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T01:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T02:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T03:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T04:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T05:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T06:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T07:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T08:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-26T09:30:00Z",
+                "valore": 0.49
+            },
+            {
+                "data_ora": "2025-12-26T10:30:00Z",
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-26T11:30:00Z",
+                "valore": 0.52
+            },
+            {
+                "data_ora": "2025-12-26T12:30:00Z",
+                "valore": 0.5
+            },
+            {
+                "data_ora": "2025-12-26T13:30:00Z",
+                "valore": 0.54
+            },
+            {
+                "data_ora": "2025-12-26T14:30:00Z",
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-26T15:30:00Z",
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-26T16:30:00Z",
                 "valore": 0.52
             },
             {
@@ -49196,15 +50395,7 @@
                 "valore": 0.5
             },
             {
-                "data_ora": "2025-12-26T18:00:00Z",
-                "valore": 0.53
-            },
-            {
                 "data_ora": "2025-12-26T18:30:00Z",
-                "valore": 0.52
-            },
-            {
-                "data_ora": "2025-12-26T19:00:00Z",
                 "valore": 0.52
             },
             {
@@ -49212,32 +50403,16 @@
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-26T20:00:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-26T20:30:00Z",
                 "valore": 0.52
-            },
-            {
-                "data_ora": "2025-12-26T21:00:00Z",
-                "valore": 0.51
             },
             {
                 "data_ora": "2025-12-26T21:30:00Z",
                 "valore": 0.54
             },
             {
-                "data_ora": "2025-12-26T22:00:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-26T22:30:00Z",
                 "valore": 0.54
-            },
-            {
-                "data_ora": "2025-12-26T23:00:00Z",
-                "valore": 0.53
             },
             {
                 "data_ora": "2025-12-26T23:30:00Z",
@@ -49248,23 +50423,11 @@
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-27T00:30:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-27T01:00:00Z",
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-27T01:30:00Z",
-                "valore": 0.53
-            },
-            {
                 "data_ora": "2025-12-27T02:00:00Z",
-                "valore": 0.51
-            },
-            {
-                "data_ora": "2025-12-27T02:30:00Z",
                 "valore": 0.51
             },
             {
@@ -49272,35 +50435,63 @@
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-27T03:30:00Z",
-                "valore": null
-            },
-            {
                 "data_ora": "2025-12-27T04:00:00Z",
                 "valore": 0.51
-            },
-            {
-                "data_ora": "2025-12-27T04:30:00Z",
-                "valore": 0.52
             },
             {
                 "data_ora": "2025-12-27T05:00:00Z",
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-27T05:30:00Z",
-                "valore": 0.54
-            },
-            {
                 "data_ora": "2025-12-27T06:00:00Z",
                 "valore": 0.51
             },
             {
-                "data_ora": "2025-12-27T06:30:00Z",
+                "data_ora": "2025-12-27T07:00:00Z",
                 "valore": 0.54
             },
             {
-                "data_ora": "2025-12-27T07:00:00Z",
+                "data_ora": "2025-12-27T08:00:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-27T09:00:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-27T10:00:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-27T00:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-27T01:30:00Z",
+                "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-27T02:30:00Z",
+                "valore": 0.51
+            },
+            {
+                "data_ora": "2025-12-27T03:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T04:30:00Z",
+                "valore": 0.52
+            },
+            {
+                "data_ora": "2025-12-27T05:30:00Z",
+                "valore": 0.54
+            },
+            {
+                "data_ora": "2025-12-27T06:30:00Z",
                 "valore": 0.54
             },
             {
@@ -49308,31 +50499,19 @@
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-27T08:00:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-27T08:30:00Z",
                 "valore": 0.52
-            },
-            {
-                "data_ora": "2025-12-27T09:00:00Z",
-                "valore": 0.51
             },
             {
                 "data_ora": "2025-12-27T09:30:00Z",
                 "valore": 0.52
             },
             {
-                "data_ora": "2025-12-27T10:00:00Z",
-                "valore": 0.51
-            },
-            {
                 "data_ora": "2025-12-27T10:30:00Z",
                 "valore": 0.5
             },
             {
-                "data_ora": "2025-12-27T11:00:00Z",
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -50502,6 +51681,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 3.26
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -51080,6 +52263,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 2.95
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -51369,6 +52556,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -2.66
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -2.67
             }
         ]
     },
@@ -51661,7 +52852,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.13
             }
         ]
     },
@@ -51951,6 +53142,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.69
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.72
             }
         ]
     },
@@ -52388,7 +53583,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": -0.01
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.01
             }
         ]
     },
@@ -52967,6 +54166,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.4
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -53545,6 +54748,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.28
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -54412,6 +55619,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -0.16
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -0.16
             }
         ]
     },
@@ -54994,6 +56205,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.71
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -55286,7 +56501,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.82
             }
         ]
     },
@@ -55576,6 +56791,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 7.0
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 6.99
             }
         ]
     },
@@ -55864,6 +57083,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 13.04
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 13.04
             }
         ]
@@ -56447,6 +57670,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 36.29
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 36.3
             }
         ]
     },
@@ -56739,7 +57966,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.29
             }
         ]
     },
@@ -57028,6 +58255,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 14.55
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 14.55
             }
         ]
@@ -57318,6 +58549,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 6.97
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 6.94
             }
         ]
     },
@@ -57607,6 +58842,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 17.53
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 17.52
             }
         ]
     },
@@ -57895,6 +59134,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 32.01
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 32.01
             }
         ]
@@ -58193,6 +59436,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 27.63
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 27.61
             }
         ]
     },
@@ -58482,6 +59729,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 7.41
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 7.36
             }
         ]
     },
@@ -58771,6 +60022,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 16.46
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -59068,6 +60323,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 17.56
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 17.54
             }
         ]
     },
@@ -59083,111 +60342,55 @@
                 "valore": 2.85
             },
             {
-                "data_ora": "2025-12-26T00:30:00Z",
-                "valore": 2.88
-            },
-            {
                 "data_ora": "2025-12-26T01:00:00Z",
                 "valore": 2.92
-            },
-            {
-                "data_ora": "2025-12-26T01:30:00Z",
-                "valore": 2.96
             },
             {
                 "data_ora": "2025-12-26T02:00:00Z",
                 "valore": 2.99
             },
             {
-                "data_ora": "2025-12-26T02:30:00Z",
-                "valore": 3.03
-            },
-            {
                 "data_ora": "2025-12-26T03:00:00Z",
                 "valore": 3.05
-            },
-            {
-                "data_ora": "2025-12-26T03:30:00Z",
-                "valore": 3.08
             },
             {
                 "data_ora": "2025-12-26T04:00:00Z",
                 "valore": 3.1
             },
             {
-                "data_ora": "2025-12-26T04:30:00Z",
-                "valore": 3.13
-            },
-            {
                 "data_ora": "2025-12-26T05:00:00Z",
                 "valore": 3.15
-            },
-            {
-                "data_ora": "2025-12-26T05:30:00Z",
-                "valore": 3.18
             },
             {
                 "data_ora": "2025-12-26T06:00:00Z",
                 "valore": 3.2
             },
             {
-                "data_ora": "2025-12-26T06:30:00Z",
-                "valore": 3.22
-            },
-            {
                 "data_ora": "2025-12-26T07:00:00Z",
                 "valore": 3.25
-            },
-            {
-                "data_ora": "2025-12-26T07:30:00Z",
-                "valore": 3.26
             },
             {
                 "data_ora": "2025-12-26T08:00:00Z",
                 "valore": 3.27
             },
             {
-                "data_ora": "2025-12-26T08:30:00Z",
-                "valore": 3.29
-            },
-            {
                 "data_ora": "2025-12-26T09:00:00Z",
                 "valore": 3.31
-            },
-            {
-                "data_ora": "2025-12-26T09:30:00Z",
-                "valore": 3.33
             },
             {
                 "data_ora": "2025-12-26T10:00:00Z",
                 "valore": 3.35
             },
             {
-                "data_ora": "2025-12-26T10:30:00Z",
-                "valore": 3.37
-            },
-            {
                 "data_ora": "2025-12-26T11:00:00Z",
                 "valore": 3.39
-            },
-            {
-                "data_ora": "2025-12-26T11:30:00Z",
-                "valore": 3.4
             },
             {
                 "data_ora": "2025-12-26T12:00:00Z",
                 "valore": 3.42
             },
             {
-                "data_ora": "2025-12-26T12:30:00Z",
-                "valore": 3.41
-            },
-            {
                 "data_ora": "2025-12-26T13:00:00Z",
-                "valore": 3.45
-            },
-            {
-                "data_ora": "2025-12-26T13:30:00Z",
                 "valore": 3.45
             },
             {
@@ -59195,23 +60398,11 @@
                 "valore": 3.46
             },
             {
-                "data_ora": "2025-12-26T14:30:00Z",
-                "valore": 3.48
-            },
-            {
                 "data_ora": "2025-12-26T15:00:00Z",
                 "valore": 3.49
             },
             {
-                "data_ora": "2025-12-26T15:30:00Z",
-                "valore": 3.5
-            },
-            {
                 "data_ora": "2025-12-26T16:00:00Z",
-                "valore": 3.51
-            },
-            {
-                "data_ora": "2025-12-26T16:30:00Z",
                 "valore": 3.51
             },
             {
@@ -59219,31 +60410,15 @@
                 "valore": 3.5
             },
             {
-                "data_ora": "2025-12-26T17:30:00Z",
-                "valore": 3.51
-            },
-            {
                 "data_ora": "2025-12-26T18:00:00Z",
                 "valore": 3.52
-            },
-            {
-                "data_ora": "2025-12-26T18:30:00Z",
-                "valore": 3.51
             },
             {
                 "data_ora": "2025-12-26T19:00:00Z",
                 "valore": 3.51
             },
             {
-                "data_ora": "2025-12-26T19:30:00Z",
-                "valore": 3.54
-            },
-            {
                 "data_ora": "2025-12-26T20:00:00Z",
-                "valore": 3.51
-            },
-            {
-                "data_ora": "2025-12-26T20:30:00Z",
                 "valore": 3.51
             },
             {
@@ -59251,19 +60426,103 @@
                 "valore": 3.52
             },
             {
-                "data_ora": "2025-12-26T21:30:00Z",
-                "valore": 3.52
-            },
-            {
                 "data_ora": "2025-12-26T22:00:00Z",
                 "valore": 3.53
             },
             {
-                "data_ora": "2025-12-26T22:30:00Z",
+                "data_ora": "2025-12-26T23:00:00Z",
                 "valore": 3.52
             },
             {
-                "data_ora": "2025-12-26T23:00:00Z",
+                "data_ora": "2025-12-26T00:30:00Z",
+                "valore": 2.88
+            },
+            {
+                "data_ora": "2025-12-26T01:30:00Z",
+                "valore": 2.96
+            },
+            {
+                "data_ora": "2025-12-26T02:30:00Z",
+                "valore": 3.03
+            },
+            {
+                "data_ora": "2025-12-26T03:30:00Z",
+                "valore": 3.08
+            },
+            {
+                "data_ora": "2025-12-26T04:30:00Z",
+                "valore": 3.13
+            },
+            {
+                "data_ora": "2025-12-26T05:30:00Z",
+                "valore": 3.18
+            },
+            {
+                "data_ora": "2025-12-26T06:30:00Z",
+                "valore": 3.22
+            },
+            {
+                "data_ora": "2025-12-26T07:30:00Z",
+                "valore": 3.26
+            },
+            {
+                "data_ora": "2025-12-26T08:30:00Z",
+                "valore": 3.29
+            },
+            {
+                "data_ora": "2025-12-26T09:30:00Z",
+                "valore": 3.33
+            },
+            {
+                "data_ora": "2025-12-26T10:30:00Z",
+                "valore": 3.37
+            },
+            {
+                "data_ora": "2025-12-26T11:30:00Z",
+                "valore": 3.4
+            },
+            {
+                "data_ora": "2025-12-26T12:30:00Z",
+                "valore": 3.41
+            },
+            {
+                "data_ora": "2025-12-26T13:30:00Z",
+                "valore": 3.45
+            },
+            {
+                "data_ora": "2025-12-26T14:30:00Z",
+                "valore": 3.48
+            },
+            {
+                "data_ora": "2025-12-26T15:30:00Z",
+                "valore": 3.5
+            },
+            {
+                "data_ora": "2025-12-26T16:30:00Z",
+                "valore": 3.51
+            },
+            {
+                "data_ora": "2025-12-26T17:30:00Z",
+                "valore": 3.51
+            },
+            {
+                "data_ora": "2025-12-26T18:30:00Z",
+                "valore": 3.51
+            },
+            {
+                "data_ora": "2025-12-26T19:30:00Z",
+                "valore": 3.54
+            },
+            {
+                "data_ora": "2025-12-26T20:30:00Z",
+                "valore": 3.51
+            },
+            {
+                "data_ora": "2025-12-26T21:30:00Z",
+                "valore": 3.52
+            },
+            {
+                "data_ora": "2025-12-26T22:30:00Z",
                 "valore": 3.52
             },
             {
@@ -59275,31 +60534,15 @@
                 "valore": 3.51
             },
             {
-                "data_ora": "2025-12-27T00:30:00Z",
-                "valore": 3.5
-            },
-            {
                 "data_ora": "2025-12-27T01:00:00Z",
                 "valore": 3.5
-            },
-            {
-                "data_ora": "2025-12-27T01:30:00Z",
-                "valore": 3.51
             },
             {
                 "data_ora": "2025-12-27T02:00:00Z",
                 "valore": 3.49
             },
             {
-                "data_ora": "2025-12-27T02:30:00Z",
-                "valore": 3.5
-            },
-            {
                 "data_ora": "2025-12-27T03:00:00Z",
-                "valore": 3.48
-            },
-            {
-                "data_ora": "2025-12-27T03:30:00Z",
                 "valore": 3.48
             },
             {
@@ -59307,23 +60550,11 @@
                 "valore": 3.47
             },
             {
-                "data_ora": "2025-12-27T04:30:00Z",
-                "valore": 3.46
-            },
-            {
                 "data_ora": "2025-12-27T05:00:00Z",
                 "valore": 3.46
             },
             {
-                "data_ora": "2025-12-27T05:30:00Z",
-                "valore": 3.44
-            },
-            {
                 "data_ora": "2025-12-27T06:00:00Z",
-                "valore": 3.44
-            },
-            {
-                "data_ora": "2025-12-27T06:30:00Z",
                 "valore": 3.44
             },
             {
@@ -59331,19 +60562,55 @@
                 "valore": 3.42
             },
             {
-                "data_ora": "2025-12-27T07:30:00Z",
-                "valore": 3.4
-            },
-            {
                 "data_ora": "2025-12-27T08:00:00Z",
                 "valore": 3.37
             },
             {
-                "data_ora": "2025-12-27T08:30:00Z",
+                "data_ora": "2025-12-27T09:00:00Z",
                 "valore": 3.36
             },
             {
-                "data_ora": "2025-12-27T09:00:00Z",
+                "data_ora": "2025-12-27T10:00:00Z",
+                "valore": 3.33
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 3.31
+            },
+            {
+                "data_ora": "2025-12-27T00:30:00Z",
+                "valore": 3.5
+            },
+            {
+                "data_ora": "2025-12-27T01:30:00Z",
+                "valore": 3.51
+            },
+            {
+                "data_ora": "2025-12-27T02:30:00Z",
+                "valore": 3.5
+            },
+            {
+                "data_ora": "2025-12-27T03:30:00Z",
+                "valore": 3.48
+            },
+            {
+                "data_ora": "2025-12-27T04:30:00Z",
+                "valore": 3.46
+            },
+            {
+                "data_ora": "2025-12-27T05:30:00Z",
+                "valore": 3.44
+            },
+            {
+                "data_ora": "2025-12-27T06:30:00Z",
+                "valore": 3.44
+            },
+            {
+                "data_ora": "2025-12-27T07:30:00Z",
+                "valore": 3.4
+            },
+            {
+                "data_ora": "2025-12-27T08:30:00Z",
                 "valore": 3.36
             },
             {
@@ -59351,16 +60618,12 @@
                 "valore": 3.34
             },
             {
-                "data_ora": "2025-12-27T10:00:00Z",
-                "valore": 3.33
-            },
-            {
                 "data_ora": "2025-12-27T10:30:00Z",
                 "valore": 3.34
             },
             {
-                "data_ora": "2025-12-27T11:00:00Z",
-                "valore": 3.31
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 3.3
             }
         ]
     },
@@ -59942,6 +61205,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 12.16
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -60232,6 +61499,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 36.21
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 36.21
             }
         ]
     },
@@ -60376,6 +61647,10 @@
             },
             {
                 "data_ora": "2025-12-27T10:00:00Z",
+                "valore": 0.24
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.24
             }
         ]
@@ -60526,6 +61801,10 @@
             {
                 "data_ora": "2025-12-27T10:00:00Z",
                 "valore": 0.22
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.22
             }
         ]
     },
@@ -60671,6 +61950,10 @@
             {
                 "data_ora": "2025-12-27T10:00:00Z",
                 "valore": 0.53
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.53
             }
         ]
     },
@@ -60815,6 +62098,10 @@
             },
             {
                 "data_ora": "2025-12-27T10:00:00Z",
+                "valore": 0.12
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.12
             }
         ]
@@ -61105,6 +62392,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -1.17
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -1.18
             }
         ]
     },
@@ -61348,6 +62639,10 @@
                 "valore": 544.55
             },
             {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 544.57
+            },
+            {
                 "data_ora": "2025-12-27T00:30:00Z",
                 "valore": null
             },
@@ -61389,6 +62684,10 @@
             },
             {
                 "data_ora": "2025-12-27T10:30:00Z",
+                "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -61679,6 +62978,14 @@
             {
                 "data_ora": "2025-12-27T10:30:00Z",
                 "valore": 5.11
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 5.08
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -61968,6 +63275,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": -4.46
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -4.45
             }
         ]
     },
@@ -61979,23 +63290,11 @@
                 "valore": 0.43
             },
             {
-                "data_ora": "2025-12-26T00:30:00Z",
-                "valore": 0.43
-            },
-            {
                 "data_ora": "2025-12-26T01:00:00Z",
                 "valore": 0.42
             },
             {
-                "data_ora": "2025-12-26T01:30:00Z",
-                "valore": 0.41
-            },
-            {
                 "data_ora": "2025-12-26T02:00:00Z",
-                "valore": 0.42
-            },
-            {
-                "data_ora": "2025-12-26T02:30:00Z",
                 "valore": 0.42
             },
             {
@@ -62003,31 +63302,15 @@
                 "valore": 0.41
             },
             {
-                "data_ora": "2025-12-26T03:30:00Z",
-                "valore": 0.41
-            },
-            {
                 "data_ora": "2025-12-26T04:00:00Z",
                 "valore": 0.42
-            },
-            {
-                "data_ora": "2025-12-26T04:30:00Z",
-                "valore": 0.4
             },
             {
                 "data_ora": "2025-12-26T05:00:00Z",
                 "valore": 0.4
             },
             {
-                "data_ora": "2025-12-26T05:30:00Z",
-                "valore": 0.41
-            },
-            {
                 "data_ora": "2025-12-26T06:00:00Z",
-                "valore": 0.39
-            },
-            {
-                "data_ora": "2025-12-26T06:30:00Z",
                 "valore": 0.39
             },
             {
@@ -62035,15 +63318,7 @@
                 "valore": 0.4
             },
             {
-                "data_ora": "2025-12-26T07:30:00Z",
-                "valore": 0.39
-            },
-            {
                 "data_ora": "2025-12-26T08:00:00Z",
-                "valore": 0.39
-            },
-            {
-                "data_ora": "2025-12-26T08:30:00Z",
                 "valore": 0.39
             },
             {
@@ -62051,23 +63326,11 @@
                 "valore": 0.39
             },
             {
-                "data_ora": "2025-12-26T09:30:00Z",
-                "valore": 0.39
-            },
-            {
                 "data_ora": "2025-12-26T10:00:00Z",
                 "valore": 0.39
             },
             {
-                "data_ora": "2025-12-26T10:30:00Z",
-                "valore": 0.38
-            },
-            {
                 "data_ora": "2025-12-26T11:00:00Z",
-                "valore": 0.38
-            },
-            {
-                "data_ora": "2025-12-26T11:30:00Z",
                 "valore": 0.38
             },
             {
@@ -62075,23 +63338,11 @@
                 "valore": 0.38
             },
             {
-                "data_ora": "2025-12-26T12:30:00Z",
-                "valore": 0.38
-            },
-            {
                 "data_ora": "2025-12-26T13:00:00Z",
                 "valore": 0.38
             },
             {
-                "data_ora": "2025-12-26T13:30:00Z",
-                "valore": 0.37
-            },
-            {
                 "data_ora": "2025-12-26T14:00:00Z",
-                "valore": 0.38
-            },
-            {
-                "data_ora": "2025-12-26T14:30:00Z",
                 "valore": 0.38
             },
             {
@@ -62099,31 +63350,15 @@
                 "valore": 0.38
             },
             {
-                "data_ora": "2025-12-26T15:30:00Z",
-                "valore": 0.37
-            },
-            {
                 "data_ora": "2025-12-26T16:00:00Z",
                 "valore": 0.37
-            },
-            {
-                "data_ora": "2025-12-26T16:30:00Z",
-                "valore": 0.36
             },
             {
                 "data_ora": "2025-12-26T17:00:00Z",
                 "valore": 0.37
             },
             {
-                "data_ora": "2025-12-26T17:30:00Z",
-                "valore": 0.36
-            },
-            {
                 "data_ora": "2025-12-26T18:00:00Z",
-                "valore": 0.36
-            },
-            {
-                "data_ora": "2025-12-26T18:30:00Z",
                 "valore": 0.36
             },
             {
@@ -62131,15 +63366,7 @@
                 "valore": 0.37
             },
             {
-                "data_ora": "2025-12-26T19:30:00Z",
-                "valore": 0.35
-            },
-            {
                 "data_ora": "2025-12-26T20:00:00Z",
-                "valore": 0.36
-            },
-            {
-                "data_ora": "2025-12-26T20:30:00Z",
                 "valore": 0.36
             },
             {
@@ -62147,20 +63374,104 @@
                 "valore": 0.35
             },
             {
-                "data_ora": "2025-12-26T21:30:00Z",
-                "valore": 0.36
-            },
-            {
                 "data_ora": "2025-12-26T22:00:00Z",
-                "valore": 0.36
-            },
-            {
-                "data_ora": "2025-12-26T22:30:00Z",
                 "valore": 0.36
             },
             {
                 "data_ora": "2025-12-26T23:00:00Z",
                 "valore": 0.35
+            },
+            {
+                "data_ora": "2025-12-26T00:30:00Z",
+                "valore": 0.43
+            },
+            {
+                "data_ora": "2025-12-26T01:30:00Z",
+                "valore": 0.41
+            },
+            {
+                "data_ora": "2025-12-26T02:30:00Z",
+                "valore": 0.42
+            },
+            {
+                "data_ora": "2025-12-26T03:30:00Z",
+                "valore": 0.41
+            },
+            {
+                "data_ora": "2025-12-26T04:30:00Z",
+                "valore": 0.4
+            },
+            {
+                "data_ora": "2025-12-26T05:30:00Z",
+                "valore": 0.41
+            },
+            {
+                "data_ora": "2025-12-26T06:30:00Z",
+                "valore": 0.39
+            },
+            {
+                "data_ora": "2025-12-26T07:30:00Z",
+                "valore": 0.39
+            },
+            {
+                "data_ora": "2025-12-26T08:30:00Z",
+                "valore": 0.39
+            },
+            {
+                "data_ora": "2025-12-26T09:30:00Z",
+                "valore": 0.39
+            },
+            {
+                "data_ora": "2025-12-26T10:30:00Z",
+                "valore": 0.38
+            },
+            {
+                "data_ora": "2025-12-26T11:30:00Z",
+                "valore": 0.38
+            },
+            {
+                "data_ora": "2025-12-26T12:30:00Z",
+                "valore": 0.38
+            },
+            {
+                "data_ora": "2025-12-26T13:30:00Z",
+                "valore": 0.37
+            },
+            {
+                "data_ora": "2025-12-26T14:30:00Z",
+                "valore": 0.38
+            },
+            {
+                "data_ora": "2025-12-26T15:30:00Z",
+                "valore": 0.37
+            },
+            {
+                "data_ora": "2025-12-26T16:30:00Z",
+                "valore": 0.36
+            },
+            {
+                "data_ora": "2025-12-26T17:30:00Z",
+                "valore": 0.36
+            },
+            {
+                "data_ora": "2025-12-26T18:30:00Z",
+                "valore": 0.36
+            },
+            {
+                "data_ora": "2025-12-26T19:30:00Z",
+                "valore": 0.35
+            },
+            {
+                "data_ora": "2025-12-26T20:30:00Z",
+                "valore": 0.36
+            },
+            {
+                "data_ora": "2025-12-26T21:30:00Z",
+                "valore": 0.36
+            },
+            {
+                "data_ora": "2025-12-26T22:30:00Z",
+                "valore": 0.36
             },
             {
                 "data_ora": "2025-12-26T23:30:00Z",
@@ -62171,15 +63482,7 @@
                 "valore": 0.36
             },
             {
-                "data_ora": "2025-12-27T00:30:00Z",
-                "valore": 0.35
-            },
-            {
                 "data_ora": "2025-12-27T01:00:00Z",
-                "valore": 0.35
-            },
-            {
-                "data_ora": "2025-12-27T01:30:00Z",
                 "valore": 0.35
             },
             {
@@ -62187,15 +63490,7 @@
                 "valore": 0.35
             },
             {
-                "data_ora": "2025-12-27T02:30:00Z",
-                "valore": 0.34
-            },
-            {
                 "data_ora": "2025-12-27T03:00:00Z",
-                "valore": 0.34
-            },
-            {
-                "data_ora": "2025-12-27T03:30:00Z",
                 "valore": 0.34
             },
             {
@@ -62203,23 +63498,11 @@
                 "valore": 0.34
             },
             {
-                "data_ora": "2025-12-27T04:30:00Z",
-                "valore": 0.34
-            },
-            {
                 "data_ora": "2025-12-27T05:00:00Z",
                 "valore": 0.34
             },
             {
-                "data_ora": "2025-12-27T05:30:00Z",
-                "valore": 0.33
-            },
-            {
                 "data_ora": "2025-12-27T06:00:00Z",
-                "valore": 0.34
-            },
-            {
-                "data_ora": "2025-12-27T06:30:00Z",
                 "valore": 0.34
             },
             {
@@ -62227,15 +63510,7 @@
                 "valore": 0.34
             },
             {
-                "data_ora": "2025-12-27T07:30:00Z",
-                "valore": 0.33
-            },
-            {
                 "data_ora": "2025-12-27T08:00:00Z",
-                "valore": 0.33
-            },
-            {
-                "data_ora": "2025-12-27T08:30:00Z",
                 "valore": 0.33
             },
             {
@@ -62243,11 +63518,51 @@
                 "valore": 0.34
             },
             {
-                "data_ora": "2025-12-27T09:30:00Z",
+                "data_ora": "2025-12-27T10:00:00Z",
                 "valore": 0.33
             },
             {
-                "data_ora": "2025-12-27T10:00:00Z",
+                "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 0.33
+            },
+            {
+                "data_ora": "2025-12-27T00:30:00Z",
+                "valore": 0.35
+            },
+            {
+                "data_ora": "2025-12-27T01:30:00Z",
+                "valore": 0.35
+            },
+            {
+                "data_ora": "2025-12-27T02:30:00Z",
+                "valore": 0.34
+            },
+            {
+                "data_ora": "2025-12-27T03:30:00Z",
+                "valore": 0.34
+            },
+            {
+                "data_ora": "2025-12-27T04:30:00Z",
+                "valore": 0.34
+            },
+            {
+                "data_ora": "2025-12-27T05:30:00Z",
+                "valore": 0.33
+            },
+            {
+                "data_ora": "2025-12-27T06:30:00Z",
+                "valore": 0.34
+            },
+            {
+                "data_ora": "2025-12-27T07:30:00Z",
+                "valore": 0.33
+            },
+            {
+                "data_ora": "2025-12-27T08:30:00Z",
+                "valore": 0.33
+            },
+            {
+                "data_ora": "2025-12-27T09:30:00Z",
                 "valore": 0.33
             },
             {
@@ -62255,7 +63570,7 @@
                 "valore": 0.33
             },
             {
-                "data_ora": "2025-12-27T11:00:00Z",
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -64283,7 +65598,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.09
             }
         ]
     },
@@ -64576,7 +65891,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.56
             }
         ]
     },
@@ -64866,6 +66181,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.11
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -65010,6 +66329,10 @@
             },
             {
                 "data_ora": "2025-12-27T10:00:00Z",
+                "valore": 0.57
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.57
             }
         ]
@@ -65299,7 +66622,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": -0.16
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": -0.19
             }
         ]
     },
@@ -65881,7 +67208,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.04
             }
         ]
     },
@@ -66174,7 +67501,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.6
             }
         ]
     },
@@ -66319,6 +67646,10 @@
             },
             {
                 "data_ora": "2025-12-27T10:00:00Z",
+                "valore": 0.05
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.05
             }
         ]
@@ -67483,6 +68814,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 8.54
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": null
             }
         ]
@@ -67776,7 +69111,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.59
             }
         ]
     },
@@ -68069,7 +69404,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.17
             }
         ]
     },
@@ -68362,7 +69697,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 8.01
             }
         ]
     },
@@ -68656,6 +69991,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.43
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.42
             }
         ]
     },
@@ -68948,7 +70287,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 1.06
             }
         ]
     },
@@ -69238,6 +70577,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.71
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.72
             }
         ]
     },
@@ -71277,6 +72620,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 1.89
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 1.87
             }
         ]
     },
@@ -71569,7 +72916,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.66
             }
         ]
     },
@@ -71862,7 +73209,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.82
             }
         ]
     },
@@ -72155,7 +73502,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.03
             }
         ]
     },
@@ -72448,7 +73795,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.19
             }
         ]
     },
@@ -72741,7 +74088,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.42
             }
         ]
     },
@@ -73034,7 +74381,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.11
             }
         ]
     },
@@ -73327,7 +74674,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.39
             }
         ]
     },
@@ -73620,7 +74967,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": -0.03
             }
         ]
     },
@@ -73913,7 +75260,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": -0.03
             }
         ]
     },
@@ -74203,6 +75550,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.52
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.55
             }
         ]
     },
@@ -74788,7 +76139,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 5.35
             }
         ]
     },
@@ -75370,7 +76721,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": -0.05
             }
         ]
     },
@@ -75515,6 +76866,10 @@
             },
             {
                 "data_ora": "2025-12-27T10:00:00Z",
+                "valore": 0.83
+            },
+            {
+                "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 0.83
             }
         ]
@@ -75808,7 +77163,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.32
             }
         ]
     },
@@ -76687,7 +78042,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": -1.11
             }
         ]
     },
@@ -76980,7 +78335,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": -1.26
             }
         ]
     },
@@ -77273,7 +78628,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.99
             }
         ]
     },
@@ -77859,7 +79214,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.24
             }
         ]
     },
@@ -78723,6 +80078,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": null
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": null
             }
         ]
     },
@@ -79015,7 +80374,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.97
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.96
             }
         ]
     },
@@ -79308,7 +80671,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 2.64
             }
         ]
     },
@@ -79598,6 +80961,10 @@
             {
                 "data_ora": "2025-12-27T11:00:00Z",
                 "valore": 5.0
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 4.99
             }
         ]
     },
@@ -79890,7 +81257,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.29
             }
         ]
     },
@@ -80183,7 +81550,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.4
             }
         ]
     },
@@ -80476,7 +81843,7 @@
             },
             {
                 "data_ora": "2025-12-27T11:30:00Z",
-                "valore": null
+                "valore": 0.4
             }
         ]
     },
@@ -80765,7 +82132,11 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
-                "valore": null
+                "valore": 0.7
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
+                "valore": 0.69
             }
         ]
     },
@@ -81054,6 +82425,10 @@
             },
             {
                 "data_ora": "2025-12-27T11:00:00Z",
+                "valore": 5.8
+            },
+            {
+                "data_ora": "2025-12-27T11:30:00Z",
                 "valore": 5.8
             }
         ]
